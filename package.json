@@ -1,0 +1,25 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "circular-json": "^0.5.9",
+    "nodemon": "^2.0.4",
+    "telegraf": "^3.38.0",
+    "telegraf-session-local": "^2.0.0"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "user_db.json"
+    ]
+  }
+}
