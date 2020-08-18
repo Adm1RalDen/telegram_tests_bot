@@ -6,6 +6,9 @@ const Extra = require('telegraf/extra')
 const Markup = require('telegraf/markup')
 const memuItems = require('./tests/Menu.json')
 const requestSubMenu = require('./API/requestSubMenu')
+const buttons = require('./visual/button').createMultiButton
+const subMenuItems = require('./tests/subMenuItems.json')
+const menu = require('./tests/Menu.json')
 
 LocalSession = require('telegraf-session-local')
 
@@ -46,91 +49,16 @@ bot.hears('get next', ctx => {
 
 bot.action(/select_main/, async ctx => {
     const data = JSON.parse(ctx.callbackQuery.data)
-    // console.log('message was catch', data)
-    const selectedMenuItem = memuItems.find(e => e._id === data.p)
-    // console.log(selectedMenuItem)
-    // requestSubMenu(ctx, selectedMenuItem.url.replace(/"/g, ''), data.p)
-    // await ctx.editMessageText("Вибраний пункт меню: " + selectedMenuItem.title)
-    await ctx.deleteMessage()
+    const parenId = data.p
+
+    await ctx.editMessageText("Виберіть Тест:", buttons(subMenuItems[parenId], false))
+    // await ctx.deleteMessage()
     await ctx.answerCbQuery();
 })
 
-// bot.command('onetime', ({ reply }) => // * обична клавіатура замість за варіантами вибору
-//   reply('One time keyboard', Markup
-//     .keyboard(['/simple', '/inline', '/pyramid'])
-//     .oneTime()
-//     .resize()
-//     .extra()
-//   )
-// )
-
-// bot.command('custom', ({ reply }) => { // * кастомна клава, також обична
-//     return reply('Custom buttons keyboard', Markup
-//       .keyboard([
-//         ['🔍 Search', '😎 Popular'], // Row1 with 2 buttons
-//         ['☸ Setting', '📞 Feedback'], // Row2 with 2 buttons
-//         ['📢 Ads', '⭐️ Rate us', '👥 Share'] // Row3 with 3 buttons
-//       ])
-//       .oneTime()
-//       .resize()
-//       .extra()
-//     )
-//   })
-
-
-// bot.command('special', (ctx) => { // ! можна протестити тільки в приватних чатах
-//     return ctx.reply('Special buttons keyboard', Extra.markup((markup) => {
-//       return markup.resize()
-//         .keyboard([
-//           markup.contactRequestButton('Send contact'),
-//           markup.locationRequestButton('Send location')
-//         ])
-//     }))
-//   })
-
-// bot.command('pyramid', (ctx) => { // * обична клава, у розміщенаиу вигялід пірамідки
-//     return ctx.reply('Keyboard wrap', Extra.markup(
-//       Markup.keyboard(['one', 'two', 'three', 'four', 'five', 'six'], {
-//         wrap: (btn, index, currentRow) => currentRow.length >= (index + 1) / 2
-//       })
-//     ))
-//   })
-
-// bot.command('simple', (ctx) => { // * обична клава
-//     return ctx.replyWithHTML('<b>Coke</b> or <i>Pepsi?</i>', Extra.markup(
-//         Markup.keyboard(['Coke', 'Pepsi'])
-//     ))
-// })
-
-// bot.command('inline', (ctx) => { // * інлайфнова клавіатура з текстом 
-//     return ctx.reply('<b>Coke</b> or <i>Pepsi?</i>', Extra.HTML().markup((m) =>
-//         m.inlineKeyboard([
-//             m.callbackButton('Coke', 'Coke'),
-//             m.callbackButton('Pepsi', 'Pepsi')
-//         ])))
-// })
-
-// bot.command('random', (ctx) => {  // * інлайфнова клавіатура з текстом 
-//     return ctx.reply('random example',
-//         Markup.inlineKeyboard([
-//             Markup.callbackButton('Coke', 'Coke'),
-//             Markup.callbackButton('Dr Pepper', 'Dr Pepper', Math.random() > 0.5),
-//             Markup.callbackButton('Pepsi', 'Pepsi')
-//         ]).extra()
-//     )
-// })
-
-// bot.command('caption', (ctx) => { // * інлайнова клавіатура із зображенням та описомя
-//     return ctx.replyWithPhoto({ url: 'https://picsum.photos/200/300/?random' },
-//         Extra.load({ caption: 'Caption' })
-//             .markdown()
-//             .markup((m) =>
-//                 m.inlineKeyboard([
-//                     m.callbackButton('Plain', 'plain'),
-//                     m.callbackButton('Italic', 'italic')
-//                 ])
-//             )
-//     )
-// })
+bot.action(/goToBack/, async ctx => {
+    await ctx.editMessageText('Виберіть Розділ', buttons(menu, true))
+    await ctx.answerCbQuery();
+})
 
 module.exports = { bot }

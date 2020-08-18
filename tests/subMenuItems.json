@@ -1,472 +1,632 @@
 {
-  "75c520dc-8221-43b3-b007-6b2ff2565274": [
-    {
-      "_id": "cd502a1d-9b0c-4da7-b804-5c2040650684",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/178",
-      "title": "Виробництво лікарських засобів в аптеках. Тверді лікарські засоби. Водні та неводні розчини. Водні витяги з рослинної сировини. Розчини ВМС, суспензії, емульсії."
-    },
-    {
-      "_id": "c56ef594-55ed-400b-b52f-99390935b314",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/179",
-      "title": "М‘які ЛЗ. Лікарські форми, що потребують асептичних умов приготування. Несумісності."
-    },
-    {
-      "_id": "537c9ad2-354e-4c93-b164-b773008dae76",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/180",
-      "title": "Виробництво лікарських та косметичних засобів в аптеках. Тверді лікарські та косметичні засоби. Водні та неводні розчини. Водні витяги з рослинної сировини."
-    },
-    {
-      "_id": "0dffaab4-d5dc-439c-b6c1-3404568bb496",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/181",
-      "title": "Менеджмент у фармації. Маркетинг як інтегративна функція менеджменту"
-    },
-    {
-      "_id": "6030be6b-1651-4ff0-bb1e-f5ad03f4c7bd",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/182",
-      "title": "Організація фармацевтичного забезпечення населення"
-    },
-    {
-      "_id": "f6225c4a-98d0-427d-ba96-03cd17523655",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/183",
-      "title": "Системи обліку у фармації"
-    },
-    {
-      "_id": "48154835-a886-402e-bfca-ea628dcade6e",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/184",
-      "title": "Основи економіки у фармації"
-    },
-    {
-      "_id": "f4be6f77-c618-41e7-b9a1-23a7769389d1",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/185",
-      "title": "Промислове виробництво твердих, м‘яких лікарських форм та препаратів під тиском. Сучасні аспекти виробництва ліків."
-    },
-    {
-      "_id": "73ab83a0-d78f-405a-b768-d7ad7e2e8bf7",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/186",
-      "title": "Нормативно-технічна документація у виробництві ЛП. Виробництво екстракційних препаратів та препаратів для парентерального застосування. Спиртометрія."
-    },
-    {
-      "_id": "1291304d-483b-4c8d-b0c1-e7e1924e0fd9",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/187",
-      "title": "Фармацевтичний менеджмент та маркетинг"
-    },
-    {
-      "_id": "0c88fcb2-5c6e-4060-beea-630d6890f77c",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/188",
-      "title": "Біофармація"
-    },
-    {
-      "_id": "a769e1cf-76a5-415f-b074-bac8aec9bb53",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/189",
-      "title": "Маркетинг у фармації"
-    },
-    {
-      "_id": "2d2c5108-d50c-4368-bb72-46a7cc7669ba",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/190",
-      "title": "Фармакоекономіка"
-    },
-    {
-      "_id": "08797f43-9884-4613-b714-61bff0e451c7",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/191",
-      "title": "Анатомія і морфологія вегетативних органів рослин"
-    },
-    {
-      "_id": "94e3e6fd-a162-489f-b998-fde418c576a6",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/192",
-      "title": "Морфологія генеративних органів. Основи систематики, фітоекології і геоботаніки"
-    },
-    {
-      "_id": "7beac9cd-e7d1-4eb4-bae3-e4c0cb4552ca",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/193",
-      "title": "Загальні питання фармакогнозії. Методи фармакогностичного аналізу."
-    },
-    {
-      "_id": "9335954a-c4e3-4956-b9a2-a84922a0e779",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/194",
-      "title": "ЛР і ЛРС, яка містить фенольні сполуки, алкалоїди та різні групи БАР"
-    }
-  ],
-  "ef8b99d2-57b0-4908-bfc4-4c4e24189575": [],
-  "9014f674-e223-4915-b46b-068c61e31e21": [],
-  "03bf6913-127a-4c6e-b1f4-680015c0c1c1": [
-    {
-      "_id": "e8adcb24-449c-4168-bc4f-37d9cdb24171",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/87",
-      "title": "Невідкладна допомога"
-    },
-    {
-      "_id": "7b4f24f0-d8b7-4ba0-b308-f10bca6da1e8",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/88",
-      "title": "Гастроентерологія"
-    },
-    {
-      "_id": "5ae13bf1-769b-4adb-b61f-e798c4601012",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/89",
-      "title": "Гематологія"
-    },
-    {
-      "_id": "ede7bf52-8c6f-4189-baba-8d1d1c60fe27",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/90",
-      "title": "Ендокринологія"
-    },
-    {
-      "_id": "28aab3bc-e84d-42d0-bb7c-804d4202b839",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/91",
-      "title": "Кардіологія"
-    },
-    {
-      "_id": "89a2d2cf-4715-4b9f-b9da-379749ac46bd",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/92",
-      "title": "Нефрологія"
-    },
-    {
-      "_id": "388839a5-0afb-4632-b52a-62d7326ce9d8",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/93",
-      "title": "Пульмонологія"
-    }
-  ],
-  "c3f18bca-988c-466f-b6f8-07f189f21035": [
-    {
-      "_id": "c9d63f70-cc2c-4c25-b9e1-9d1af125a575",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/82",
-      "title": "Загальні питання онкології"
-    },
-    {
-      "_id": "bf6540a8-3df5-4ceb-b522-4b31ca176bfe",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/83",
-      "title": "Загальні питання діагностичної радіології."
-    },
-    {
-      "_id": "a6f13a69-49ac-4443-b1ad-3a64e3e6ae9e",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/84",
-      "title": "Променева діагностика захворювань."
-    },
-    {
-      "_id": "f1dca248-cc09-44ca-b6a1-c044fd23f207",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/85",
-      "title": "Променева терапія."
-    }
-  ],
-  "72ef783d-3877-44e1-b79c-ff81e3696181": [],
-  "5a62fb35-38dc-4f01-b92c-59fb81ed3525": [],
-  "90bcbe5c-1a6e-4792-beab-3c6a31e3fb62": [],
-  "b983d597-54f3-405e-bdd0-f60dac861351": [
-    {
-      "_id": "1351c34f-8731-41c2-b390-a898d70aac36",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/74",
-      "title": "Фізіологічний перебіг вагітності та пологів"
-    },
-    {
-      "_id": "2316df3a-94b2-4144-b26b-6862594124e7",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/75",
-      "title": "Патологічний перебіг вагітності, пологів та післяпологового періоду"
-    }
-  ],
-  "8fc26a0d-c2ab-4002-b5e5-e4921e7a265b": [
-    {
-      "_id": "b5feea48-9d74-454d-b044-ee87fa12fbe9",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/71",
-      "title": "Абдомінальна хірургія"
-    },
-    {
-      "_id": "b9454750-5752-4b0a-b03c-5702d3ebbe3d",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/72",
-      "title": "Торакальна, серцево-судинна, ендокринна хірургія"
-    }
-  ],
-  "17df2d15-7f70-495a-b212-042c5afd6055": [
-    {
-      "_id": "747aca03-497b-4bd3-b5be-9c4ea5932262",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/67",
-      "title": "Дитяча хірургія"
-    }
-  ],
-  "9d28b7d9-ec60-40c5-b94c-f66382abf345": [],
-  "aa6a79fe-ffa1-4084-b98e-6bb28b818b47": [
-    {
-      "_id": "919295e1-2cb0-4330-bf05-1ce6e587725d",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/57",
-      "title": "Догляд за хворими в педіатрії"
-    },
-    {
-      "_id": "bace95a9-0d54-4d62-bda9-3f65235823d1",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/58",
-      "title": "Медсестринська практика в педіатрії"
-    },
-    {
-      "_id": "4cf87e15-79e8-4875-b8df-19aa2a10daea",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/59",
-      "title": "Розвиток дитини (пропедевтика)"
-    },
-    {
-      "_id": "55f05a83-49f1-4683-bfb6-772a6485d098",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/60",
-      "title": "Анатомо-фізіологічні особливості дітей. Методика обстеження та семіотика захворювань у дітей. (пропедевтика)"
-    },
-    {
-      "_id": "4bb8be26-9170-4404-b897-68bad7b69449",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/61",
-      "title": "Вигодовування дітей. (пропедевтика)"
-    },
-    {
-      "_id": "ca14d87a-0f47-4e82-b364-5cfd994fe133",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/62",
-      "title": "Найбільш поширені соматичні захворювання у дітей."
-    },
-    {
-      "_id": "e2b4510e-21ae-41c4-b1ea-1de46fdb134b",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/63",
-      "title": "Неонатологія."
-    },
-    {
-      "_id": "34cbabe1-bc8a-45b3-b00b-281d96b8c7be",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/64",
-      "title": "Хвороби системи крові та ендокринної системи у дітей."
-    },
-    {
-      "_id": "c07b89e3-89fc-4d16-b629-317be6af4ee9",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/65",
-      "title": "Дитячі інфекційні хвороби."
-    },
-    {
-      "_id": "5d85a077-bbae-4fc2-b285-c11c4b78a8b0",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/69",
-      "title": "Дитячі інфекційні хвороби (2 варіант)"
-    }
-  ],
-  "6edb99e1-5041-45a3-b71f-6793ee35633f": [
-    {
-      "_id": "1c726c00-d5a5-4462-bbfc-26d822ccc652",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/55",
-      "title": "Загальна неврологія"
-    }
-  ],
-  "764bd234-63b6-4dfb-bbd1-e070bb701acb": [
-    {
-      "_id": "a44048a6-8c1f-4a43-b7e4-1f7030fb6780",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/52",
-      "title": "Вступ в інфектологію. Інфекційні хвороби з фекально-оральним механізмом передачі. Інфекційні хвороби з краплинним механізмом передачі."
-    },
-    {
-      "_id": "f15aef8f-7175-44fe-b874-3bf847a07937",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/53",
-      "title": "Вірусні гепатити. ВІЛ-інфекція. Інфекційні хвороби з трансмісивним механізмом передачі. Інфекційні хвороби з рановим та множинними механізмами передачі."
-    }
-  ],
-  "5109fde6-5d7e-4300-b753-994e721fcde6": [],
-  "f8ee8d1d-60ad-4898-b65a-b80e8573a862": [],
-  "df0838c8-0870-41ad-bd9e-0a75bab9dabd": [
-    {
-      "_id": "b0564825-8359-47f6-b9ac-eae5b761c198",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/34",
-      "title": "Загальні питання гігієни і екології"
-    }
-  ],
-  "7318d725-4c97-4fc1-b9e7-a8817bd5de7b": [
-    {
-      "_id": "41d51f93-0174-49e2-b069-2b5a399f6e92",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/29",
-      "title": "Лікарська рецептура. Фармакологія засобів, що впливають на нервову систему"
-    },
-    {
-      "_id": "75b7d1fd-a147-4db9-bb15-51b2803ebd56",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/30",
-      "title": "Фармакологія засобів, що впливають на функцію органів і систем. Гормональні, вітамінні, протизапальні, протиалергічні, імунотропні та ферментні лікарські засоби"
-    },
-    {
-      "_id": "bbaae194-2960-4833-b39b-eff237a66c2d",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/31",
-      "title": "Фармакологія протимікробних, проти паразитарних, протипротозойних, протигрибкових, протибластомних лікарських засобів."
-    },
-    {
-      "_id": "cc688912-2a8a-46a8-b488-f06b7de83896",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/32",
-      "title": "Клінічна фармакологія засобів, що впливають на серцево-судинну і дихальну систему"
-    }
-  ],
-  "fe22d4e9-48e8-4a73-be0e-b48139183cbe": [
-    {
-      "_id": "26bf7617-92ea-4a36-b5ec-ce57fa9bb608",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/25",
-      "title": "Біохімія тканин та фізіологічних функцій"
-    },
-    {
-      "_id": "ce049fd2-4d91-4d9a-b097-d13f594be9d3",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/26",
-      "title": "Загальні закономірості метаболізму"
-    },
-    {
-      "_id": "b463afec-0d46-44ac-b5fa-2778ba311346",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/27",
-      "title": "Метаболізм вуглеводів, ліпідів, амінокислот та його регуляція"
-    }
-  ],
-  "d7358df8-6002-4475-bc3b-ceaa5133b214": [
-    {
-      "_id": "398da609-fd4c-4998-b054-2a657bdd96f3",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/77",
-      "title": "Фізреабілітація"
-    }
-  ],
-  "c2b6e7a9-37e7-4bee-b69c-c7821a937084": [
-    {
-      "_id": "89025845-ddf5-488a-b466-24550b6dc5df",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/21",
-      "title": "Нормальна фізіологія: Нейрогуморальна регуляція функцій організму"
-    },
-    {
-      "_id": "84be5c3f-d027-429a-bf1d-641bca685508",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/22",
-      "title": "Нормальна фізіологія: Аналізатори. Вища нервова діяльність. Фізіологія праці."
-    },
-    {
-      "_id": "71855c86-6382-43e0-b32b-bb72d78a7515",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/23",
-      "title": "Нормальна фізіологія: Фізіологія дихання, обміну речовин, терморегуляції, травлення та виділення"
-    },
-    {
-      "_id": "751ee3b5-398a-4f8e-b7e6-d512193603a5",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/24",
-      "title": "Нормальна фізіологія: Фізіологія системи крові і кровообігу"
-    },
-    {
-      "_id": "d8f0ad73-eba7-4674-bb52-f76d4a6832fb",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/36",
-      "title": "Патологічна фізіологія: Загальна патологія"
-    },
-    {
-      "_id": "04059e3b-c210-481a-b2c6-f33225cced28",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/37",
-      "title": "Патологічна фізіологія: Патологічна фізіологія органів та систем"
-    }
-  ],
-  "222d5ac8-15cf-485c-b8e0-7a87ffcc54eb": [
-    {
-      "_id": "cce55024-6d23-44d1-b4f1-f282629dadbb",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/19",
-      "title": "Морфологія, фізіологія мікроорганізмів. Інфекція. Імунітет. Загальна і спеціальна вірусологія."
-    }
-  ],
-  "6522f818-ab8c-45be-b808-a7f6b3a4bc10": [
-    {
-      "_id": "03d48e3c-72b4-42a0-bd9a-d8f27e785b48",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/17",
-      "title": "Біологічні особливості життєдіяльності людини"
-    }
-  ],
-  "9af06413-8894-4c3e-b4f2-94f89bb24122": [],
-  "0aa229b1-158c-4cf9-b5fc-853e0bbda4fd": [
-    {
-      "_id": "7fb5825a-c6e8-4551-bfa1-cbfda34e1103",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/9",
-      "title": "Догляд за хворими, його роль у лікувальному процесі та організація в умовах стаціонару"
-    },
-    {
-      "_id": "ea1cbf8a-99a7-49e9-be14-27dd9e8ceb74",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/10",
-      "title": "ПРОПЕДЕВТИКА Основні методи обстеження хворих у клініці внутрішніх хвороб"
-    },
-    {
-      "_id": "3ac82dd9-7a79-4910-b0b0-43b1aab267a4",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/11",
-      "title": "ПРОПЕДЕВТИКА Симптоми та синдроми при захворюваннях внутрішніх органів"
-    },
-    {
-      "_id": "e16c01cc-8e4a-49b9-b526-7da27e3ac1ff",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/38",
-      "title": "Основи внутрішньої медицини (ендокринологія, гастроентерологія, пульмонологія, гематологія)"
-    },
-    {
-      "_id": "50b65d31-d08b-41e5-b715-8aa2f646c3df",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/39",
-      "title": "Нефрологія"
-    },
-    {
-      "_id": "a2e79b7f-5f9f-48cb-becd-03f5c9576a29",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/40",
-      "title": "Ревматологія"
-    },
-    {
-      "_id": "a76d47a8-ddbb-486c-bfcc-1897c4581df5",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/41",
-      "title": "Кардіологія"
-    },
-    {
-      "_id": "b04c2045-fd4c-4478-bffa-fd9f0e32e69f",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/42",
-      "title": "Військова терапія"
-    },
-    {
-      "_id": "984f411c-d47e-4d8b-b45a-86132261b8cd",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/43",
-      "title": "Ендокринологія"
-    },
-    {
-      "_id": "bd3ad11c-6a73-40f2-b404-b81b3c89bd2e",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/44",
-      "title": "Гастроентерологія"
-    },
-    {
-      "_id": "ad812f3f-84b2-488f-b7ac-114b11b62f10",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/45",
-      "title": "Пульмонологія"
-    },
-    {
-      "_id": "c55f3a2f-d028-4ae6-bb82-8f30f39d0d92",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/46",
-      "title": "Гематологія"
-    }
-  ],
-  "40ea8db7-3787-458f-bdad-6cde51bfe2ef": [
-    {
-      "_id": "70160140-ffeb-443f-bcd7-95692a276d8b",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/7",
-      "title": "Загальні аспекти клінічної лабораторної діагностики"
-    },
-    {
-      "_id": "d46c6a25-a794-4704-bb91-d453e414cbfa",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/8",
-      "title": "Клініко-лабораторні дослідження при захворюваннях основних органів і систем організму"
-    }
-  ],
-  "98df9c60-b630-41aa-be13-cc2c8cfcfae0": [],
-  "9deaf13d-bae8-4b0b-b03f-e1f99f63a4fc": [
-    {
-      "_id": "1e470b1a-335e-4ab7-bd16-83e50fcb30fc",
-      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/13",
-      "title": "Основи цитології, загальної ембріології та загальної гістології"
-    }
-  ],
   "e25bf2e2-44b6-4a90-b88b-69b0dd865bcf": [
     {
-      "_id": "12663b8d-e6c6-48f0-b338-04f13989e8eb",
+      "_id": "b76bc09d-b647-4469-b1b7-f7da272d7934",
       "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/1",
       "title": "Нормальна анатомія: Анатомія опорно-рухового апарату"
     },
     {
-      "_id": "82839da3-9ad7-4f14-b209-3dd070623b63",
+      "_id": "ee17f45a-ecda-4408-b894-4b2dba3b872b",
       "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/2",
       "title": "Нормальна анатомія: Спланхнологія. Центральна нервова система та органи чуття. Судини"
     },
     {
-      "_id": "63f3e85d-1d31-4d13-bcd9-778da6875149",
+      "_id": "11cb2c9a-9971-4194-b15f-b19b390ba405",
       "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/3",
       "title": "Нормальна анатомія: Судини і нерви тулуба та кінцівок"
     },
     {
-      "_id": "c1d49ad6-836a-4225-b21c-0a4c99843281",
+      "_id": "c129d9cc-739c-4622-b9cc-6aec283cf0ca",
       "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/4",
       "title": "Патологічна анатомія: Загальна патоморфологія"
     },
     {
-      "_id": "ee501741-b1f5-47b2-bd12-bf4243c106af",
+      "_id": "d1118594-36be-4882-b714-749f6afca38c",
       "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/5",
       "title": "Патологічна анатомія: Спеціальна патоморфологія"
     },
     {
-      "_id": "01953abe-b18c-424a-b5eb-f5af39504c4c",
+      "_id": "782b76be-bc0e-46aa-bd48-e8a0bd8a7f10",
       "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/15",
       "title": "Топографічна анатомія: Вступ. Оперативна хірургія та топографічна анатомія голови та шиї, ділянок і органів грудної порожнини, порожнини живота"
+    },
+    {
+      "_id": "82509443-5d1b-49f2-b3a8-e1c755b36e35",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/16",
+      "title": "Топографічна анатомія: Оперативна хірургія та топографічна анатомія поперекової ділянки та заочеревинного простора; таза, органів таза; промежини; верхніх та нижніх кінцівок."
+    }
+  ],
+  "9deaf13d-bae8-4b0b-b03f-e1f99f63a4fc": [
+    {
+      "_id": "5798bf32-a52f-4f52-b241-2cae2ac7681a",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/13",
+      "title": "Основи цитології, загальної ембріології та загальної гістології"
+    },
+    {
+      "_id": "b4f4b32c-0247-4559-bc49-825ac11a8388",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/14",
+      "title": "Спеціальна гістологія та ембріологія"
+    }
+  ],
+  "98df9c60-b630-41aa-be13-cc2c8cfcfae0": [
+    {
+      "_id": "d51e025b-721c-42c2-b6f8-f674fb8fbac7",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/6",
+      "title": "Організація судово-медичної експертизи"
+    }
+  ],
+  "40ea8db7-3787-458f-bdad-6cde51bfe2ef": [
+    {
+      "_id": "aae93e8f-dca2-459d-b394-e8ce4a520485",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/7",
+      "title": "Загальні аспекти клінічної лабораторної діагностики"
+    },
+    {
+      "_id": "b9ab6c5d-89e4-4a96-b12e-5eac1e144364",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/8",
+      "title": "Клініко-лабораторні дослідження при захворюваннях основних органів і систем організму"
+    },
+    {
+      "_id": "d8aee9b8-860a-4074-bbd6-d1e7a3cbc267",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/49",
+      "title": "Основні методи функціональної діагностики (ендокринологія, гастроентерологія)"
+    }
+  ],
+  "0aa229b1-158c-4cf9-b5fc-853e0bbda4fd": [
+    {
+      "_id": "41173222-277a-4852-bc47-6bce13edb5d3",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/9",
+      "title": "Догляд за хворими, його роль у лікувальному процесі та організація в умовах стаціонару"
+    },
+    {
+      "_id": "5451a7d7-cf7c-4cfa-beb4-a0f9348904c7",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/10",
+      "title": "ПРОПЕДЕВТИКА Основні методи обстеження хворих у клініці внутрішніх хвороб"
+    },
+    {
+      "_id": "c8025c81-fbc5-46d0-b446-f2eb0aabb686",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/11",
+      "title": "ПРОПЕДЕВТИКА Симптоми та синдроми при захворюваннях внутрішніх органів"
+    },
+    {
+      "_id": "98549733-7fe9-4e2a-b8c8-82dd0a0b512d",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/38",
+      "title": "Основи внутрішньої медицини (ендокринологія, гастроентерологія, пульмонологія, гематологія)"
+    },
+    {
+      "_id": "08e4982c-a582-4c4e-bf65-1611ff76877c",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/39",
+      "title": "Нефрологія"
+    },
+    {
+      "_id": "d74353ca-af97-4e00-b157-23409f05be6d",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/40",
+      "title": "Ревматологія"
+    },
+    {
+      "_id": "513ce92a-9ff9-4e05-be2d-7ef0c8b3aa42",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/41",
+      "title": "Кардіологія"
+    },
+    {
+      "_id": "c30dd276-87ac-4862-bc16-ac168c33b298",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/42",
+      "title": "Військова терапія"
+    },
+    {
+      "_id": "dee7b9c2-2b8a-44ef-b759-1fd555fa913c",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/43",
+      "title": "Ендокринологія"
+    },
+    {
+      "_id": "713e3fd4-2729-49f4-bb06-65747dcbcbb2",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/44",
+      "title": "Гастроентерологія"
+    },
+    {
+      "_id": "4e166a21-353e-46d7-b663-c879ff7ba2d1",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/45",
+      "title": "Пульмонологія"
+    },
+    {
+      "_id": "f8b72cd2-9437-4163-bd8c-f8a699a0a8ae",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/46",
+      "title": "Гематологія"
+    },
+    {
+      "_id": "4ee90d64-19e5-43da-b34a-ef15e2ed2a8f",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/47",
+      "title": "Фізіотерапія"
+    }
+  ],
+  "9af06413-8894-4c3e-b4f2-94f89bb24122": [
+    {
+      "_id": "e4b3cab0-777e-4a9a-b4e6-3a102ec64ea8",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/12",
+      "title": "Фтизіатрія"
+    }
+  ],
+  "6522f818-ab8c-45be-b808-a7f6b3a4bc10": [
+    {
+      "_id": "52f1ad4e-37c3-446f-b709-6de27a4da8ff",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/17",
+      "title": "Біологічні особливості життєдіяльності людини"
+    },
+    {
+      "_id": "13a27f00-d47d-412a-b5cb-ed4adc422e16",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/18",
+      "title": "Організмовий рівень організації життя. Основи генетики людини"
+    }
+  ],
+  "222d5ac8-15cf-485c-b8e0-7a87ffcc54eb": [
+    {
+      "_id": "e3ae873d-5805-4f87-bca5-415cd977a7da",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/19",
+      "title": "Морфологія, фізіологія мікроорганізмів. Інфекція. Імунітет. Загальна і спеціальна вірусологія."
+    },
+    {
+      "_id": "d9e0dfe8-cc18-47a2-b31e-cca31df69595",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/20",
+      "title": "Спеціальна, клінічна та екологічна мікробіологія."
+    }
+  ],
+  "c2b6e7a9-37e7-4bee-b69c-c7821a937084": [
+    {
+      "_id": "30d67ee2-530d-4125-b416-68c93caecb68",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/21",
+      "title": "Нормальна фізіологія: Нейрогуморальна регуляція функцій організму"
+    },
+    {
+      "_id": "83e6b8e6-9cc7-4aba-bc86-8ea4f8dd5c5b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/22",
+      "title": "Нормальна фізіологія: Аналізатори. Вища нервова діяльність. Фізіологія праці."
+    },
+    {
+      "_id": "e0296a51-bd16-4144-bb2a-cf34f0bfd4f8",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/23",
+      "title": "Нормальна фізіологія: Фізіологія дихання, обміну речовин, терморегуляції, травлення та виділення"
+    },
+    {
+      "_id": "c98c08b7-86f4-4362-b696-6348d419c3e1",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/24",
+      "title": "Нормальна фізіологія: Фізіологія системи крові і кровообігу"
+    },
+    {
+      "_id": "9e3d3966-94fa-4769-b8c0-cc7d6388f682",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/36",
+      "title": "Патологічна фізіологія: Загальна патологія"
+    },
+    {
+      "_id": "fe6901fc-d456-40d2-b6ff-dc18430473dd",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/37",
+      "title": "Патологічна фізіологія: Патологічна фізіологія органів та систем"
+    },
+    {
+      "_id": "0dce93bb-ce4c-4a10-b846-dbf0aef2b991",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/50",
+      "title": "Клінічна патофізіологія"
+    }
+  ],
+  "d7358df8-6002-4475-bc3b-ceaa5133b214": [
+    {
+      "_id": "111fb519-4f02-4469-bfb0-4707f43c30a9",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/77",
+      "title": "Фізреабілітація"
+    },
+    {
+      "_id": "0cddf150-a04f-4451-b926-3979ba16258a",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/78",
+      "title": "Фізична реабілітація та спортивна медицина"
+    }
+  ],
+  "fe22d4e9-48e8-4a73-be0e-b48139183cbe": [
+    {
+      "_id": "54f4dcf4-0ab4-49bb-b1bf-818dd1a54362",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/25",
+      "title": "Біохімія тканин та фізіологічних функцій"
+    },
+    {
+      "_id": "6189b0cc-21d4-4317-bf53-dd739877b4e2",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/26",
+      "title": "Загальні закономірості метаболізму"
+    },
+    {
+      "_id": "e0ed2a7a-ae49-4f8e-b47a-ff4efef96762",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/27",
+      "title": "Метаболізм вуглеводів, ліпідів, амінокислот та його регуляція"
+    },
+    {
+      "_id": "02966226-28d7-4b8a-b033-c7f80c79c0f4",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/28",
+      "title": "Молекулярна біологія"
+    }
+  ],
+  "7318d725-4c97-4fc1-b9e7-a8817bd5de7b": [
+    {
+      "_id": "1ee73cd2-0b2d-4e9e-bf3b-b890f2f4fb43",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/29",
+      "title": "Лікарська рецептура. Фармакологія засобів, що впливають на нервову систему"
+    },
+    {
+      "_id": "e4ac476c-2e43-446b-b8f4-39188b6318be",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/30",
+      "title": "Фармакологія засобів, що впливають на функцію органів і систем. Гормональні, вітамінні, протизапальні, протиалергічні, імунотропні та ферментні лікарські засоби"
+    },
+    {
+      "_id": "962ed217-34c9-4f10-b61d-b3e6bd3fce28",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/31",
+      "title": "Фармакологія протимікробних, проти паразитарних, протипротозойних, протигрибкових, протибластомних лікарських засобів."
+    },
+    {
+      "_id": "8b5904cc-ce64-45e5-baaa-ad55b0b9acc7",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/32",
+      "title": "Клінічна фармакологія засобів, що впливають на серцево-судинну і дихальну систему"
+    },
+    {
+      "_id": "1e8388e9-5d24-49b1-b359-2fce224d2c83",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/33",
+      "title": "Клінічна фармакологія антибактеріальних, нестероїдних і стероїдних протизапальних засобів. Клінічна фармакологія засобів, що впливають на ЦНС та ШКТ"
+    }
+  ],
+  "df0838c8-0870-41ad-bd9e-0a75bab9dabd": [
+    {
+      "_id": "035b7845-184c-41b8-be69-21d0b4ee8995",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/34",
+      "title": "Загальні питання гігієни і екології"
+    },
+    {
+      "_id": "6c9a27da-271a-4355-bdb3-ba84d76d023e",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/35",
+      "title": "Спеціальні питання гігієни і екології"
+    }
+  ],
+  "f8ee8d1d-60ad-4898-b65a-b80e8573a862": [
+    {
+      "_id": "c7fa0b2a-c783-4095-b01f-30646354c623",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/48",
+      "title": "Загальні питання профпатології. Професійні захворювання, викликані впливом промислових аерозолів і фізичних та хімічних факторів."
+    }
+  ],
+  "5109fde6-5d7e-4300-b753-994e721fcde6": [
+    {
+      "_id": "81af5a31-b44d-49ea-b4e7-49194822349b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/51",
+      "title": "Дерматовенерологія"
+    }
+  ],
+  "764bd234-63b6-4dfb-bbd1-e070bb701acb": [
+    {
+      "_id": "117fed23-e123-445c-b5d1-2caf400c70b5",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/52",
+      "title": "Вступ в інфектологію. Інфекційні хвороби з фекально-оральним механізмом передачі. Інфекційні хвороби з краплинним механізмом передачі."
+    },
+    {
+      "_id": "fd7d2421-a519-4436-bc55-564c41ce0841",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/53",
+      "title": "Вірусні гепатити. ВІЛ-інфекція. Інфекційні хвороби з трансмісивним механізмом передачі. Інфекційні хвороби з рановим та множинними механізмами передачі."
+    },
+    {
+      "_id": "2b1a1482-c480-45aa-bec5-a147bf1900c2",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/54",
+      "title": "Епідеміологія"
+    }
+  ],
+  "6edb99e1-5041-45a3-b71f-6793ee35633f": [
+    {
+      "_id": "79c95cca-3a47-4f6c-b9e2-8fd9a67bc0cd",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/55",
+      "title": "Загальна неврологія"
+    },
+    {
+      "_id": "22282c5d-6742-437c-beff-69debeba34f9",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/56",
+      "title": "Спеціальна неврологія"
+    }
+  ],
+  "aa6a79fe-ffa1-4084-b98e-6bb28b818b47": [
+    {
+      "_id": "c021434d-7626-4995-b584-8c93e04afb16",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/57",
+      "title": "Догляд за хворими в педіатрії"
+    },
+    {
+      "_id": "eb40f679-e940-4d9c-b4e7-03ee575b0ae0",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/58",
+      "title": "Медсестринська практика в педіатрії"
+    },
+    {
+      "_id": "b338a772-3cf4-485f-bec7-e376d4df4fc3",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/59",
+      "title": "Розвиток дитини (пропедевтика)"
+    },
+    {
+      "_id": "ce7737de-5c06-4b3f-ba98-c74dfc85266f",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/60",
+      "title": "Анатомо-фізіологічні особливості дітей. Методика обстеження та семіотика захворювань у дітей. (пропедевтика)"
+    },
+    {
+      "_id": "0ef92815-8800-45b4-b1a6-489023267678",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/61",
+      "title": "Вигодовування дітей. (пропедевтика)"
+    },
+    {
+      "_id": "d1f7b4fa-ad28-4e03-b0ed-f7bcae5c4ab5",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/62",
+      "title": "Найбільш поширені соматичні захворювання у дітей."
+    },
+    {
+      "_id": "15d0221a-a8fe-4c65-ba12-4e6661e2a92e",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/63",
+      "title": "Неонатологія."
+    },
+    {
+      "_id": "262ef609-5deb-4423-b170-0d0052ae350b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/64",
+      "title": "Хвороби системи крові та ендокринної системи у дітей."
+    },
+    {
+      "_id": "92367fab-1ff0-450a-b0c1-01e38f8d9d5b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/65",
+      "title": "Дитячі інфекційні хвороби."
+    },
+    {
+      "_id": "261230be-ae73-4477-ba30-d93c5046ac9b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/69",
+      "title": "Дитячі інфекційні хвороби (2 варіант)"
+    },
+    {
+      "_id": "0e974978-093b-4b0a-b274-7b9a8579c9ff",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/70",
+      "title": "Загальні питання педіатрії"
+    }
+  ],
+  "9d28b7d9-ec60-40c5-b94c-f66382abf345": [
+    {
+      "_id": "42115a34-2f77-4b6b-bd5a-88f3ffefde3f",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/66",
+      "title": "Медична генетика"
+    }
+  ],
+  "17df2d15-7f70-495a-b212-042c5afd6055": [
+    {
+      "_id": "82b87c7a-bd55-4a52-b481-c538bb32a860",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/67",
+      "title": "Дитяча хірургія"
+    },
+    {
+      "_id": "92b4d448-bbbe-4f61-b6cd-6637e419bade",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/68",
+      "title": "Вроджені вади розвитку"
+    }
+  ],
+  "8fc26a0d-c2ab-4002-b5e5-e4921e7a265b": [
+    {
+      "_id": "e7fb7b71-b4ae-4e51-b95d-408ea9cc10fb",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/71",
+      "title": "Абдомінальна хірургія"
+    },
+    {
+      "_id": "8d4c6e21-c6da-4a52-bf05-0a3c6fffa097",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/72",
+      "title": "Торакальна, серцево-судинна, ендокринна хірургія"
+    },
+    {
+      "_id": "21037734-e157-471a-bed1-443f8350603d",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/73",
+      "title": "Симптоми та синдроми в хірургії"
+    }
+  ],
+  "b983d597-54f3-405e-bdd0-f60dac861351": [
+    {
+      "_id": "465bd551-1ffe-4554-be84-4321195e1bf3",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/74",
+      "title": "Фізіологічний перебіг вагітності та пологів"
+    },
+    {
+      "_id": "c52be5a9-ff56-4128-b421-497a4cc956c6",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/75",
+      "title": "Патологічний перебіг вагітності, пологів та післяпологового періоду"
+    },
+    {
+      "_id": "5e90b5b0-2403-44c5-bb3f-93b78cfac4c5",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/76",
+      "title": "Захворювання жіночої репродуктивної системи. Планування сім’ї"
+    }
+  ],
+  "90bcbe5c-1a6e-4792-beab-3c6a31e3fb62": [
+    {
+      "_id": "567dabe0-1d0a-4388-b56b-d4170a0694a1",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/79",
+      "title": "Отоларингологія"
+    }
+  ],
+  "5a62fb35-38dc-4f01-b92c-59fb81ed3525": [
+    {
+      "_id": "d4c40c88-4543-4f85-b539-455dc9591ea8",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/80",
+      "title": "Загальні питання офтальмології"
+    }
+  ],
+  "72ef783d-3877-44e1-b79c-ff81e3696181": [
+    {
+      "_id": "5ce02b5b-9000-4306-b96e-df17e6040e3f",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/81",
+      "title": "Загальні питання нейрохірургії"
+    }
+  ],
+  "c3f18bca-988c-466f-b6f8-07f189f21035": [
+    {
+      "_id": "951f78c1-bbb1-464c-b83e-9d4d1b6897ce",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/82",
+      "title": "Загальні питання онкології"
+    },
+    {
+      "_id": "131b2f1f-3411-4fa2-b42b-7f7686f522ca",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/83",
+      "title": "Загальні питання діагностичної радіології."
+    },
+    {
+      "_id": "93d3afce-2330-487e-b8d6-e6dc96277843",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/84",
+      "title": "Променева діагностика захворювань."
+    },
+    {
+      "_id": "63ece233-caec-4b11-bb78-1bb100d55196",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/85",
+      "title": "Променева терапія."
+    },
+    {
+      "_id": "7f7227cb-fe61-4b7c-b43f-9480c214e892",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/86",
+      "title": "Загальні питання радіаційної медицини."
+    }
+  ],
+  "03bf6913-127a-4c6e-b1f4-680015c0c1c1": [
+    {
+      "_id": "4fe864dd-4e8b-487c-bf3b-76f6810c296b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/87",
+      "title": "Невідкладна допомога"
+    },
+    {
+      "_id": "f9a53024-7f0d-4322-b383-676ac5983c93",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/88",
+      "title": "Гастроентерологія"
+    },
+    {
+      "_id": "ae13d4e1-92dd-4287-b784-b0b344b7c11a",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/89",
+      "title": "Гематологія"
+    },
+    {
+      "_id": "ce5fb145-dbea-42f3-b9f3-3f7496d483b3",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/90",
+      "title": "Ендокринологія"
+    },
+    {
+      "_id": "43243094-b2e9-46d3-b81d-519eb06e815d",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/91",
+      "title": "Кардіологія"
+    },
+    {
+      "_id": "9a036606-03cd-4d17-b1a3-7bb84fef933f",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/92",
+      "title": "Нефрологія"
+    },
+    {
+      "_id": "981f5ec5-7156-46eb-ba56-3005991f5b29",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/93",
+      "title": "Пульмонологія"
+    },
+    {
+      "_id": "f7aeab74-0a6d-40fc-bd9f-906fb362d5e4",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/94",
+      "title": "Ревматологія"
+    }
+  ],
+  "9014f674-e223-4915-b46b-068c61e31e21": [
+    {
+      "_id": "16d9e073-d25c-47c5-b338-2dea57928a43",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/95",
+      "title": "Вступні тести"
+    }
+  ],
+  "ef8b99d2-57b0-4908-bfc4-4c4e24189575": [
+    {
+      "_id": "d33ff514-d453-484c-b459-28a0fefd0e19",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/96",
+      "title": "ЛІТНЯ ПРАКТИКА"
+    }
+  ],
+  "75c520dc-8221-43b3-b007-6b2ff2565274": [
+    {
+      "_id": "af97dfb2-e926-472d-b2da-c8fd4caeafce",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/178",
+      "title": "Виробництво лікарських засобів в аптеках. Тверді лікарські засоби. Водні та неводні розчини. Водні витяги з рослинної сировини. Розчини ВМС, суспензії, емульсії."
+    },
+    {
+      "_id": "1615d837-3096-4e94-bb18-a16b67554a66",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/179",
+      "title": "М‘які ЛЗ. Лікарські форми, що потребують асептичних умов приготування. Несумісності."
+    },
+    {
+      "_id": "076f3b21-ce39-489f-bb4d-620e59f5ac86",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/180",
+      "title": "Виробництво лікарських та косметичних засобів в аптеках. Тверді лікарські та косметичні засоби. Водні та неводні розчини. Водні витяги з рослинної сировини."
+    },
+    {
+      "_id": "e790ec24-0336-48f8-b659-8f6d323839d3",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/181",
+      "title": "Менеджмент у фармації. Маркетинг як інтегративна функція менеджменту"
+    },
+    {
+      "_id": "73770b02-5b33-4bf4-be40-0c84d3bba040",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/182",
+      "title": "Організація фармацевтичного забезпечення населення"
+    },
+    {
+      "_id": "f05c66c1-441f-4f28-be14-aae27f3b9f4a",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/183",
+      "title": "Системи обліку у фармації"
+    },
+    {
+      "_id": "982e9482-b852-4520-bce3-95754b3cc14a",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/184",
+      "title": "Основи економіки у фармації"
+    },
+    {
+      "_id": "0d81f2bf-5f93-450c-bc09-ea75ddc530a3",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/185",
+      "title": "Промислове виробництво твердих, м‘яких лікарських форм та препаратів під тиском. Сучасні аспекти виробництва ліків."
+    },
+    {
+      "_id": "6992208f-a43c-43bd-b57c-4dc6827188fb",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/186",
+      "title": "Нормативно-технічна документація у виробництві ЛП. Виробництво екстракційних препаратів та препаратів для парентерального застосування. Спиртометрія."
+    },
+    {
+      "_id": "56bc2754-53f4-4d39-b646-b902f1ff8556",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/187",
+      "title": "Фармацевтичний менеджмент та маркетинг"
+    },
+    {
+      "_id": "e4d0246c-d9e3-40e8-b5c1-f96b749ce428",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/188",
+      "title": "Біофармація"
+    },
+    {
+      "_id": "4535b10c-32be-4492-b60f-e2d0fda0b0e4",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/189",
+      "title": "Маркетинг у фармації"
+    },
+    {
+      "_id": "3fcb6972-069f-4bd0-bd81-2ddae29a903a",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/190",
+      "title": "Фармакоекономіка"
+    },
+    {
+      "_id": "b5830038-cf91-43e2-ba6d-33a0f4a1050b",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/191",
+      "title": "Анатомія і морфологія вегетативних органів рослин"
+    },
+    {
+      "_id": "fa5e2a20-2151-4efc-b2cd-56579242e2bb",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/192",
+      "title": "Морфологія генеративних органів. Основи систематики, фітоекології і геоботаніки"
+    },
+    {
+      "_id": "7a321cd9-5144-4dab-b2cc-f10d7b5dea03",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/193",
+      "title": "Загальні питання фармакогнозії. Методи фармакогностичного аналізу."
+    },
+    {
+      "_id": "c0321522-4fed-4eda-b954-31d7614494f8",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/194",
+      "title": "ЛР і ЛРС, яка містить фенольні сполуки, алкалоїди та різні групи БАР"
+    },
+    {
+      "_id": "74b5a4dc-479b-4432-bd83-afd331902ffa",
+      "href": "https://xn--80adi8aaufcj8j.xn--j1amh/testbase/base/195",
+      "title": "Основні принципи і поняття ресурсознавства лікарських рослин. Методи визначення запасів ЛР"
     }
   ]
 }
