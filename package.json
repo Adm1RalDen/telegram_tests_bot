@@ -19,7 +19,8 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "user_db.json"
+      "user_db.json",
+      "tests/*"
     ]
   }
 }

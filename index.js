@@ -49,9 +49,9 @@ bot.action(/select_main/, async ctx => {
     // console.log('message was catch', data)
     const selectedMenuItem = memuItems.find(e => e._id === data.p)
     // console.log(selectedMenuItem)
-    requestSubMenu(ctx, selectedMenuItem.url.replace(/"/g, ''))
-    await ctx.editMessageText("Вибраний пункт меню: " + selectedMenuItem.title)
-    // await ctx.deleteMessage()
+    // requestSubMenu(ctx, selectedMenuItem.url.replace(/"/g, ''), data.p)
+    // await ctx.editMessageText("Вибраний пункт меню: " + selectedMenuItem.title)
+    await ctx.deleteMessage()
     await ctx.answerCbQuery();
 })
 
