@@ -1,14 +1,14 @@
 const menu = require('../tests/Menu.json')
 const buttons = require('../visual').createMultiButton
 // const requestMenu = require('../API/requestMenu')
+const requestTest = require('../API/requestTests')
 // const requestSubMenu = require('../API/requestSubMenu')
 // const parseHTMLToSubMenuData = require('../utils/parseHTMLToSubMenuData')
 // const { default: Axios } = require('axios')
 // const writeToFile = require('../utils/writeToFile')
+const subMenuItems = require('../tests/subMenuItems.json')
 
 module.exports = (ctx) => {
-    // requestTest(ctx)
-    // requestMenu(ctx)
 
     // ! код який запише усі підменю в файл
     // const urls = menu.map(e => {
@@ -33,8 +33,15 @@ module.exports = (ctx) => {
 
     //     // console.log(Object.keys(allMenuItems))
     // }).catch(e => console.log(e))
-    // ! - кінець кодц
+    // ! - кінець коду
+
+    // Object.entries(subMenuItems).forEach((val) => {
+    //     // console.log(val[1][0].href)
+    //     setTimeout(() => requestTest(ctx, val[1][0].href, val[0]), 5000)
+    // })
 
     // requestSubMenu(ctx, menu[0].url.replace(/"/g, ''), menu[0]._id)
+
+    // requestTest(ctx)
     ctx.reply('Виберіть Розділ', buttons(menu, true))
 }

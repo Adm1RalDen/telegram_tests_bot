@@ -1,12 +1,14 @@
+const cheerio = require('cheerio')
 
-module.exports =  (data) => {
+
+module.exports = (data) => {
     const testArray = []
     const $ = cheerio.load(data)
 
     $('.list-group h4').map((e, el) => {
         const question = el.childNodes[1].data // complete questions
 
-        const answerOptions = $(el.childNodes[2]).children().map((e, el) => {
+        const answerOptions = $(el.childNodes[2]).children().filter((index, curr) => index < 5).map((e, el) => {
             if ($(el).css('background-color')) {
                 return {
                     text: $(el).text().replace(/\t/g, ''),
@@ -21,6 +23,8 @@ module.exports =  (data) => {
             }
 
         })
+
+
         testArray.push({
             question,
             answerOptions,

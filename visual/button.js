@@ -24,6 +24,23 @@ module.exports = {
         ).oneTime()
             .resize()
             .extra()
+    },
+    createQuestionsButtons: (buttons) => {
+        return Markup.inlineKeyboard([
+            [
+                ...buttons.map(val => {
+                    return Markup.callbackButton(
+                        val.text.slice(0, 1),
+                        val.isAnswer ? 'answerIsTrue' : 'answerIsFalse'
+                    )
+
+                }),
+            ],
+            [Markup.callbackButton('⬅Back', 'questionBackButton'), Markup.callbackButton('Next', 'questionNext')],
+            [Markup.callbackButton('Finish', 'finishTesting')],
+
+        ]).oneTime()
+            .extra()
     }
 
 }
