@@ -4,11 +4,6 @@ const Extra = require('telegraf/extra')
 const Markup = require('telegraf/markup')
 const vis = require('../visual');
 const { callbackButton } = require('telegraf/markup');
-// function* test(testArray){
-//     for(let i = 0; i < testArray.length; i++){
-//         yield testArray[i].question
-//     }
-// }
 
 module.exports = ['getTest', async ctx => {
     const testArray = []

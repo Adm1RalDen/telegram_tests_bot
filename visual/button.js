@@ -39,13 +39,13 @@ module.exports = {
                 ])
             })
         else
-            return Markup.inlineKeyboard([
-                [Markup.callbackButton('⬅Back', 'questionBackButton'), Markup.callbackButton('Next➡', 'nextQuestionButton')],
-                [Markup.callbackButton('Stop test', 'stopTesting')],
-                [Markup.callbackButton('Finish', 'finishTesting')]
-
-            ]).oneTime()
-                .extra()
+            return Extra.markdown().markup(m => {
+                return m.inlineKeyboard([
+                    [m.callbackButton('⬅Back', 'questionBackButton'), m.callbackButton('Next➡', 'nextQuestionButton')],
+                    [m.callbackButton('Stop test', 'stopTesting')],
+                    [m.callbackButton('Finish', 'finishTesting')],
+                ])
+            })
     },
     createStopButtons: buttons => {
         return Extra.markdown().markup(m => {
