@@ -152,7 +152,8 @@ bot.action(/goToBack/, async ctx => {
 })
 
 bot.action(/questionBackButton/, async ctx => {
-    await ctx.editMessageText("Виберіть Тест:", buttons(subMenuItems[ctx.session.parenId], false))
+    console.log(ctx.session)
+    // await ctx.editMessageText("Виберіть Тест:", buttons(subMenuItems[ctx.session.parenId], false))
 })
 
 bot.action(/nextQuestion/, async ctx => { })

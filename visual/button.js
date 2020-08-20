@@ -6,6 +6,7 @@ module.exports = {
         Markup.callbackButton(text, text)
     ]).extra(),
     createMultiButton: (texts, isMain) => {
+        console.log(isMain)
         // if (texts.length !== callbacks.length) return;
         return Markup.inlineKeyboard([...texts.map((el, idx) =>
             [
@@ -36,7 +37,7 @@ module.exports = {
 
                 }),
             ],
-            [Markup.callbackButton('⬅Back', 'questionBackButton'), Markup.callbackButton('Next', 'questionNext')],
+            [Markup.callbackButton('⬅Back', 'questionBackButton')],
             [Markup.callbackButton('Finish', 'finishTesting')],
 
         ]).oneTime()
