@@ -4,33 +4,28 @@ const fs = require('fs')
 
 
 module.exports = async (ctx) => {
-    // const isSet = ctx.session.activeTest.findIndex((e) => e.selectedTestId === ctx.session.selectedTestId)
-
+    let allTests;
     let isSetRes = -1
-    ctx.session.stoppedResults.filter((item, index) => {
+
+    ctx.session.stoppedResults.find((item, index) => {
         if (item.parenId === ctx.session.parenId)
             isSetRes = index
     })
+
+    const testData = {
+        parenId: ctx.session.parenId,
+        numberOfQuestions: ctx.session.activeTest.numberOfQuestions,
+        correctAnswers: ctx.session.activeTest.correctAnswers,
+        selectedTestId: ctx.session.selectedTestId,
+    }
+
     if (isSetRes < 0) {
-        ctx.session.stoppedResults.push({
-            parenId: ctx.session.parenId,
-            numberOfQuestions: ctx.session.activeTest.numberOfQuestions,
-            correctAnswers: ctx.session.activeTest.correctAnswers,
-            selectedTestId: ctx.session.selectedTestId,
-        })
+        ctx.session.stoppedResults.push(testData)
     }
     else {
-        ctx.session.stoppedResults[isSetRes] = {
-            parenId: ctx.session.parenId,
-            numberOfQuestions: ctx.session.activeTest.numberOfQuestions,
-            correctAnswers: ctx.session.activeTest.correctAnswers,
-            selectedTestId: ctx.session.selectedTestId,
-        }
+        ctx.session.stoppedResults[isSetRes] = testData
     }
 
-
-
-    let allTests;
 
     try {
         allTests = fs.readFileSync(`./tests/test-${ctx.session.selectedTestId}.json`, 'utf8');
@@ -46,13 +41,12 @@ module.exports = async (ctx) => {
 
     const butts = [{
         action: 'goToBack',
-        name: '⬅Back to menu'
+        name: '⬅ Back to menu'
     }, {
         action: 'nextQuestionButton',
-        name: 'Continue test'
+        name: '\u25b6 Continue'
     }]
     // ctx.session.activeTest = {}
-    await ctx.editMessageText(mess,
-        buttons(butts))
+    await ctx.editMessageText(mess, buttons(butts))
 }
 

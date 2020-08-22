@@ -4,22 +4,15 @@ const subMenuItems = require('../tests/subMenuItems.json')
 const requestTest = require('../API/requestTests.js')
 const questionComponent = require('../visual/question-component.js')
 const fs = require('fs')
-
+const preselectedTest = require('../visual/preselected-test'
+)
 module.exports = async ctx => {
     const data = JSON.parse(ctx.callbackQuery.data)
     let test;
     let parendId;
-    let fileData;
     let isSetRes = -1;
 
-    const selectedMenuItem = Object.entries(subMenuItems).find(e => e[1].find(el => {
-        if (el._id === data.p) {
-            parendId = e[0]
-            return true
-        } else {
-            return false
-        }
-    }))
+    const selectedMenuItem = Object.entries(subMenuItems).find(e => e[1].find(el => el._id === data.p && (parendId = e[0])))
 
     try {
         //!  test = require(`./tests/test-${data.p}.json`) для чтения файлов нельзя юзать require 
@@ -33,45 +26,35 @@ module.exports = async ctx => {
             })
 
         }
+
         if (!ctx.session.stoppedResults) {
             ctx.session.stoppedResults = []
-        }
-        else {
-            ctx.session.stoppedResults.filter((item, index) => {
+        } else {
+            ctx.session.stoppedResults.find((item, index) => {
                 if (item.parenId === ctx.session.parenId) {
                     isSetRes = index
                 }
             })
         }
+
         if (isSetRes < 0) {
             ctx.session.activeTest = {
                 numberOfQuestions: 0,
                 correctAnswers: 0,
             }
+
+            ctx.session.selectedTestId = data.p
+            ctx.session.parenId = parendId
+
+            questionComponent(ctx, test[0])
+            await ctx.answerCbQuery()
         } else {
-            ctx.session.activeTest = ctx.session.stoppedResults[isSetRes]
+            // TODO якщо ми знайшли зупинений тест, потрібно запитати у користувача,
+            //  TODO чи бажає він його продовжити,чи почати заново, також  відобразити минулі резултати та надати можливість повернутися назад
+            preselectedTest(ctx, { parendId, data })
+            // ctx.session.activeTest = ctx.session.stoppedResults[isSetRes]
         }
 
-        // const isSet = ctx.session.activeTest.findIndex((e) => e.selectedTestId === data.p)
-
-        // if (isSet === -1)
-        //     ctx.session.activeTest.push({
-        //         parendId,
-        //         numberOfQuestions: 0,
-        //         correctAnswers: 0,
-        //         selectedTestId: data.p,
-        //     })
-
-        ctx.session.selectedTestId = data.p
-
-        ctx.session.parenId = parendId
-        const testQuestionNumber = typeof ctx.session.activeTest !== 'undefined' ? ctx.session.activeTest.numberOfQuestions : 0
-
-        let firstQuestion = test[testQuestionNumber]
-
-        questionComponent(ctx, firstQuestion)
-
-        await ctx.answerCbQuery();
     } catch (e) {
         console.log(e)
     }

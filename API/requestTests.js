@@ -23,7 +23,7 @@ module.exports = async (ctx, href, id) => {
         return Promise.all(urls.map(url => {
             // console.log(url)
             return axios(url)
-        })).then(responses => { 
+        })).then(responses => {
             console.log('succes promise all data')
             return responses.map(e => {
                 return parseHTMLTestsData(e.data)
