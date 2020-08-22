@@ -10,6 +10,7 @@ module.exports = async ctx => {
     let test;
     let parendId;
     let fileData;
+    let isSetRes = -1;
 
     const selectedMenuItem = Object.entries(subMenuItems).find(e => e[1].find(el => {
         if (el._id === data.p) {
@@ -32,27 +33,39 @@ module.exports = async ctx => {
             })
 
         }
-
-        ctx.session.startTest = 'asd'
-
-        if (!ctx.session.results) {
-            ctx.session.results = []
+        if (!ctx.session.stoppedResults) {
+            ctx.session.stoppedResults = []
         }
-
-        const isSet = ctx.session.results.findIndex((e) => e.selectedTestId === data.p)
-
-        if (isSet === -1)
-            ctx.session.results.push({
-                parendId,
+        else {
+            ctx.session.stoppedResults.filter((item, index) => {
+                if (item.parenId === ctx.session.parenId) {
+                    isSetRes = index
+                }
+            })
+        }
+        if (isSetRes < 0) {
+            ctx.session.activeTest = {
                 numberOfQuestions: 0,
                 correctAnswers: 0,
-                selectedTestId: data.p,
-            })
+            }
+        } else {
+            ctx.session.activeTest = ctx.session.stoppedResults[isSetRes]
+        }
+
+        // const isSet = ctx.session.activeTest.findIndex((e) => e.selectedTestId === data.p)
+
+        // if (isSet === -1)
+        //     ctx.session.activeTest.push({
+        //         parendId,
+        //         numberOfQuestions: 0,
+        //         correctAnswers: 0,
+        //         selectedTestId: data.p,
+        //     })
 
         ctx.session.selectedTestId = data.p
 
         ctx.session.parenId = parendId
-        const testQuestionNumber = typeof ctx.session.results[isSet] !== 'undefined' ? ctx.session.results[isSet].numberOfQuestions : 0
+        const testQuestionNumber = typeof ctx.session.activeTest !== 'undefined' ? ctx.session.activeTest.numberOfQuestions : 0
 
         let firstQuestion = test[testQuestionNumber]
 

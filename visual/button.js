@@ -21,23 +21,29 @@ module.exports = {
             .extra()
     },
     createQuestionsButtons: (buttons, next = true) => {
-        if (next)
+        if (next) {
+            let d = buttons.find((item, index) => {
+                if (item.isAnswer) return item
+            }).text.slice(0, 1) //Получаем правильный ответ для текущего теста
             return Extra.markdown().markup(m => {
                 return m.inlineKeyboard([
                     [...buttons.map(val => {
                         return m.callbackButton(
                             val.text.slice(0, 1),
                             JSON.stringify({
-                                click: 'answerClicked',
-                                isCorrect: val.isAnswer
+                                a: 'answerClicked',//action
+                                b: val.isAnswer,//boolean ответ правильный или нет
+                                c: val.text.slice(0, 1), //выбранный ответ 
+                                d  //ответ для текущего теста
                             })
                         )
                     }),],
-                    [m.callbackButton('⬅Back', 'questionBackButton')],
+                    // [m.callbackButton('⬅Back', 'questionBackButton')],
                     [m.callbackButton('Stop test', 'stopTesting')],
                     [m.callbackButton('Finish', 'finishTesting')],
                 ])
             })
+        }
         else
             return Extra.markdown().markup(m => {
                 return m.inlineKeyboard([
@@ -51,7 +57,7 @@ module.exports = {
         return Extra.markdown().markup(m => {
             return m.inlineKeyboard([
                 [...buttons.map((elem) => { return m.callbackButton(elem.name, elem.action) })],
-                [m.callbackButton('Stop test', 'stopTesting')],
+                // [m.callbackButton('Stop test', 'stopTesting')],
                 [m.callbackButton('Finish', 'finishTesting')],
             ])
         })

@@ -5,7 +5,7 @@ const Telegraf = require('telegraf')
 
 module.exports = async (ctx, test) => {
     const { number, question, answerOptions } = test
-    
+
     questionBold = `*${question}*`
     let answers = []
     answerOptions.map((item, index) => {
