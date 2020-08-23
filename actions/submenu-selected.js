@@ -9,53 +9,60 @@ const preselectedTest = require('../visual/preselected-test'
 module.exports = async ctx => {
     const data = JSON.parse(ctx.callbackQuery.data)
     let test;
-    let parendId;
-    let isSetRes = -1;
+    let parenId;
+    let selectedMenuItem = null
 
-    const selectedMenuItem = Object.entries(subMenuItems).find(e => e[1].find(el => el._id === data.p && (parendId = e[0])))
+    const subItems = Object.entries(subMenuItems)
+
+    for (let i = 0; i < subItems.length; i++) {
+        for (let j = 0; j < subItems[i][1].length; j++) {
+            if (subItems[i][1][j]._id === data.p) {
+                selectedMenuItem = subItems[i][1][j]
+                parenId = subItems[i][0]
+            }
+        }
+    }
 
     try {
-        //!  test = require(`./tests/test-${data.p}.json`) для чтения файлов нельзя юзать require 
         try {
             test = fs.readFileSync(`./tests/test-${data.p}.json`, 'utf8');
             test = JSON.parse(test)
         } catch (e) {
             await ctx.editMessageText("Завантаження тесту", Markup.removeKeyboard())
-            requestTest(ctx, selectedMenuItem[1][0].href, data.p).then(e => {
-                ctx.editMessageText("Тест Був завантажений, виберіть знову: ", buttons(subMenuItems[parendId], false))
+            requestTest(ctx, selectedMenuItem.href, data.p).then(e => {
+                ctx.editMessageText("Тест Був завантажений, виберіть знову: ", buttons(subMenuItems[parenId], false))
             })
-
+            return undefined;
         }
 
-        if (!ctx.session.stoppedResults) {
+        ctx.session.selectedTestId = data.p
+        ctx.session.parenId = parenId
+
+        const newTestData = {
+            numberOfQuestions: 0,
+            correctAnswers: 0,
+            parenId,
+            selectedTestId: data.p
+        }
+
+        if (!ctx.session.stoppedResults) { // ? якщо зупинених тестів взагалі не було ще
             ctx.session.stoppedResults = []
-        } else {
-            ctx.session.stoppedResults.find((item, index) => {
-                if (item.parenId === ctx.session.parenId) {
-                    isSetRes = index
-                }
-            })
-        }
-
-        if (isSetRes < 0) {
-            ctx.session.activeTest = {
-                numberOfQuestions: 0,
-                correctAnswers: 0,
-            }
-
-            ctx.session.selectedTestId = data.p
-            ctx.session.parenId = parendId
+            ctx.session.activeTest = newTestData
 
             questionComponent(ctx, test[0])
             await ctx.answerCbQuery()
         } else {
-            // TODO якщо ми знайшли зупинений тест, потрібно запитати у користувача,
-            //  TODO чи бажає він його продовжити,чи почати заново, також  відобразити минулі резултати та надати можливість повернутися назад
-            preselectedTest(ctx, { parendId, data })
-            // ctx.session.activeTest = ctx.session.stoppedResults[isSetRes]
+            const foundTest = ctx.session.stoppedResults.find(item => item.selectedTestId === data.p)
+            if (foundTest) {
+                ctx.session.activeTest = foundTest
+                preselectedTest(ctx, { parenId, foundTest, testLength: test.length })
+            } else {
+                ctx.session.activeTest = newTestData
+                questionComponent(ctx, test[0])
+            }
         }
 
     } catch (e) {
-        console.log(e)
+        console.log('submenu catch: ', e)
     }
 }

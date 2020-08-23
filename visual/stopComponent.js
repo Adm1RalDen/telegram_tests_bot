@@ -5,25 +5,14 @@ const fs = require('fs')
 
 module.exports = async (ctx) => {
     let allTests;
-    let isSetRes = -1
 
-    ctx.session.stoppedResults.find((item, index) => {
-        if (item.parenId === ctx.session.parenId)
-            isSetRes = index
-    })
+    const foundTest = ctx.session.stoppedResults.findIndex(item => item.selectedTestId === ctx.session.selectedTestId)
 
-    const testData = {
-        parenId: ctx.session.parenId,
-        numberOfQuestions: ctx.session.activeTest.numberOfQuestions,
-        correctAnswers: ctx.session.activeTest.correctAnswers,
-        selectedTestId: ctx.session.selectedTestId,
-    }
-
-    if (isSetRes < 0) {
-        ctx.session.stoppedResults.push(testData)
+    if (foundTest > 0) {
+        ctx.session.stoppedResults[foundTest] = ctx.session.activeTest
     }
     else {
-        ctx.session.stoppedResults[isSetRes] = testData
+        ctx.session.stoppedResults.push(ctx.session.activeTest)
     }
 
 
