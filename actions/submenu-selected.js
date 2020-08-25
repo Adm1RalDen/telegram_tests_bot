@@ -72,7 +72,7 @@ module.exports = async ctx => {
                 currentUserData.activeTest = foundTest
                 preselectedTest(ctx, { parenId, foundTest, testLength: test.length })
             } else {
-                currentUserData.activeTest = newTestData
+                currentUserData.activeTest = activeTest
                 questionComponent(ctx, test[0])
             }
         }

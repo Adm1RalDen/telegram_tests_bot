@@ -2,7 +2,6 @@ const createQuestionsButtons = require('./').createQuestionsButtons
 
 module.exports = async (ctx, test) => {
     const { number, question, answerOptions } = test
-
     questionBold = `\u2753*${question}*`
     let answers = []
     answerOptions.map((item, index) => {

@@ -15,7 +15,6 @@ module.exports = async ctx => {
         console.log('Error:', e.stack);
     }
     const nextQuestion = tests[currentUserData.activeTest.numberOfQuestions]
-
     await database.writeData('users/' + ctx.update.callback_query.from.id, currentUserData)
     questionComponent(ctx, nextQuestion)
     await ctx.answerCbQuery()

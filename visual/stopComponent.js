@@ -28,7 +28,7 @@ module.exports = async (ctx) => {
         console.log('Error:', e.stack);
     }
 
-
+  
     let mess = `Правильних відповідей: ${currentUserData.activeTest.correctAnswers}.` +
         `\nПройдено тестів: ${currentUserData.activeTest.numberOfQuestions}.` +
         `\nВсього теcтів: ${allTests.length}.`
