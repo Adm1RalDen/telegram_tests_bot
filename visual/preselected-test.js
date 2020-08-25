@@ -1,6 +1,7 @@
 const buttons = require('../visual/button').createStopButtons
 const fs = require('fs')
 const questionComponent = require('../visual/question-component')
+const database = require('../database/database')
 
 module.exports = async (ctx, params) => {
     const butts = [{
