@@ -12,10 +12,12 @@ module.exports = async (ctx, params) => {
     }]
 
     const { parenId, foundTest, testLength } = params
+    let currentUserData
+    await database.getDataList('users/' + ctx.update.callback_query.from.id).then(elem => currentUserData = elem)
 
-    ctx.session.selectedTestId = foundTest.selectedTestId
-    ctx.session.activeTest = foundTest
-    ctx.session.parenId = parenId
+    currentUserData.selectedTestId = foundTest.selectedTestId
+    currentUserData.activeTest = foundTest
+    currentUserData.parenId = parenId
 
     let mess = `Цей тест був призупинений з такими результатами: ` +
         `\n\n\nПравильних відповідей: ${foundTest.correctAnswers}.` +
@@ -23,6 +25,7 @@ module.exports = async (ctx, params) => {
         `\nВсього теcтів: ${testLength}.` +
         `\n\nЩо ви бажаєте зробити ?`
 
+    await database.writeData('users/' + ctx.update.callback_query.from.id, currentUserData)
     await ctx.editMessageText(mess, buttons(butts))
 
 

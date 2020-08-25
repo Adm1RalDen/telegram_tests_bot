@@ -23,7 +23,7 @@ module.exports = (ctx) => {
         for (let i = 0; i < menuArray.length; i++) {
             newArr.push(menuArray[i])
         }
-        console.log(newArr)
+        // console.log(newArr)
         writeToFile(newArr, 'Menu.json')
     }).catch((err) => {
         ctx.reply('Failed: ' + err)

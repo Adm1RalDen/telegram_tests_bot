@@ -1,7 +1,7 @@
-const menu = require('../tests/Menu.json')
+const database = require('../database/database.js')
 const buttons = require('../visual').createMultiButton
 // const requestMenu = require('../API/requestMenu')
-const requestTest = require('../API/requestTests')
+// const requestTest = require('../API/requestTests')
 // const requestSubMenu = require('../API/requestSubMenu')
 // const parseHTMLToSubMenuData = require('../utils/parseHTMLToSubMenuData')
 // const { default: Axios } = require('axios')
@@ -9,6 +9,7 @@ const requestTest = require('../API/requestTests')
 const subMenuItems = require('../tests/subMenuItems.json')
 
 module.exports = (ctx) => {
+    database.getDataList('menu').then(elem => ctx.reply('Виберіть Розділ', buttons(elem, true)))
 
     // ! код який запише усі підменю в файл
     // const urls = menu.map(e => {
@@ -43,5 +44,4 @@ module.exports = (ctx) => {
     // requestSubMenu(ctx, menu[0].url.replace(/"/g, ''), menu[0]._id)
 
     // requestTest(ctx)
-    ctx.reply('Виберіть Розділ', buttons(menu, true))
 }
