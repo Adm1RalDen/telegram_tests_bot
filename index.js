@@ -12,8 +12,8 @@ const finishTesting = require('./actions/finish-testing')
 const restartTest = require('./actions/restart-test')
 
 LocalSession = require('telegraf-session-local')
-
-const bot = new Telegraf('1020874100:AAEziV_27mPBy9jX6cx_2avNV9H-W7MenGQ')
+//1020874100:AAEziV_27mPBy9jX6cx_2avNV9H-W7MenGQ old
+const bot = new Telegraf('1396374445:AAEXWe-_lz02mb-DXXIAekK1aRyP7A9AmBM')
 try {
 
     bot.use((new LocalSession({ database: 'user_db.json' })).middleware())

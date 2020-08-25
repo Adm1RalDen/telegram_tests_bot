@@ -13,6 +13,7 @@
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
     "circular-json": "^0.5.9",
+    "firebase-admin": "^9.1.1",
     "nodemon": "^2.0.4",
     "telegraf": "^3.38.0",
     "telegraf-session-local": "^2.0.0"
