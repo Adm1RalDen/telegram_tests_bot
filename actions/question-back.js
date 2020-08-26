@@ -8,5 +8,5 @@ module.exports = async ctx => {
     let subMenuItems
     await database.getDataList('submenu/').then(elem => subMenuItems = elem)
 
-    await ctx.editMessageText("Виберіть Тест:", buttons(subMenuItems[currentUserData.parenId], false))
+    await ctx.editMessageText("Виберіть Тест:", buttons(subMenuItems[currentUserData.activeTest.parenId], false))
 }

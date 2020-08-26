@@ -36,10 +36,10 @@ module.exports = async ctx => {
             })
             return undefined;
         }
-        
+
         let currentUserData
         await database.getDataList('users/' + ctx.update.callback_query.from.id).then(elem => currentUserData = elem)
-        // console.log(currentUserData)
+
         const activeTest = {
             numberOfQuestions: 0,
             correctAnswers: 0,
@@ -55,9 +55,9 @@ module.exports = async ctx => {
         }
         if (!currentUserData) {
             await database.writeData('users/' + ctx.update.callback_query.from.id, newTestData)
+            currentUserData = newTestData
         }
-        currentUserData.selectedTestId = data.p
-        currentUserData.parenId = parenId
+
         // await database.updateData('users/', { username: ctx.update.callback_query.from.username }, ctx.update.callback_query.from.id)
 
         if (!currentUserData.stoppedResults) {

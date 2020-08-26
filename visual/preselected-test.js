@@ -16,9 +16,9 @@ module.exports = async (ctx, params) => {
     let currentUserData
     await database.getDataList('users/' + ctx.update.callback_query.from.id).then(elem => currentUserData = elem)
 
-    currentUserData.selectedTestId = foundTest.selectedTestId
+    currentUserData.activeTest.selectedTestId = foundTest.selectedTestId
     currentUserData.activeTest = foundTest
-    currentUserData.parenId = parenId
+    currentUserData.activeTest.parenId = parenId
 
     let mess = `Цей тест був призупинений з такими результатами: ` +
         `\n\n\nПравильних відповідей: ${foundTest.correctAnswers}.` +

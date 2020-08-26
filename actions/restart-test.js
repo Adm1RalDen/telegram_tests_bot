@@ -7,7 +7,7 @@ module.exports = async (ctx) => {
     await database.getDataList('users/' + ctx.update.callback_query.from.id).then(elem => currentUserData = elem)
 
     try {
-        tests = fs.readFileSync(`./tests/test-${currentUserData.selectedTestId}.json`, 'utf8');
+        tests = fs.readFileSync(`./tests/test-${currentUserData.activeTest.selectedTestId}.json`, 'utf8');
         tests = JSON.parse(tests)
     } catch (e) {
         console.log('Error:', e.stack);

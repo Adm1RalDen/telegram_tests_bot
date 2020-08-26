@@ -11,7 +11,7 @@ module.exports = async (ctx) => {
     if (!currentUserData.stoppedResults) {
         currentUserData.stoppedResults = []
     }
-    const foundTest = currentUserData.stoppedResults.findIndex(item => item.selectedTestId === currentUserData.selectedTestId)
+    const foundTest = currentUserData.stoppedResults.findIndex(item => item.selectedTestId === currentUserData.activeTest.selectedTestId)
 
     if (foundTest > 0) {
         currentUserData.stoppedResults[foundTest] = currentUserData.activeTest
@@ -22,7 +22,7 @@ module.exports = async (ctx) => {
 
 
     try {
-        allTests = fs.readFileSync(`./tests/test-${currentUserData.selectedTestId}.json`, 'utf8');
+        allTests = fs.readFileSync(`./tests/test-${currentUserData.activeTest.selectedTestId}.json`, 'utf8');
         allTests = JSON.parse(allTests)
     } catch (e) {
         console.log('Error:', e.stack);

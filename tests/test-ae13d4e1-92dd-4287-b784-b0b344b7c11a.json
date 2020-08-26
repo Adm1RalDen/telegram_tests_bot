@@ -1,0 +1,4256 @@
+[
+  {
+    "number": "1",
+    "question": "Хворий 38 р., скаржиться на слабість, головокружіння, задишку, печію язика. При огляді виявлені ознаки фолієводефіцитної анемії. Який вигляд має язик у цих хворих?",
+    "answerOptions": [
+      {
+        "text": "A. Географічний",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Блискучий і гладкий",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Обкладений сірим нальотом",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Чистий",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Набряклий",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "2",
+    "question": "У хворого на перніціозну анемію раптово підвищилась температура до 39,20С. Чим зумовлено таке підвищення тепмератури?",
+    "answerOptions": [
+      {
+        "text": "A. Інтоксикацією",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Розпадом еритроцитів",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Інфекційними ускладненнями",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Приєднанням гепатиту",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Розпадом лейкоцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "3",
+    "question": "У хворої 40 р., спостерігаються сильні маткові кровотечі. При обстеженні виявлені ознаки гіпохромної анемії. Яке дослідження специфічне для діагностики?",
+    "answerOptions": [
+      {
+        "text": "A. ШОЕ",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Білки крові",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Ретикулоцити",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Форма еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Сироваткове залізо",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "4",
+    "question": "При проведенні профілактичного огляду підлітку проведений аналіз крові, в якому виявлені лейкоцити: юні – 3 %, паличкоядерні – 10 %. Які клітини гранулоцитарного ряду в нормі знаходяться в кров’яному руслі?",
+    "answerOptions": [
+      {
+        "text": "A. Юні",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Паличкоядерні",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Мієлоцити",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Промієлоцити",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Метамієлоцити",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "5",
+    "question": "У хворої Т., 30 р., виявлена залізодефіцитна анемія, підтверджена лабораторним дослідженням крові. Вкажіть найбільш типову скаргу для дефіциту заліза.",
+    "answerOptions": [
+      {
+        "text": "A. Втрата тактильної чутливості",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Посивіння волосся",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Підвищена крихкість нігтів",
+        "isAnswer": true
+      },
+      {
+        "text": "D. Тріщини губ",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Втрата нюху",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "6",
+    "question": "Хворому на залізодефіцитну анемію призначений аналіз крові на визначення заліза. Вкажіть, яка кількість заліза сироватки крові є у нормі (мкм/л)",
+    "answerOptions": [
+      {
+        "text": "A. 1,5-3,5",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 3,5-6,5",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 7,5-11,7",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 12,5-30,4",
+        "isAnswer": true
+      },
+      {
+        "text": "E. 32,2-35,9",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "7",
+    "question": "Вкажіть які показники лейкоцитів в крові відповідають нормі?",
+    "answerOptions": [
+      {
+        "text": "A. 2,0-5,0 • 109/л",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 4,0-9,0 • 109/л",
+        "isAnswer": true
+      },
+      {
+        "text": "C. 9,0-11,0 • 109/л",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 11,0-13,0 • 109/л",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 13,0-14,0 • 109/л",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "8",
+    "question": "Хворому призначено визначення гематокриту крові. Вкажіть, які показники гематокриту у нормі в чоловіків?",
+    "answerOptions": [
+      {
+        "text": "A. 29-36",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 36-42",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 40-48",
+        "isAnswer": true
+      },
+      {
+        "text": "D. 48-54",
+        "isAnswer": false
+      },
+      {
+        "text": "E. більше 54",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "9",
+    "question": "При дослідженні крові хворої Д., визначений гемоглобін – 92 г/л. Вкажіть, які показники гемоглобіну у нормі для жінок.",
+    "answerOptions": [
+      {
+        "text": "A. 150-160",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 140-160",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 130-150",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 120-140",
+        "isAnswer": true
+      },
+      {
+        "text": "E. 100-120",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "10",
+    "question": "Для якого захворювання характерна альвеолярна піорея:",
+    "answerOptions": [
+      {
+        "text": "A. Перніціозна анемія;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Залізодефіцитна анемія;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Гемолітична анемія;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гострий лейкоз;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Еритремія.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "11",
+    "question": "Лице хворого з анемією Адісона-Бірмера має вигляд:",
+    "answerOptions": [
+      {
+        "text": "A. Бліде, дифузно набрякле;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. «Воскової ляльки»;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Ціанотичне, набрякле;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Бліде, виснажене;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Місяцеподібне.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "12",
+    "question": "Лихоманка при перніціозній анемії зумовлена:",
+    "answerOptions": [
+      {
+        "text": "A. Масивним розпадом лейкоцитів;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Розпадом еритроцитів;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Інфекційними ускладненнями;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Загальною інтоксикацією;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гіперглобулінемією.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "13",
+    "question": "Язик хворого анемією Адісона-Бірмера має вигляд:",
+    "answerOptions": [
+      {
+        "text": "A. Географічний;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Малиновий;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Вкритий білим нальотом;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Набряклий;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Чистий.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "14",
+    "question": "Які з об'єктивних симптомів характерні для анемії?",
+    "answerOptions": [
+      {
+        "text": "A. Блідість шкіри й слизових",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Петехії",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Ціаноз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Набряки",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Висипання",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "15",
+    "question": "При аскультації серця у хворих анемією вислуховується:",
+    "answerOptions": [
+      {
+        "text": "A. Ритм перепела",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Брадикардія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Посилення I тону на верхівці",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Акцент II тону над аортою",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Систолічний шум на верхівці",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "16",
+    "question": "Геморагічний синдром виникає внаслідок всіх причин, крім:",
+    "answerOptions": [
+      {
+        "text": "A. зменшення кількості тромбоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "B. функціональна неповноцінність тромбоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "C. дефіцит факторів згортання в плазмі",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ушкодження судинної стінки імунного характеру",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зниження кількості еритроцитів і гемоглобіну",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "17",
+    "question": "Як називаються дрібноточкові крововиливи:",
+    "answerOptions": [
+      {
+        "text": "A. Петехії",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Пурпура",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Екхімози",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Розеола",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Папула",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "18",
+    "question": "При дослідженні загального аналізу крові у хворих В12 дефіцитною анемією виявляються всі ознаки, крім:",
+    "answerOptions": [
+      {
+        "text": "A. Зниження змісту гемоглобіну й еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Макроцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Збільшення колірного показника вище 1,1",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Зниження колірного показника нижче 0.8",
+        "isAnswer": true
+      },
+      {
+        "text": "E. Тільця Жоллі, кільця Кебота в еритроцитах",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "19",
+    "question": "Що таке анізоцитоз:",
+    "answerOptions": [
+      {
+        "text": "A. поява еритроцитів різної величини",
+        "isAnswer": true
+      },
+      {
+        "text": "B. поява еритроцитів різної форми",
+        "isAnswer": false
+      },
+      {
+        "text": "C. поява лейкоцитів різної форми",
+        "isAnswer": false
+      },
+      {
+        "text": "D. поява лейкоцитів різного розміру",
+        "isAnswer": false
+      },
+      {
+        "text": "E. поява тромбоцитів різного розміру",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "20",
+    "question": "Що таке пойкілоцитоз:",
+    "answerOptions": [
+      {
+        "text": "A. поява еритроцитів різної величини",
+        "isAnswer": false
+      },
+      {
+        "text": "B. поява еритроцитів різної форми",
+        "isAnswer": true
+      },
+      {
+        "text": "C. поява лейкоцитів різної форми",
+        "isAnswer": false
+      },
+      {
+        "text": "D. поява лейкоцитів різного розміру",
+        "isAnswer": false
+      },
+      {
+        "text": "E. поява тромбоцитів різної форми",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "21",
+    "question": "Що таке койлоніхії?",
+    "answerOptions": [
+      {
+        "text": "A. Поперечна посмугованість нігтів",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Опуклість нігтів у вигляді годинникових скелець",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Ложкоподібна форма нігтів",
+        "isAnswer": true
+      },
+      {
+        "text": "D. Ламкість нігтів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зміна кольору нігтів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "22",
+    "question": "Що таке «pica chlorotica»?",
+    "answerOptions": [
+      {
+        "text": "A. Ахлоргідрія та ахілія у хворих з залізодефіцитною анемією",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Спотворення смаку у хворих з залізодефіцитною анемією",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зниження смакових якостей",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Печія на кінчику язика",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Блідість із зеленуватим відтінком у хворих із хронічною залізодефіцитною анемією",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "23",
+    "question": "При якому вмісті сироваткового заліза вже можна запідозрити хронічну залізодефіцитну анемію?",
+    "answerOptions": [
+      {
+        "text": "A. 20-30 мкмоль/л",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 12-20 мкмоль/л",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 6-12 мкмоль/л",
+        "isAnswer": true
+      },
+      {
+        "text": "D. 2-6 мкмоль/л",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 1-2 мкмоль/л",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "24",
+    "question": "Ознаки дефіциту заліза",
+    "answerOptions": [
+      {
+        "text": "A. Випадання волосся",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Ламкість нігтів",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Спотворення смаку",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Койлоніхія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Все перечислене",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "25",
+    "question": "У хворого виявлено В12 дефіцитну анемію, яке з захворювань могло спричинити цей стан?",
+    "answerOptions": [
+      {
+        "text": "A. Хронічний гастрит типу А",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Хронічний гастрит типу В",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Пептична виразка шлунка",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Хронічний панкреатит",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронічний холецистит",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "26",
+    "question": "Що показує колірний показник?",
+    "answerOptions": [
+      {
+        "text": "A. У скільки разів кількість гемоглобіну в одному еритроциті даної особи відрізняється від норми,",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Співвідношення гемоглобіну і кількості еритроцитів,",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Процентне співвідношення окремих видів лейкоцитів у периферійній крові,",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Процентне співвідношення гемоглобіну і рівня лейкоцитів у периферійній крові,",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Співвідношення білкових фракцій у плазмі крові.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "27",
+    "question": "Межі коливань вмісту абсолютної кiлькостi паличкоядерних нейтрофiлiв (109/л) в крові здорових осiб:",
+    "answerOptions": [
+      {
+        "text": "A. 0,05 - 0,5",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,8 - 3,6",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2,2 - 6,3",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 0,09 - 0,72",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 0,05 - 1,2",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "28",
+    "question": "Межi коливань вмiсту абсолютної кiлькостi сегментоядерних нейтрофiлiв (109/л) в крові здорових осіб:",
+    "answerOptions": [
+      {
+        "text": "A. 2,2 - 6,3",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,8 - 3,6",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 0,8- 1,8",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 1,2 - 3,2",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 1,8 - 4,2",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "29",
+    "question": "Межi коливань вмiсту абсолютної кiлькостi еозинофiлiв (109/л) в кровi здорових осiб:",
+    "answerOptions": [
+      {
+        "text": "A. 0,05 - 0,5",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,8 - 3,6",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 1,2- 4,6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 0,09 - 0,72",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 0,05 - 0,8",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "30",
+    "question": "Межi коливань вмiсту абсолютної кiлькостi базофiлiв (109/л) в кровi здорових осiб:",
+    "answerOptions": [
+      {
+        "text": "A. 0- 0,05",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 1,2 - 1,5",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2,3- 4,6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 0,08 - 1,2",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 0,05 - 0,08",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "31",
+    "question": "Межi коливань вмiсту абсолютної кiлькостi моноцитiв (109/л) в кровi здорових осiб:",
+    "answerOptions": [
+      {
+        "text": "A. 0,09- 0,72",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,12 - 1,5",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2,3- 4,6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 0,15 - 1,2",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 0,1 - 0,18",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "32",
+    "question": "Межi коливань вмiсту абсолютної кiлькостi лiмфоцитiв (109/л) в кровi здорових осiб:",
+    "answerOptions": [
+      {
+        "text": "A. 0,8- 3,6",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,05 - 0,5",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2,3- 4,6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 1,2 - 1,8",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 0,9 - 4,2",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "33",
+    "question": "Межi нормальних коливань ШОЕ (мм/год) у здорових мужчин:",
+    "answerOptions": [
+      {
+        "text": "A. 1- 10",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 5 - 20",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2 - 15",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 1 - 5",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 15-20",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "34",
+    "question": "Межi коливань ШОЕ (мм/год) у здорових жiнок:",
+    "answerOptions": [
+      {
+        "text": "A. 2 – 15",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 5 - 15",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2- 10",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 10 - 15",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 10- 20",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "35",
+    "question": "Серповидноклiтинна анемiя зумовлена:",
+    "answerOptions": [
+      {
+        "text": "A. Порушенням структури молекули глобiна",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Порушенням структури гема",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Порушенням структури бiлкiв мембрани еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Пiдвищенням проникностi мембрани еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пiдвищенням проникностi мембрани лейкоцитiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "36",
+    "question": "Домiнуючi клiнiчнi вияви серповидноклiтинної анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Гемолiтичнi i судинно-тромботичнi кризи",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Виражений iнтоксикацiйний синдром",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гiпоксичний синдром",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гiпопластичнi кризи",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Секвестрацiйнi кризи",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "37",
+    "question": "Основнi патогенетичнi змiни при серповидноклiтиннiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Пiдвищення в'язкостi кровi, уповiльнення кровотоку, стаз кровi в капiлярах",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гемолiз еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гiпоксiя",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Iнтоксикацiя",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гіперкапнія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "38",
+    "question": "Картина кровi при серновидноклiтиннiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Нормохромна анемiя, ретикулоцитоз, лейкопенія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гiперхромiя еритроцитiв, панцитопенiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гiпохромная анемiя, ретикулоцитоз, лейкопенiя:",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гiперлейкоцитоз, анемiя, тромбоцитопенiя, ретикулоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Папцитопенiя, ретикулоцитоз, прискорена ШОЕ",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "39",
+    "question": "Морфлогiчнi особливостi еритроцитiв при серповидноклiтиннiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Анiзо-пойкiлоцити, анiзохромiя, базофiльна пунктацiя еритроцитiв, нерідко-мишенєвидність",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Макроанiзоцитоз, акантоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Мiкроанiзоцитоз, гiпохромiя еритроцитiв, тільця Жоллi",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Грушовиднi еритроцити, полiхроматозiя i пламоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Овалоцитоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "40",
+    "question": "Найбiльш простий i доступний спосiб дiагностики серповидноклiтинної анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Проба на серновiднiсть з мета бісульфітом",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Фарбування мазка кровi по Романовському",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Суправiтальне фарбування мазка кровi",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Цитохiмiчнi методи",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Сахарозна проба",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "41",
+    "question": "Лiкування серновидноклiтинної анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Симптоматичне",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Спленектомiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Трансплантацiя кiсткового мозку",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Глюкокортикоїднi гормони",
+        "isAnswer": false
+      },
+      {
+        "text": "E. НПЗП",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "42",
+    "question": "Патогенетичний чинник розвитку аутоiмунних гемолiтичних анемiй:",
+    "answerOptions": [
+      {
+        "text": "A. Утворення антитiл проти власних еритроцитів",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Пiдвищена секвестрацiйна здатнiсть селезiнки",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Токсичний вплив на еритроцити",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Порушення структури мембрани еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Зниження осмотичної резистентності еритроцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "43",
+    "question": "Патогенез аутоiмунної гемолiтичнiй анемiї перебуває у:",
+    "answerOptions": [
+      {
+        "text": "A. Взаємодії антитіл, що ззовні попали з антигенами еритроцитів хворого",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Взаємодії власних антитіл хворого з антигенами еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Взаємодії циркулюючих імунних комплексів з антигенами еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Взаємодії блокуючих антитіл з антигенами еритроцитів кісткового мозку",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Зниження осмотичної резистентності еритроцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "44",
+    "question": "Патогенез трансiмунної гемолiтичнiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Взаємодiя антитiл матерi з антигенами еритроцитiв плоду",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Взаємодiя блокуючих антитiл з антигенами еритроцитiв плоду",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Взаємодiя циркулюючих iмунних комплексiв з антигенами еритроцитiв хворого",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Пiдвищення секвестрационной здатностi селезінки",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Зниження осмотичної резистентності еритроцитiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "45",
+    "question": "Картина крові при набутій гемолiтичнiй анемії:",
+    "answerOptions": [
+      {
+        "text": "A. Анемiя, ретикулоцитоз, лейкоцитоз, нормобластоз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Панцитопенiя, збiльшення ШОЕ, дегенеративнi змiни лейкоцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Помiрна анемiя, планоцитоз, анiзо-, пойкiлоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гiпохромная анемiя, гiпертромбоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Анемія, лейкоцитопенія, агранулоцитоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "46",
+    "question": "Колiрний показник при аутоiмуннiй гемолiтичнiй анемiї коливається в межах:",
+    "answerOptions": [
+      {
+        "text": "A. 0,82-1,05",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,82 - 1,12",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 0,5 - 0,6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 0,75 - 0,8",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 1,5 - 1,6",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "47",
+    "question": "Кiлькiсть тромбоцитiв при аутоiмуннiй гемолiтичнiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Нормальна або дещо зменшена",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Нормальна",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Декiлька зменшена",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Дуже пiдвищена",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Рiзко зменшена",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "48",
+    "question": "Вмiст бiлiрубiну при аутоiмуннiй гемолiтичнiй анемiї у бiльшостi хворих коливається в межах:",
+    "answerOptions": [
+      {
+        "text": "A. 25 - 45 мкмоль/л",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 60 - 100 мкмоль/л",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 3 - 6 мкмоль/л",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Вмiст бiлiрубiну нормальний",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 13 - 16 мкмоль/л",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "49",
+    "question": "ШОЕ у бiльшостi хворих аутоiмунною гемолiтичною анемiєю:",
+    "answerOptions": [
+      {
+        "text": "A. Помiрно підвищена",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Нормальна",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Знижена",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Рiзко підвищена",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Нормальна або дещо зменшена",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "50",
+    "question": "Початок аутоiмунної гемолiтичнiй анемiї з тепловими гемаглютининами звичайно:",
+    "answerOptions": [
+      {
+        "text": "A. Спокiйний",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гострий",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гострий при переохолодженні",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гострий при прийомі медикаментів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гострий при стресі",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "51",
+    "question": "Вмiст гемоглобiну при аутоiмуннiй гемолiтичнiй анемiї з тепловими гемолiзинами в межах:",
+    "answerOptions": [
+      {
+        "text": "A. 40 - 60 г/л",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 60 - 80 г/л",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 80 - 100 г/л",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 100 г/л i вище",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 120 - 140 г/л",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "52",
+    "question": "Характерною особливiстю аутоiмунної гемолiтичної анемiї з тепловими гемолiзинами є:",
+    "answerOptions": [
+      {
+        "text": "A. Видiлення чорної сечі",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гiпербiлiрубiнемiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Тромбози периферичних посагiв",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Високий вмiст гiстамiну в сироватцi кровi",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гіпоглюкоземія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "53",
+    "question": "Вмiст бiлiрубiну при аутоiмуннiй гемолiтичнiй анемiї з тепловими гемолiзинами:",
+    "answerOptions": [
+      {
+        "text": "A. Нормальний або незначно підвищений",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Нормальний",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Трохи підвищений",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Різко підвищений",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Нижче за норму",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "54",
+    "question": "Показання до спленектомiї при аутоiмуннiй гемолiтичнiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Секвестрацiя мiчених 51Cr еритроцитiв переважно в селезінці",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Секвестрацiя мiчених 51Cr еритроцитiв переважно в печiнцi",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Секвестрацiя мiчених 51Cr еритроцитiв в печiнцi i селезінці",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Секвестрацiя мiчених 51Cr еритроцитiв переважно в нирках",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Секвестрацiя мiчених 51Cr еритроцитiв переважно в печінці та нирках",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "55",
+    "question": "Чи запобiгає спленектомiя гемолiтичним кризам при анемiї, викликаним гемолiзинами?",
+    "answerOptions": [
+      {
+        "text": "A. Нi",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Так",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Частково",
+        "isAnswer": false
+      },
+      {
+        "text": "D. У поєднаннi з глюкокортикоїдною терапією",
+        "isAnswer": false
+      },
+      {
+        "text": "E. У поєднаннi з цитостатичною терапією",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "56",
+    "question": "Дiагностика аутоiмунної гемолiтичної анемiї заснована на:",
+    "answerOptions": [
+      {
+        "text": "A. Серологiчнiй дiагностицi за допомогою прямої проби Кумбса",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Визначеннi кiлькостi ретiкулоцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Визначеннi вмiсту бiлiрубiна i його фракцiй",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Сахарознiй пробi",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Визначеннi вмiсту циркулюючих iмунних комплексiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "57",
+    "question": "Патогенетичнi фактори при хворобi Маркiафави-Мiкелi:",
+    "answerOptions": [
+      {
+        "text": "A. Змiна структури еритроцитiв, нейтрофилiв i тромбоцитів",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гiперспленiзм",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Фiксацiя на еритроцитах блокуючих антитiл",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Порушення осмотичної резистентностi еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Порушення синтезу ланцюгів глобiну",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "58",
+    "question": "Температура тiла при загостренні гемолітичної анемії з неповними тепловими аглютинінами (градус Цельсія):",
+    "answerOptions": [
+      {
+        "text": "A. 38-39",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 35-36",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 36,2-37",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 37,1-37,5",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 40-41",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "59",
+    "question": "При яких формах набутих гемолітичних анемій спостерігається більш виразне збільшення розмiрiв селезінки:",
+    "answerOptions": [
+      {
+        "text": "A. Гемолiтична анемiя з неповними тепловими аглютинінами",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Аутоiмунна гемолiтична анемiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гемолiтична анемiя з повними холодовими аглютинінами",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Пароксизмальна холодова гемоглобiнурiя",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "60",
+    "question": "При якій набутій гемолiтичнiй анемії спостерігаються мiкроциркуляторні розлади:",
+    "answerOptions": [
+      {
+        "text": "A. Аутоiмунній гемолітичній анемії з повними холодовими аглютинінами",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Аутоiмунній гемолітичній анемії",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Аутоiмунній гемолітичній анемії з неповними тепловими аглютинінами",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Пароксизмальній холодовій гемоглобiнурiї",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "61",
+    "question": "Пряма проба Кумбса використовується для визначення наявності антитіл:",
+    "answerOptions": [
+      {
+        "text": "A. На еритроцитах хворого",
+        "isAnswer": true
+      },
+      {
+        "text": "B. На еритроцитах донора",
+        "isAnswer": false
+      },
+      {
+        "text": "C. У сироватці крові хворого",
+        "isAnswer": false
+      },
+      {
+        "text": "D. У сироватці крові донора",
+        "isAnswer": false
+      },
+      {
+        "text": "E. На лейкоцитах донора",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "62",
+    "question": "Непряма проба Кумбса використовується для визначення наявності антитіл:",
+    "answerOptions": [
+      {
+        "text": "A. У сироватці крові",
+        "isAnswer": true
+      },
+      {
+        "text": "B. На еритроцитах донора",
+        "isAnswer": false
+      },
+      {
+        "text": "C. На еритроцитах хворого",
+        "isAnswer": false
+      },
+      {
+        "text": "D. На лейкоцитах донора",
+        "isAnswer": false
+      },
+      {
+        "text": "E. На лейкоцитах хворого",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "63",
+    "question": "У яких випадках аутоiмунної гемолітичної анемії можлива негативна пряма проба Кумбса?",
+    "answerOptions": [
+      {
+        "text": "A. У період найбільшої гостроти захворювання",
+        "isAnswer": true
+      },
+      {
+        "text": "B. У період ремiсiї",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Через 12 годин після прийому глюкокортикоїдiв",
+        "isAnswer": false
+      },
+      {
+        "text": "D. У перiод видужання",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Через 6 годин після прийому глюкокортикоїдiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "64",
+    "question": "Дiагностика аутоiмунної гемолiтичної анемiї з тепловими гемолiзинами заснована:",
+    "answerOptions": [
+      {
+        "text": "A. На визначеннi теплових гемо лізинів",
+        "isAnswer": true
+      },
+      {
+        "text": "B. На визначеннi прямої проби Кумбса",
+        "isAnswer": false
+      },
+      {
+        "text": "C. На визначеннi непрямої проби Кумбса",
+        "isAnswer": false
+      },
+      {
+        "text": "D. На виявленнi ретикулоцитозу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. На виявленнi агранулоцитозу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "65",
+    "question": "Для якого виду гемолiтичної анемiї характерна наявнiсть двуфазних гемолiзинів Доната-Ландштейнера?",
+    "answerOptions": [
+      {
+        "text": "A. Пароксизмальної холодової гемоглобiнурiї",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Аутоiмунної гемолiтичної анемiї",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Вродженої гемолiтичної анемiї",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Аутоiмунної анемiї з неповними тепловими гемолiзинами",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "66",
+    "question": "Основний метод лiкування аутоiмунних гемолiтичних анемiй",
+    "answerOptions": [
+      {
+        "text": "A. Глюкокортикоїднi гормони",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Спленектомiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Переривистий плазмаферез",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Трансфузiя еритроцитної маси",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Андрогеннi гормони",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "67",
+    "question": "Основне мiсце утворення антиеритроцитних антитiл при гемолiтичнiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Селезiнка",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Кiстковий мозок",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Печiнка",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Кров",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Нирки",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "68",
+    "question": "Iнтенсивнiсть жовтяницi при набутій гемолiтичнiй анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Ледве виражена",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Виражена",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Рiзко виражена",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Не виражена",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Не характерна",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "69",
+    "question": "У яких випадках показані iмунодепресанти для лікування гемолітичної анемії?",
+    "answerOptions": [
+      {
+        "text": "A. При вiдсутностi ефекту вiд глюкокортикоїдної терапії",
+        "isAnswer": true
+      },
+      {
+        "text": "B. При вiдсутностi ефекту вiд спленектомiї",
+        "isAnswer": false
+      },
+      {
+        "text": "C. При вмiстi гемоглобiну 50 г/л i нижче",
+        "isAnswer": false
+      },
+      {
+        "text": "D. При наявностi вираженої жовтяницi",
+        "isAnswer": false
+      },
+      {
+        "text": "E. При наявностi вираженої білірубінемії",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "70",
+    "question": "Ефективність спленектомiї при аутоiмуннiй гемолiтичнiй анемії з повними холодовими аглютинінами:",
+    "answerOptions": [
+      {
+        "text": "A. Немає ефективності",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Ефективна",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Ефективна в поєднаннi з глюкокортикоїдами",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Ефективна в поєднаннi з iмунодепресантами",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Ефективна в поєднаннi з цитостатиками",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "71",
+    "question": "Найбiльш ефективний вид терапiї гемолiтичнiй анемії з повними холодовими аглютинінами:",
+    "answerOptions": [
+      {
+        "text": "A. Плазмаферез в поєднаннi з iмунодепресантами",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Глюкокортикоїднi гормони",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Спленектомiя",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Трансфузiї цiльної кровi",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Трансфузiї еритроцитної маси",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "72",
+    "question": "Причина підвищеного руйнування перелитих еритроцитів при набутій гемолiтичнiй анемії:",
+    "answerOptions": [
+      {
+        "text": "A. Пiдвищена кроворуйнуюча функцiя селезінки",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Знижена осмотична резистентнiсть еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Наявнiсть в сироватцi кровi реципiєнта антитiл",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Дефект мембрани еритроцитiв донора",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пiдвищена кроворуйнуюча функцiя печінки",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "73",
+    "question": "Критерiї клiнiко-гематологiчної ремiсiї набутої гемолiтичної анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Зниження титру аутоаглютининів в кровi i негативна проба Кумбса",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Зниження титру аутоаглютининів",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Негативна проба Кумбса",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Полiпшення стану хворого",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Нормалiзацiя показників червоної крові",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "74",
+    "question": "Найбільш iнформативнi тести для визначення посиленої гемолітичної активності селезінки:",
+    "answerOptions": [
+      {
+        "text": "A. Радiоiзотопне дослідження",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Ультразвукове дослідження",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гiстологiчне дослідження тканини селезінки",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Бiохiмiчнi тести",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гiстологiчне дослідження тканини печінки",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "75",
+    "question": "Лабораторні ознаки парціальної червоноклітинної аплазiї:",
+    "answerOptions": [
+      {
+        "text": "A. Нормохромна анемiя, глибока ретикулоцитопенiя",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Зменшення продукцiї еритроцитiв, iзольована нормохромна регенераторна анемiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зниження продукцiї еритроцитiв, ретикулоцитоз, iзольована нормохромна анемiя",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Анемiя, ретикулоцитоз, лейкотромбоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Анемiя, агранулоцитоз, лейкопенія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "76",
+    "question": "Патогенез парціальної червоноклiтинної аплазії пов'язаний з:",
+    "answerOptions": [
+      {
+        "text": "A. Дією антитіл на клітини попередники еритропоезу",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Дією антитіл на еритроцити",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Пiдвищенням секвестрацiоної функцiї селезiнки",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Дефектом мембрани еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Усі перелічені варіанти вірні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "77",
+    "question": "Вміст гемоглобіну при важкий формі гемолiтичнiй хворобі, новонародженого звичайно складає:",
+    "answerOptions": [
+      {
+        "text": "A. 60 - 80 г/л",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 20 - 30 г/л",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 40 - 50 г/л",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 50 - 55 г/л",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 100 - 120 г/л",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "78",
+    "question": "Патогенез гемолiзу при опiковiй хворобі:",
+    "answerOptions": [
+      {
+        "text": "A. Вплив високої температури на еритроцити, утворення денатурованих бiлкiв, вплив антиеритроцитарних антитiл",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Стрес",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Iнтоксикацiйний синдром",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Наявнiсть опiкових антигенiв",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Усе перелічене",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "79",
+    "question": "Найбiльш простий i доступний спосiб дiагностики серповидноклiтинної анемiї:",
+    "answerOptions": [
+      {
+        "text": "A. Проба на серповиднiсть з метабісульфітом",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Фарбування мазка кровi за Романовським",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Суправiтальне фарбування мазка кровi",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Цитохiмiчнi методи",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Сахарозна проба",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "80",
+    "question": "До яких захворювань відносять лейкемоїднi реакції?",
+    "answerOptions": [
+      {
+        "text": "A. До функцiональних станiв кроветворного апарату",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гемобластозiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Лiмфом",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Iнфекцiйно-запальних",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Алергозiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "81",
+    "question": "Псевдобластна реакцiя, як правило:",
+    "answerOptions": [
+      {
+        "text": "A. Реакцiя мiєлоїдного типу",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Реакцiя моноцитарного типу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гiстiоцитарна реакцiя",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Моноцитарна реакцiя",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Лiмфоцитарна реакцiя",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "82",
+    "question": "Лейкемоїдна реакцiя при екзогенних i ендогенних iнтоксикацiях:",
+    "answerOptions": [
+      {
+        "text": "A. Лейкоцитоз до 40 зi зсувом до мієлоцитів",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Лейкопенiя з нейтрофiльозом",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Лейкоцитоз зi зсувом лiворуч",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Нормальна кiлькiсть лейкоцитiв, зсув в формулi до метамiєлоцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Лейкоцитоз з лiмфоцитозом",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "83",
+    "question": "Гематологiчнi змiни при вiруснiй пневмонiї:",
+    "answerOptions": [
+      {
+        "text": "A. Гранулоцитопенiя, вiдносний лімфоцитом",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Нейтрофіли мiстять токсичну зернистiсть",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зсув формули лiворуч",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Помiрний лейкоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Лейкоцитоз, лiмфоцитоз, мононуклеари",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "84",
+    "question": "Основним у лiкуваннi аутоімунної гемолiтичної анемiї є:",
+    "answerOptions": [
+      {
+        "text": "A. Глюкокортикостероїди",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Спленектомiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гемотрансфузiя",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Плазмаферез",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Препарати залiза",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "85",
+    "question": "Для внутрiшньосудинного гемолiзу характерно:",
+    "answerOptions": [
+      {
+        "text": "A. Гемолiтична криза",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Нормохромна анемiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Наявнiсть у сечi вiльного гемоглобiну",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Шизоцитоз еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Все перечислені",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "86",
+    "question": "У дiагностицi аутоiмунних гемолiтичних анемiй основним є:",
+    "answerOptions": [
+      {
+        "text": "A. Пряма проба Кумбса",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Пiдвищення рiвня ретикулоцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гiпохромна анемiя",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Пiдвищення непрямого бiлiрубiну кровi",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пiдвищення уробiлiногену у сечi",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "87",
+    "question": "Основна причина, що може призвести до агранулоцитозу:",
+    "answerOptions": [
+      {
+        "text": "A. Iндивiдуальна гiперчутливiсть до лiкарських речовин та хiмiчних сполук",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Аденовiрусна iнфекцiя",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Системнi захворювання сполучної тканини",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лiмфопролiферативнi захворювання",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронiчний гепатит",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "88",
+    "question": "Назвiть лiкарськi препарати, що можуть виступати у ролi гаптенiв та призводять до агранулоцитозу:",
+    "answerOptions": [
+      {
+        "text": "A. Амiдопiрин та комбiнованi з ним препарати",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Бета блокатори",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Антагоністи кальцію",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Транквiлiзатори",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Серцевi глiкозиди",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "89",
+    "question": "Назвiть лiкарськi препарати, що не виступає у ролi гаптенiв та непризводять до агранулоцитозу:",
+    "answerOptions": [
+      {
+        "text": "A. Серцевi глiкозиди",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Амiдопiрин та комбiнованi з ним препарати",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Нестероїднi протизапальнi",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Сульфанiламiди",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Транквiлiзатори",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "90",
+    "question": "Для якого захворювання характерна сеча темно-бурого кольору?",
+    "answerOptions": [
+      {
+        "text": "A. гемолітичної анемії",
+        "isAnswer": true
+      },
+      {
+        "text": "B. застійної нирки",
+        "isAnswer": false
+      },
+      {
+        "text": "C. еритремії",
+        "isAnswer": false
+      },
+      {
+        "text": "D. хронічної ниркової недостатності",
+        "isAnswer": false
+      },
+      {
+        "text": "E. діабетичного гломерулосклерозу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "91",
+    "question": "При розвитку анурії після гемолітичного кризу показано:",
+    "answerOptions": [
+      {
+        "text": "A. гемодiалiз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. введення манітолу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. введення фізрозчину",
+        "isAnswer": false
+      },
+      {
+        "text": "D. введення глюкокортикоїдів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. введення полiглюкiну",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "92",
+    "question": "Яка проліферуюча клітина кісткового мозку дає початок всім клітинам?",
+    "answerOptions": [
+      {
+        "text": "A. стовбурова клітина кісткового мозку",
+        "isAnswer": true
+      },
+      {
+        "text": "B. клітина-попередник лімфопоезу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. клітина-попередник міелопоезу",
+        "isAnswer": false
+      },
+      {
+        "text": "D. еритропоетинчутливі клітини",
+        "isAnswer": false
+      },
+      {
+        "text": "E. мегакаріоцити",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "93",
+    "question": "Термін \"агранулоцитоз\" означає наявність в периферичній крові:",
+    "answerOptions": [
+      {
+        "text": "A. лейкоцитів менше 1,0х109/л, нейтрофілів менше 0,5 х 109/л",
+        "isAnswer": true
+      },
+      {
+        "text": "B. лейкоцитів менше 3,0 х 109/л, нейтрофілів менше 1,5 х 109/л",
+        "isAnswer": false
+      },
+      {
+        "text": "C. лейкоцитів менше 2,0 х 109/л, нейтрофілів менше 1,0 х 109/л",
+        "isAnswer": false
+      },
+      {
+        "text": "D. повна відсутність лейкоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. лейкоцитів менше 3,5 х 109/л, нейтрофілів менше 1,0 х 109/л",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "94",
+    "question": "Виділіть причину розвитку агранулоцитозу, що найбільш часто зустрічається:",
+    "answerOptions": [
+      {
+        "text": "A. лікарські засоби",
+        "isAnswer": true
+      },
+      {
+        "text": "B. променеві ураження",
+        "isAnswer": false
+      },
+      {
+        "text": "C. уремія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. дія хімічних факторів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. алкоголізм",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "95",
+    "question": "Які групи препаратів можуть викликати депресію кровотворення?",
+    "answerOptions": [
+      {
+        "text": "A. Сульфаніламіди",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Вітаміни",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Серцеві глікозиди",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Бета-адреноблокатори",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Інсуліни",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "96",
+    "question": "Які групи препаратів можуть викликати депресію кровотворення?",
+    "answerOptions": [
+      {
+        "text": "A. Антиметаболіти",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Вітамінні препарати",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Серцеві глікозиди",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Бета-адреноблокатори",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Інсуліни",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "97",
+    "question": "Який показник гемограми дозволяє оцінити регенераторну функцію кісткового мозку?",
+    "answerOptions": [
+      {
+        "text": "A. ретикулоцити",
+        "isAnswer": true
+      },
+      {
+        "text": "B. еритрокаріоцити",
+        "isAnswer": false
+      },
+      {
+        "text": "C. мегакаріоцити",
+        "isAnswer": false
+      },
+      {
+        "text": "D. еритроцити",
+        "isAnswer": false
+      },
+      {
+        "text": "E. тромбоцити",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "98",
+    "question": "Яка з наведених анемій відноситься до спадкових гемолітичних?",
+    "answerOptions": [
+      {
+        "text": "A. Таласемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гемолітична хвороба новонароджених",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Хвороба Маркіафави-Мікелі",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Аутоімунна гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Маршова гемоглобінурія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "99",
+    "question": "Яка ознака внутрішньосудинного гемолізу?",
+    "answerOptions": [
+      {
+        "text": "A. наявність в сечі вільного гемоглобіну",
+        "isAnswer": true
+      },
+      {
+        "text": "B. спленомегалія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. гепатомегалія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ретикулоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "100",
+    "question": "Спленомегалія характерна для анемії:",
+    "answerOptions": [
+      {
+        "text": "A. Мінковського-Шоффара",
+        "isAnswer": true
+      },
+      {
+        "text": "B. післягеморагічної",
+        "isAnswer": false
+      },
+      {
+        "text": "C. апластичної",
+        "isAnswer": false
+      },
+      {
+        "text": "D. залізодефіцитної",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Маркіафави-Мікелі",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "101",
+    "question": "Для гемолітичної анемії характерні наступні зміни периферійної крові:",
+    "answerOptions": [
+      {
+        "text": "A. Ретикулоцитоз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Тромбоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Лейкоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лімфоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пойкілоцитоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "102",
+    "question": "Який з наведених лабораторних показників дозволяє поставити діагноз аутоімунної гемолітичної анемії?",
+    "answerOptions": [
+      {
+        "text": "A. проба Кумбса",
+        "isAnswer": true
+      },
+      {
+        "text": "B. сахарозна проба",
+        "isAnswer": false
+      },
+      {
+        "text": "C. проба на аутогемоліз еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "D. визначення осмотичної резистентності еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. кислотний тест Хема",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "103",
+    "question": "Яка ознака не характерна для гемолiтичного кризу:",
+    "answerOptions": [
+      {
+        "text": "A. Свiтла сеча",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Жовтяниця",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Болi в попереку",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Ретикулоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Симптоми гiпоксiї",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "104",
+    "question": "Яка найбiльш часта причина гострої недостатностi кiсткового мозку?",
+    "answerOptions": [
+      {
+        "text": "A. Опромiнення",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Цитостатичнi препарати",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Харчовi отрути",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Промисловi отрути",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Кишковi iнфекцiї",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "105",
+    "question": "Яка з перерахованих нижче ознак характерна для гемолiтичного кризу?",
+    "answerOptions": [
+      {
+        "text": "A. Виражений ретикулоцитоз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Анiзоцитоз еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Пойкiлоцитоз еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гiпохромiя еритроцитiв",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гiперхромiя еритроцитiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "106",
+    "question": "До яких захворювань вiдносять лейкемоїднi реакцiї?",
+    "answerOptions": [
+      {
+        "text": "A. До функцiональних станiв кровотворного апарату",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гемобластозiв",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Лiмфом",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Iнфекцiйно-запальних",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Алергозiв",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "107",
+    "question": "При отруєннi сульфанiламiдами частіше виникає реакцiя типу:",
+    "answerOptions": [
+      {
+        "text": "A. Нейтрофiльна iз зсувом влiво",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Псевдобластна",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Промiєлоцитарна",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лiмфоцитарна",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Мiєлоїдного типу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "108",
+    "question": "Вид гемолізу при мікроангіопатичних гемолітичних анеміях",
+    "answerOptions": [
+      {
+        "text": "A. Локалізований внутрішньосудинний",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Позасудинний в селезінці",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Генералізованний внутрішньосудинний",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Позасудинний в кістковому мозку",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Позасудинний в печінці",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "109",
+    "question": "Новонароджена дитина має недорозвинений тимус. Яких змін лейкограми слід очікувати?",
+    "answerOptions": [
+      {
+        "text": "A. Лімфопенію",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Лімфоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Нейтропенію",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Еритропенію",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Нейтрофільоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "110",
+    "question": "У пацієнта через 1 год після переливання крові розвинувся гемотрансфузійний шок. Дослідження крові виявило лейкопенію. Який найбільш вірогідний механізм її розвитку?",
+    "answerOptions": [
+      {
+        "text": "A. Перерозподіл циркулюючого і пристінкового пулу",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Посилення руйнування лейкоцитів",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Прискорення міграції лейкоцитів у тканини",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Сповільнення дозрівання лейкоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Збільшена втрата лейкоцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "111",
+    "question": "Кількість лейкоцитів у крові хворого – 250109/л. У нього найімовірніше",
+    "answerOptions": [
+      {
+        "text": "A. Лейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Лейкоцитоз",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Лейкопенія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лейкемоїдна реакція",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Норма",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "112",
+    "question": "Дослідження ургентного хворого показало наявність у нього нейтрофільного лейкоцитозу із зсувом лейкоцитарної формули вліво? У хворого найімовірніше",
+    "answerOptions": [
+      {
+        "text": "A. Гнійне запалення",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Туберкульоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Алергічна реакція",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Агранулоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Аліментарний лейкоцитоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "113",
+    "question": "Цитологічний аналіз крові та кісткового мозку дитини виявив наявність в клітинах філадельфійської хромосоми, що свідчить про",
+    "answerOptions": [
+      {
+        "text": "A. Хронічний мієлолейкоз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Лімфому Беркітта",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гострий мієлолейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лімфогранульоматоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронічний лімфолейкоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "114",
+    "question": "У спортсмена після фізичного навантаження виник лейкоцитоз (12•109/л). Який механізм його розвитку?",
+    "answerOptions": [
+      {
+        "text": "A. Перерозподіл пристінкового пулу лейкоцитів у циркулюючий",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Прискорення дозрівання лейкоцитів у тимусі",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зменшений вихід лейкоцитів у тканини",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Активація синтезу лейкоцитів кістковим мозком",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Вихід лейкоцитів з тканин у кров",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "115",
+    "question": "Під час профогляду людини, що не має скарг на стан здоров’я, виявлено лейкоцитоз. Причиною цього може бути те, що кров для аналізу здана після",
+    "answerOptions": [
+      {
+        "text": "A. Фізичного навантаження",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Вживання кофе",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Значного вживання води",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Розумової праці",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Службового відрядження",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "116",
+    "question": "У пацієнта – лімфоцитарний лейкоцитоз. Для якого захворювання це характерно?",
+    "answerOptions": [
+      {
+        "text": "A. Сифіліс",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Мікседема",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гельмінтоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Пневмонія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Апендицит",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "117",
+    "question": "У студента після екзамену виявили лейкоцитоз без суттєвих змін в лейкоцитарній формулі. Це, найімовірніше, виникло в результаті",
+    "answerOptions": [
+      {
+        "text": "A. Перерозподілу лейкоцитів в організмі",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Підсилення лейкопоезу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зменшення руйнування лейкоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Сповільнення еміграції лейкоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пригнічення лейкопоезу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "118",
+    "question": "Після тривалого застосування фенацетину у пацієнта виявили агранулоцитоз. Про це свідчить",
+    "answerOptions": [
+      {
+        "text": "A. Зменшення кількості нейтрофілів, базофілів, еозинофілів",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Збільшення кількості еозинофілів, базофілів, нейтрофілів",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зменшення кількості еритроцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Зменшення кількості лімфоцитів і моноцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Зменшення кількості тромбоцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "119",
+    "question": "У пацієнтки з хронічним гепатитом було виявлено наявність ехінококів. Який вид лейкоцитозу характерний для цієї хвороби?",
+    "answerOptions": [
+      {
+        "text": "A. Еозинофільний",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Моноцитарний",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Базофільний",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лімфоцитарний",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Нейтрофільний",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "120",
+    "question": "У лейкоцитарній формулі хворого знайдено 40 % еозинофілів. Цей сипмтом підтверджує думку про наявність у нього",
+    "answerOptions": [
+      {
+        "text": "A. Стану сенсибілізації",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Раку кишечника",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Туберкульозу легень",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Вірусного гепатиту",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронічної пневмонії",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "121",
+    "question": "Нейтрофільоз – постійна ознака",
+    "answerOptions": [
+      {
+        "text": "A. Крупозної пневмонії",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Аскаридозу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Мікседеми",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Хронічного гастриту",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Раку бронха",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "122",
+    "question": "Хворий 37 років, ліквідатор ЧАЕС, скаржиться на слабкість, наявність поодиноких синців на шкірі. В крові: ер. 2,5x1012/л, рет. 0,1%, КП 1,0, лейк. 2,2x109/л, тромб. 10x109/л. В кістковому мозку явища гіпоплазії. Який найбільш імовірний діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Агранулоцитоз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гіпопластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гострий лейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Хронічна променева хвороба",
+        "isAnswer": false
+      },
+      {
+        "text": "E. B12 -дефіцитна анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "123",
+    "question": "Чоловік 42 років скаржиться на слабкість, серцебиття, носові кровотечі, появу крововиливів у шкірі. Стан прогресивно погіршується протягом місяця. Об'єктивно: Стан тяжкий, на шкірі кінцівок і тулуба петехіальні і плямисті крововиливи. Лімфо-вузли не пальпуються. Ps 116/хв. Печінка +2см, селезінка не пальпується. В крові виражена панцитопенія. Про яке захворювання треба думати в першу чергу?",
+    "answerOptions": [
+      {
+        "text": "A. Гострий агранулоцитоз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гіпопластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гострий лейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Хвороба Верльгофа",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Геморагічний васкуліт",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "124",
+    "question": "Чоловік 62 років скаржиться на слабкість, жар у язиці, заніміння нижніх кінцівок Об'єктивно: шкіра бліда з субіктеричним відтінком, язик яскраво-червоний, смакові сосочки згладжені. Печінка +3см. Гастроскопія: атрофія слизової оболонки. В крові: ер.-1,2х1012/л, Hb 56 г/л, КП 1,4, макроцитоз, лейк. 2,8х109/л, е.2%, п/я. 4%, с/я. 50%, л.42%, м.5%, рет. 0,1%, тромб. 120х109/л, ШЗЕ 26 мм/год, білірубін 29 ммоль/л, непрямий 26 ммоль/л. Який найбільш імовірний діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. В12-дефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Залізодефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гіпопластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Фолієво-дефіцитна анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "125",
+    "question": "Чоловік 37 років скаржиться на періодичні напади болю у правому підребер'ї, які з'явились 2 роки тому, слабкість. З 16 років періодично відмічав іктеричність шкіряних покровів. Об'єктивно: шкіряні покрови та слизові іктеричні, язик обкладений, лімфатичні вузли не збільшені, живіт болісний та напружений у правому підребер'ї. Гепатоспленомегалія. У крові: ер.2,4х1012/л, Hb 84 г/л, КП 1,0, рет.22%, осмотична резистентність еритроцитів знижена, мікросфероцитоз, ШЗЕ - 22 мм/год. Білірубін непрямий - 56 мкмоль/л. Який найбільш імовірний діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Аутоімунна гемолітична анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Спадковий мікросфероцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Хронічний гепатит",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Доброякісна гіпербілірубінемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хвороба Маркіафави-Мікелі",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "126",
+    "question": "У хворого на хронічний лімфолейкоз збільшилася загальна слабкість, з’явилась жовтяниця. В ан. крові: Ер-2,1х1012/л; Нв - 65г/л; К.П.- 1,0; ретикулоц. 51‰. Білірубін загальн.- 80,3 ммоль/л, некон”югований- 65,3ммоль/л. У сечі підвищений рівень уробіліну. Прямий тест Кумбса позитивний. Який ведучий патогенетичний фактор спричинив зниження гемоглобіну?",
+    "answerOptions": [
+      {
+        "text": "A. Аутоімунний гемоліз",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Аплазія кровотворення",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Розвиток мієлофіброзу",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Дефіцит фолієвої кислоти",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Порушення порфіринового обміну",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "127",
+    "question": "У хворого після прийому бісептолу з'явилась олігурія, жовтяниця з вираженою блідістю шкіри та слизових оболонок, збільшилась селезінка,. ЗАК: Ер.-2,2х1012/л, Нв-60 г/л, К.п. 0,62, Le-14х109/л, ретикулоцити 24‰. Непрямий білірубін в сироватці крові 35 мкмоль/л. Сеча та кал темного кольору, підвищений рівень стеркобіліну. Який діагноз є найбільш ймовірним у даного хворого?",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Токсичний гепатит",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гострий лейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Апластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Вірусний гепатит",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "128",
+    "question": "Хв. П., 42 р. Скарги на біль в попереку, потемніння сечі, загальну слабкість, запаморочення, що виникли після лікування застуди аспірином та ампіциліном. Об-но: блідий, склери субіктеричні. ЧСС - 98 уд/хв. Печінка +2 см, селезінка +3 см, пальпаторно чутливі. ЗАК: ер. - 2,2х1012/л, Нв – 60 г/л, КП - 0,5, Le – 9,4х109/л, б - 0,5 %, е - 3 %, п – 6 %, л - 25 %, м – 7 %, ШЗЕ – 38 мм/год, ретикулоцити – 24 %. Біохімічний аналіз крові: заг. білірубін – 38, прямий, непрямий. Яке ускладнення виникло у хворого?",
+    "answerOptions": [
+      {
+        "text": "A. Набута гемолітична анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Токсичний гепатит",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Сечокам’яна хвороба",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Лімфогрануломатоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пароксизмальна нічна гемоглобулінурія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "129",
+    "question": "Хвора 25 років скаржиться на слабкість, запаморочення, геморагічні висипи на шкірі. Хворіє місяць. Аналіз крові:Ер.1,0х1012/л, Нв 30г/л, КП 0,9, Л - 1,2х109/л, Тр – 42х10 9/л. Який метод дослідження буде найбільш доцільним для встоновлення діагнозу?",
+    "answerOptions": [
+      {
+        "text": "A. Стернальна пункція",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Біопсія селезінки",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Біопсія печінки",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Коагулограмма",
+        "isAnswer": false
+      },
+      {
+        "text": "E. УЗД ШКТ",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "130",
+    "question": "Хворому С., 45 років, з групою крові А(В)Rh(-) з приводу постгеморрагічної анемії перелили 200 крові А(В)Rh(+). Під час гемотрансфузії з’явилися: озноб, біль в попереку, за грудиною, нудота. Об’єктивно: шкіра бліда, холодна, волога, дихання шумне з затрудненим видихом. Пульс – 110 уд/хв., АТ-80/60 мм.рт.ст. Виділилася сеча чорного кольору. Яке ускладнення виникло у хворого?",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітичний шок",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гіпотонічний криз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Анафілактичний шок",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Кардіогенний шок",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гостра ниркова недостатність",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "131",
+    "question": "Чоловік, 23 роки, житель Кавказу, через 2 дні після прийому сульфаніламідів відчув різку слабість, високу температура, нудоту, блювоту, болі в животі, виділення темної чорної сечі. Об?єктивно: жовтушність шкіри і слизових, збільшення селезінки. Заг. ан. крові: Нв 50 г/л, ретикулоцити 25%, еритроцити з тільцями Гейнца-Ерліха, дефацит глюкозо-6-фосфатдегідрогенази в еритроцитах. Ваш діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Спадкова гемолітична анемія, пов’язана з дефіцитом Г-6-ФДГ",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Спадковий мікросфероцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Таласемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Серпоподібноклітинна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Сидероахреатична анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "132",
+    "question": "Хвора 28 років, в минулому відмічала слабкість, періодичне виникнення легкої жовтушності шкіри. Після сильного переохолодження виник озноб, біль у м’язах, а також у верхній половині живота. Через день помірна жовтяниця, темний кал і сеча. При дослідженні визначається помірне збільшення печінки і селезінки, жовтушність шкіри і слизових оболонок. Аналіз крові: гемоглобін – 80 г/л, еритроцитів 2,8х1012/л, кольоровий показник 0,8, тромбоцитів 230х109/л, лейкоцитів 9,5х109/л (формула без змін). ШОЕ – 20 мм/год, білірубін – 77,0 мкмоль/л, прямий – 8,6 мкмоль/л. Яке захворювання найбільш ймовірне:",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Загострення хронічного холециститу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гостре інфекційне захворювання",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Залізодефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронічний гепатит",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "133",
+    "question": "Хворий 32 роки, льотчик, госпіталізований на 10 день хвороби. При поступленні стан тяжкий. Температура тіла – 39,7 С. заторможений, на питання відповідає погано. Турбує головний біль, нудота. Менінгіальні знаки відсутні. Помірно жовтушна шкіра. Пульс – 120/хв. печінка та селезінка помірно збільшені, щільної консистенції. В крові: Нв – 75 г/л, ер – 2,2х1012/л,КП–0,8 Лейк – 11,2х109/л, ШОЕ – 39 мм/год. Який тип анемії має місце:",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія ,що обумовлена гемолізом інвазованих еритроцитів",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Спадкова Гемолітична анемія , що обумовлена зміною активності ферментів",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Фолієводифіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Постгеморрагічна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Апластична анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "134",
+    "question": "Хворий скаржиться на слабість, відсутність апетиту, болі і печіння в язику, оніміння дистальних відділів кінцівок, поноси. Об'єктивно: шкіра бліда з лимонно-жовтим відтінком, обличчя одутле з темною пігментацією у вигляді \"метелика\", на язику яскраво-червоні ділянки. Печінка на З см нижче краю реберної дуги, м'яка. В аналізі крові: Ер - 3,2х1012/л, КП -1,2; Л - 3,8x109/л, Тр - 180,0х109/л; є - 0 %; п/я - 1 %; с/я - 58 %; л - 38 %; м - 3 %; макроцитоз. ШОЕ - 28 мм/год. Якому діагнозу відповідає дана клінічна картина?",
+    "answerOptions": [
+      {
+        "text": "A. Залізодефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. В12-дефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Апластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гострий еритромієлоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронічна наднирникова недостатність",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "135",
+    "question": "40-річна жінка, яка страждає на менорагії, скаржиться на мерехтіння \"мушок\" перед очима, запаморочення, ламкість нігтів, випадіння волосся. При обстеженні: блідість шкіри та слизових оболонок. Пульс - 100/хв.; тони серця нормальної звучності, систолічний шум над усіма аускультативними точками. НЬ - 90 г/л, Ер - 3,3х109/л, КП - 0,7, Л - 9,8х1012/л, гіпохромія еритроцитів, анізоцитоз, мікроцитоз, сироваткове залізо - 4,2 мкмоль/л. Яка причина виникнення систолічного шуму?",
+    "answerOptions": [
+      {
+        "text": "A. Порушення синхронності роботи клапанного апарату",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Ураження міокарда гіпоксичного характеру",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Прискорення внутрішньосерцевого кровотоку в умовах зниження в'язкості крові",
+        "isAnswer": true
+      },
+      {
+        "text": "D. Прискорення нутрішньосерцевого кровотоку в умовах збільшення в'язкості крові",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Збільшення хвилинного об'єму крові",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "136",
+    "question": "Хвора 23 років, скаржиться на виражену слабкість, сонливість, потемніння в очах, запаморочення, порушення смаку. В анамнезі значні менорагії. Об'єктивно: виражена слабкість, блідість шкірних покривів, тріщини у кутах рота, ламкі нігті, систолічний шум над верхівкою серця. В аналізі крові: Ер-2,1х1012/л, НЬ-70г/л, КП-0,7. Тр - 140,0х109/л, Л - 6,2х109/л. Який діагноз є найбільш вірогідним?",
+    "answerOptions": [
+      {
+        "text": "A. Хронічна постгеморагічна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гострий лейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гостра постгеморагічна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. В12-дефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хвороба Верльгофа",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "137",
+    "question": "У чоловіка 65 років діагностована В12-дефіцитна анемія, призначено лікування. Через 1 тиждень проведено контрольне обстеження периферичної крові. Який показник в аналізі крові буде раннім критерієм для оцінки ефективності проведеної терапії?",
+    "answerOptions": [
+      {
+        "text": "A. Збільшення кількості ретикулоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Підвищення рівня гемоглобіну",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Зниження колірного показника крові",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Нормобластичне кровотворення",
+        "isAnswer": true
+      },
+      {
+        "text": "E. Збільшення кількості лейкоцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "138",
+    "question": "Чоловік 62 років скаржиться на слабкість, печію в язиці, оніміння нижніх кінцівок. Об'єктивно: шкіра бліда з субіктеричним відтінком, язик яскраво-червоний, смакові сосочки згладжені. Печінка+3 см. При гастроскопії - атрофія слизової оболонки. В аналізі крові: Ер - 1,2х1012/л, НЬ -56 г/л, КП - 1,4, Л - 2,8x109/л, є - 2 %, п/я - 4 %, с/я - 50 %, л - 42 %, м - 5 %, ретикулоцити-0,5%,Тр-120,0х109/л, макроцитоз. ШОЕ - 26 мм/год., білірубін - 29 мкмоль/л, непрямий -26 мкмоль/л. Який найбільш вірогідний діагноз у хворого?",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Залізодефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Гіпопластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. В12-дефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "E. Фолієводефіцитна анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "139",
+    "question": "Хвора 28 років, звернулася до дільничного терапевта зі скаргами на слабкість, запаморочення, носові кровотечі, крововиливи на тулубі. Хворіє 4 місяці. Об'єктивно: стан середньої тяжкості. В ділянці живота та спини крововиливи розміром 1-2 см різного кольору, неболючі. Периферичні лімфовузли не збільшені, з боку серця та легень патології не виявлено. Гепато-та спленомегалії немає. В аналізі крові: НЬ - 80г/л, Ер - 2,4х1012/л, КП -0,8, рет. - 3 %, залізо сироватки -14,01 мкмоль/л, Л - 4,2х109/л, є - 2, баз - 0, п/я - 7 %, с/я - 40 %, м - 6 %, л - 45%, Тр - 47,1х109/л, ШОЕ -27 мм/год. Ваш попередній діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Ідіопатична тромбоцитопенічна пурпура",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Хронічна залізодефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Хронічний лімфолейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Апластична анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "140",
+    "question": "38-річна жінка, яка страждає на менорагії, скаржиться на мерехтіння \"мушок\" перед очима, запаморочення, сухість шкіри, ламкість нігтів, випадіння волосся. При обстежені: блідість шкіри та слизових оболонок. Пульс - 100/хв., ритмічний. Печінка та селезінка не збільшені. НЬ - 90 г/л, Ер - 3,3x1012/л, КП - 0,7, ретикулоци-ти - 0,8 %, Л - 4,8x109/л, є - 2 %, п/я -З %, с/я - 62 %, л - 25 %, м - 10 %, гіпохромія еритроцитів, мікроцитоз, сироваткове залізо - 4,2 мкмоль/л. Який діагноз є найбільш імовірним?",
+    "answerOptions": [
+      {
+        "text": "A. Гіпопластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Сидероахрестична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. В 12-дефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Таласемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Залізодефіцитна анемія",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "141",
+    "question": "Жінка 63 років, скаржиться на загальну слабкість, відчуття тягара, тиснення, переповнення в епігастрії, нудоту, відрижку після їжі. Хворіє близько 15 років. Об'єктивно: температура тіла - 36,4 °С, ЧД - 20/хв., пульс - 88/хв., AT - 115/75 мм рт. ст. Шкіра та слизові оболонки бліді. В аналізі крові: Ер - 2,0х1012/л, НЬ -100 г/л. Виявлені антитіла до обклад-них клітин шлунка. Яка найбільш імовірна причина розвитку анемічного синдрому у даної хворої?",
+    "answerOptions": [
+      {
+        "text": "A. Продукція антитіл до гастрому-копротеїну",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Порушення синтезу гемоглобіну",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Порушення синтезу еритропое-тину",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Порушення всмоктування заліза",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Підвищені витрати заліза",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "142",
+    "question": "Жінка 39 років, протягом 4-х місяців відмічає слабкість, запаморочення, задишку, м'язову слабкість, бажання їсти крейду. В анамнезі: фіброміома матки, маткові кровотечі. В аналізі крові: НЬ - 80г/л, Ер - 2,2х1012/л, КП - 0,7, ШОЕ - 28 мм/год., анізоцитоз, пойкілоцитоз, сироваткове залізо - 5,3 мкмоль/л. Який найбільш імо-вірний діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Залізодефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. В 12-дефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гіпопластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Таласемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "143",
+    "question": "Жінка 37 років, скаржиться на загальну слабість, дратівливість, утруднене ковтання їжі, бажання їсти крейду. Об'єктивно: задовільного харчування, t - 36,5 °С, ЧД - 20/хв., пульс - 96/хв., AT - 110/70 мм рт. ст. Шкірні покриви і видимі слизові бліді. В аналізі крові: НЬ - 70 г/л, Ер -3,4х1012/л, КП - 0,7, ретикулоцити -0,8 %, Л - 4,7x109/л, є - 2 %, п/я - 3 %, с/я - 64 %, л - 26 %, м - 5 %, ШОЕ -15 мм/год. Сироваткове залізо -4,3 мкмоль/л, загальний білок -70 г/л. Дефіцит якого елемента обумовив виникнення захворювання?",
+    "answerOptions": [
+      {
+        "text": "A. Білка",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Вітаміну В6",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Вітаміну В)2",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Заліза (Fe++)",
+        "isAnswer": true
+      },
+      {
+        "text": "E. Фолієвої кислоти",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "144",
+    "question": "Хворий 18 років, поступив з кровотечею з різаної рани на долоні, яка триває протягом 2 діб. Шкірні покриви бліді. Колінний та гомілковий суглоби деформовані, рухи в них обмежені. Лабораторно: кількість тромбоцитів - 420,0x109/л, тривалість кровотечі за Дюке - 3 хв., час згортання крові за Лі - Уайтом - 20 хв., протром-біновий індекс - 100 %, фібриноген -4 г/л. Профілактику якого ускладнення потрібно проводити хворому?",
+    "answerOptions": [
+      {
+        "text": "A. Патологічних переломів",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Постгеморагічної анемії",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Тромбозів",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Апластичної анемії",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Інфікування гематоми",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "145",
+    "question": "Хворий 28 р., скаржиться на слабість, головокружіння, шум в вухах, зниження апетиту. При огляді виявлена блідість шкіри. Волосся тонке, випадає, кігті сплющені, ламкі. Запах з рота, альвеолярна піорея. Для якого захворювання характерна остання ознака?",
+    "answerOptions": [
+      {
+        "text": "A. Перніціозна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Залізодефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гострий лейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Еритремія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "146",
+    "question": "Хворий Н., 40 р., 5 років тому переніс резекцію шлунку з приводу виразкової хвороби. Останнім часом з’явилась виражена загальна слабкість, задишка. Аналіз крові: ер. 3,1 х 1012/л, Нв 60 г/л, КП 0,6, лейк. 4,5 х 109/л, п 2%, е 3%, с 5%, лімф. 32%, мон. 8%, ШОЕ 5 мм/год, сироваткове залізо 6 мкмоль/л. Який патологічний стан розвинувся у хворого?",
+    "answerOptions": [
+      {
+        "text": "A. хронічна залізодефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. апластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. гостра постгеморагічна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. фолієво-дефіцитна анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "147",
+    "question": "Хворий Н., 40 р., 5 років тому переніс резекцію шлунку з приводу виразкової хвороби. Останнім часом з’явилась виражена загальна слабкість, задишка. Діагностовано залізодефіцитну анемію. Який шлях введення препаратів заліза найбільш прийнятний у цьому випадку?",
+    "answerOptions": [
+      {
+        "text": "A. per os",
+        "isAnswer": false
+      },
+      {
+        "text": "B. per rectum",
+        "isAnswer": false
+      },
+      {
+        "text": "C. парентеральний",
+        "isAnswer": true
+      },
+      {
+        "text": "D. інгаляційний",
+        "isAnswer": false
+      },
+      {
+        "text": "E. через шкіру",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "148",
+    "question": "Хворий Д., 35 років, скаржиться на слабкість. При огляді хворий блідий, дещо зниженого харчування, лімфатичні вузли не збільшені. Легені і серце без особливостей. Язик покритий білою осугою, сосочки добре виражені. Аналіз крові: ер. 2х1012/л, Нв 80 г/л, к.п. 1,2, л. ШОЕ 26 мм/год. Який вид анемії у хворого?",
+    "answerOptions": [
+      {
+        "text": "A. гіперхромна",
+        "isAnswer": true
+      },
+      {
+        "text": "B. нормохромна",
+        "isAnswer": false
+      },
+      {
+        "text": "C. гіпохромна",
+        "isAnswer": false
+      },
+      {
+        "text": "D. жодна з назвиних",
+        "isAnswer": false
+      },
+      {
+        "text": "E. усі з назнаваних",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "149",
+    "question": "Хворий Н., 40 р., 5 років тому переніс резекцію шлунку з приводу виразкової хвороби. Останнім часом з’явилась виражена загальна слабкість, задишка. Аналіз крові: ер. 3,1 х 1012/л, Нв 60 г/л, КП 0,6, лейк. 4,5 х 109/л, п 2%, е 3%, с 5%, лімф. 32%, мон. 8%, ШОЕ 5 мм/год. Який метод обстеження допоможе в уточненні діагнозу?",
+    "answerOptions": [
+      {
+        "text": "A. рівень білірубіну",
+        "isAnswer": false
+      },
+      {
+        "text": "B. рівень глюкози",
+        "isAnswer": false
+      },
+      {
+        "text": "C. рівень сироваткового заліза",
+        "isAnswer": true
+      },
+      {
+        "text": "D. рівень креатиніну",
+        "isAnswer": false
+      },
+      {
+        "text": "E. рівень амілази",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "150",
+    "question": "Чоловік, 49 років, скаржиться на слабкість, біль в ділянці серця та в епігастрії, задишку, серцебиття, пекучі відчуття в язиці при прийомі гострої та кислої їжі. Хворіє близько року з погіршенням весною і осінню. Об’єктивно: шкірні покриви бліді, язик червоний, гладкий, вологий, «лакований», на кінчику язика поодинокі виразки. Печінка біля краю реберної дуги. Який найбільш ймовірний діагноз?",
+    "answerOptions": [
+      {
+        "text": "A. Хронічний панкреатит",
+        "isAnswer": false
+      },
+      {
+        "text": "B. В12 дефіцитна анемія.",
+        "isAnswer": true
+      },
+      {
+        "text": "C. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Хронічний гастрит",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Хронічна постгеморагічна анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "151",
+    "question": "Жінка 24 р., скаржиться на загальну слабкість, задишку, ламкість волосся і нігтів. Місячні з 10 років, по 7 днів, в перші 4-5 днів обільні. Пологів та абортів не було. При огляді: голобуватий відтінок склер, блідість шкірних покривів. Які зміни очікуються в ан. крові?",
+    "answerOptions": [
+      {
+        "text": "A. Зменшення сироваткового заліза",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Збільшення сироваткового заліза",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Високий помірний показник",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Збільшення вільного білірубіну",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Зменшення кількості тромбоцитів",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "152",
+    "question": "Чоловік, 35 років, скаржиться на слабкість, серцебиття, ”метелики” перед очима, запаморочення. В анамнезі: пептична виразка шлунку, повторні кровотечі. Об’єктивно: шкіра бліда. В легенях везікулярне дихання. Над верхівкою серця –систолічний шум, пульс – 100 уд/хв., АТ-100/70 мм.рт.ст..Пальпаторно незначна болючисть в епігастрії. Аналіз крові: ЕР-3,2х1012/л, НВ-75 г/л, КП-0,7. Який характер анемії в даному випадку?",
+    "answerOptions": [
+      {
+        "text": "A. Залізо-дефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Постгеморагічна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. В12-дефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Гіпопластична анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "153",
+    "question": "Жінка 30 років скаржиться на загальну слабкість, затруднення при ковтанні їжі, сухість шкіри та ламкість волосся. Об’єктивно: t – 36,60С, ЧД- 16 в 1хв., PS- 92 уд. в 1хв., АТ-110/70 мм. рт. ст. Шкірні покрови та видимі слизові бліді. У крові: Hb – 65 г/л, Ер – 3,2х1012/л, КП – 0,6, рет-3\\%, Л-6,7х109/л, е-2\\%, п-3\\%, с-64\\%, л-26\\%,м-5\\%, ШОЕ-17мм/год. Сироваткове залізо 5,4 мкмоль/л, загальний білок – 78 г/л. Дефіцит якого фактору зумовив виникнення захворювання?",
+    "answerOptions": [
+      {
+        "text": "A. Заліза",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Вітаміну В6",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Білка",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Фолієвої кислоти",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Глюкозо-6- фосфатдегідрогенази",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "154",
+    "question": "Хвора О., 35 р., багатодітна мати, скаржиться на швидку втомлюваність, серцебиття, ламкість нігтів, випадіння волосся. Ер- 2,3х1012/л, Нв –65г/л, КП – 0,7, ретикулоцити – 0,5, тромбоцити – 200х109/л, л – 6,6х109/л, п – 2\\%, с – 56\\%, еоз – 2\\%, б – 1\\%, л – 29\\%, м – 10\\%, анізоцитоз, пойкілоцитоз, ШОЕ – 5мм/год. Ваш діагноз ?",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. В12 –фолієводефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Залізо-дефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "D. Сидероахрестична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Апластична анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "155",
+    "question": "Хвора М., 52 р., скаржиться на слабкість, задишку, пекучість в язиці, оніміння в кінцівках, субфебрілітет, проноси. Об-но: блідість шкіри, гомілки пастозні. При перкусії грудина болюча. П – 140 за хв., АТ – 130/80 мм.рт.ст. Соr- тони ослаблені, на верхівці – систолічний шум. Язик малиновий, „лакований”. Печінка + 2 см, селезінка + 1 см. Ер – 2,0х1012/л, Нв – 60г/л, Л – 2,5х109л, еоз – 1\\%, п –5\\%, с – 57\\%, л – 36\\%, м – 1\\%, ШЗЕ – 62мм/год, мегалобласти, кільця Кебота, Жолі, гіперхромазія. Який діагноз є найбільш імовірним?",
+    "answerOptions": [
+      {
+        "text": "A. Гемолітична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Апластична анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Залізодефіцитна анемія",
+        "isAnswer": false
+      },
+      {
+        "text": "D. В12-фолієводефіцитна анемія",
+        "isAnswer": true
+      },
+      {
+        "text": "E. Сидероахрестична анемія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "156",
+    "question": "Хвора М., 52 р., скаржиться на слабкість, задишку, пекучість в язиці, оніміння в кінцівках, субфебрілітет, проноси. Об-но: блідість шкіри, гомілки пастозні. При перкусії грудина болюча. П – 140 за хв., АТ – 130/80 мм.рт.ст. Соr- тони ослаблені, на верхівці – систолічний шум. Язик малиновий, „лакований”. Ер – 2,0х1012/л, Нв – 60г/л, Л – 2,5х109л, еоз – 1\\%, п –5\\%, с – 57\\%, л – 36\\%, м – 1\\%, ШOЕ – 62мм/год, мегалобласти, кільця Кебота, Жолі, гіперхромазія. Дані зміни характерні для?",
+    "answerOptions": [
+      {
+        "text": "A. нормохромної анемії",
+        "isAnswer": false
+      },
+      {
+        "text": "B. гіпохромної анемії",
+        "isAnswer": false
+      },
+      {
+        "text": "C. гіперхромної анемії",
+        "isAnswer": true
+      },
+      {
+        "text": "D. апластичної анемії",
+        "isAnswer": false
+      },
+      {
+        "text": "E. гемолітичної анемії",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "157",
+    "question": "Яке захворювання протiкає з наведеним аналiзом кровi: ер-3,0x10^12/л, Нв-95 г/л, КП-0,9, ретикулоцити - 25%, тромбоцити -120x10^9/л, лейкоцити - 100x10^9/л, П-4%, С-18%, Л-80%, М- 2%, ШОЕ-34 мм/год",
+    "answerOptions": [
+      {
+        "text": "A. Хронiчний лiмфолейкоз",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Хронiчний лiмфолейкоз з гемолiтичним компонентом",
+        "isAnswer": true
+      },
+      {
+        "text": "C. - Агранулоцитоз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Лейкемоїдна реакцiя",
+        "isAnswer": false
+      },
+      {
+        "text": "E. - Гострий лейкоз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "158",
+    "question": "Для якого захворювання є характер ан.кровi: ер-2,2x10^12/л, Нв-70г/л, КП-0,9, ретик-25%,лейк-9,2x10^9/л, П-10%, С-52%, Л-32%, М- 6%, ШОЕ-38 мм/год, мiкросфер. осмот стiйкiсть еритр: мах-0,44;мiн-0,66. Непр бiлiр 66 мкмоль/л, пр.-12мкмоль/л",
+    "answerOptions": [
+      {
+        "text": "A. - Набутої гемолiтичної анемiї",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Хвороби Мiнковського- Шоффара",
+        "isAnswer": true
+      },
+      {
+        "text": "C. - Таласемiї",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Гiпербiлiрубiнемiї Жiльбера",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "159",
+    "question": "Для якого захворювання наведений аналiз кровi є характерний: ер-3,2x10^12/л, Нв-94г/л, КП-0,9, ретик - 2%,тромб-320x10^9/л, лейк-82x10^9/л, промiєл-4%, мiєлоц-11%, метамiєл-10% ,П-18%, С-29%, Л-10%, М-6%, б -3%, е-11%, ШОЕ-35мм/год",
+    "answerOptions": [
+      {
+        "text": "A. - Агранулоцитоза",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Хронiчного мiєлолейкоза",
+        "isAnswer": true
+      },
+      {
+        "text": "C. - Мiєломної хвороби",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Лейкемоїдної реакцiї",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "160",
+    "question": "Для якого захворювання наведений аналiз кровi є характерний: ер-3,2x10^12/л, Нв-94г/л, КП-0,9, ретик - 2%,тромб-320x10^9/л, лейк-82x10^9/л, промiєл-4%, мiєлоц-11%, метамiєл-10% ,П-18%, С-29%, Л-10%, М-6%, б -3%, е-11%, ШОЕ-35мм/год",
+    "answerOptions": [
+      {
+        "text": "A. - Агранулоцитоза",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Хронiчного мiєлолейкоза",
+        "isAnswer": true
+      },
+      {
+        "text": "C. - Мiєломної хвороби",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Лейкемоїдної реакцiї",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "161",
+    "question": "Для якої анемiї є характерним аналiз кровi: ер-3,0x10^12/л, Нв-75 г/л, КП-0,75, ретикулоцити - 2%, лейк -5,5x10^9/л, тромбоцити 220x10^9/л, е-1%, П-4%, С-60%, Л-31%, М- 4%, ШОЕ-30 мм/год., анiзоцитоз +++, мiкроцитоз, гiпохромiя еритр",
+    "answerOptions": [
+      {
+        "text": "A. - Гiпопластичної",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Залiзодефiцитної",
+        "isAnswer": true
+      },
+      {
+        "text": "C. - Мегалобластної",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Гемолiтичної",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "162",
+    "question": "Для якої анемiї є характерним аналiз кровi ер-3,4x10^12/л, Нв-96 г/л, КП-0,84, ретик - 30%, лейк - 5,8x10^9/л, тромб 180x10^9/л, е - 3%, П-3%, С-60%, Л-28%, М- 6%, ШОЕ-32 мм/год., анiзоцитоз +++, пойкилоцитоз ++, нормобласти 4:200",
+    "answerOptions": [
+      {
+        "text": "A. - Залiзодефiцитної",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Гемолiтичної набутої",
+        "isAnswer": true
+      },
+      {
+        "text": "C. - Хвороби Мiнковського - Шоффара",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Мегалобластної",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "163",
+    "question": "Для якої анемiї є характерним наведений аналiз кровi: ер-2,8x10^12/л, Нв-87 г/л, КП-0,93, ретик -0%, лейк -1,5x10^9/л, тромбоцити 64x10^9/л, е -1%, П-4%, С-28%, Л-61%, М- 6%, ШОЕ-52 мм/год., анiзоцитоз +++, пойкiлоцитоз +++",
+    "answerOptions": [
+      {
+        "text": "A. - Мегалобластної",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Залiзодефiцитної",
+        "isAnswer": false
+      },
+      {
+        "text": "C. - Гiпопластичної",
+        "isAnswer": true
+      },
+      {
+        "text": "D. - Гемолiтичної",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "164",
+    "question": "Для якої анемiї є характерним наведений аналiз кровi: ер-1,5x10^12/л, Нв-56 г/л, КП-1,12, лейк - 4,2x10^9/л, тромб. 130x10^9/л, е - 1%, П-5%, С-56%, Л-34%, М- 5%, ШОЕ-48мм/год., анiзоц +++, макроцитоз, полiсегментоядернi нейтрофiли",
+    "answerOptions": [
+      {
+        "text": "A. - Анемiї Мiнковського -Шоффара",
+        "isAnswer": false
+      },
+      {
+        "text": "B. - Серповидноклiтинної",
+        "isAnswer": false
+      },
+      {
+        "text": "C. - Залiзодефiцитної",
+        "isAnswer": false
+      },
+      {
+        "text": "D. - Мегалобластної",
+        "isAnswer": true
+      },
+      {
+        "text": "E. - Таласемiї",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "165",
+    "question": "У ліквідатора наслідків аварії на ЧАЕС, який отримав дозу іонізуючого випромінювання 5 Гр, через тиждень при аналізі крові виявлена лейкопенія. Який патогенетичний механізм є провідним у її виникненні?",
+    "answerOptions": [
+      {
+        "text": "A. Пригнічення лейкопоезу",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Еміграція лейкоцитів у тканини",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Надмірне руйнування лейкоцитів",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Затримка виходу лейкоцитів з кісткового мозку",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Поява аутоантитіл проти лейкоцитів",
+        "isAnswer": false
+      }
+    ]
+  }
+]

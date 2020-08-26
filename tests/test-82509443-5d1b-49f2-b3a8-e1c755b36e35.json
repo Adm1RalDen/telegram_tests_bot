@@ -1,0 +1,6788 @@
+[
+  {
+    "number": "1",
+    "question": "Якими шарами представлена клітковина заочеревинного простору?",
+    "answerOptions": [
+      {
+        "text": "A. заободова, приниркова і присечовідна, заочеревинна клітковина",
+        "isAnswer": true
+      },
+      {
+        "text": "B. заочеревинна, приниркова, присечовідна клітковина;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. заочеревинна, приниркова, присечовідна клітковина ;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. приниркова, присечовідна і приміхуровим клітковина;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. приниркова, заободова і приміхурової клітковини.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "2",
+    "question": "Які великі судини і органи розташовуються в заочеревинному просторі?",
+    "answerOptions": [
+      {
+        "text": "A. нирки, надниркові, сечоводи, черевна частина аорти і нижня порожниста вена;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. аорта, нирки, надниркові, сечоводи;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. надниркові, нирки, нижня порожниста вена;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. нирки, надниркові, сечоводи;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. нирки, надниркові, ниркові артерії.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "3",
+    "question": "Що таке нефростомія?",
+    "answerOptions": [
+      {
+        "text": "A. накладення ниркового свища;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. розтин нирки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. розкриття ниркової миски;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. декапсуляція нирки;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. видалення нирки.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "4",
+    "question": "Як називається операція фіксації нирки при нефроптозі?",
+    "answerOptions": [
+      {
+        "text": "A. нефротомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. нефростомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. нефректомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. пієлотомія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. нефропексія;",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "5",
+    "question": "Як називається операція видалення каменів з ниркової миски?",
+    "answerOptions": [
+      {
+        "text": "A. нефростомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. пієлолітотомія;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. нефротомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. нефропексія;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. нефректомія",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "6",
+    "question": "Які найраціональніші оперативні доступи використовують при нефректомії?",
+    "answerOptions": [
+      {
+        "text": "A. доступ за Федоровим, Пироговим;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. доступ за Бергманом, Овнатяном;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. доступ за Пироговим, Ізраєлем;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. доступ за Ізраєлем, Овнатяном",
+        "isAnswer": false
+      },
+      {
+        "text": "E. доступ за Федоровим і Бергманом-Ізраєлем;",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "7",
+    "question": "На які відділи (поверхи) ділиться порожнина малого тазу?",
+    "answerOptions": [
+      {
+        "text": "A. надочеревинний, підочеревинний і пахвовий;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. очеревинний, підочеревинний і підшкірний;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. надочеревинний і підочеревинний;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. пахвовий, підфасціальний і підшкірний;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. підшкірний, пахвовий і підочеревинний.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "8",
+    "question": "На якому рівні білої лінії живота проводиться пункція сечового міхура?",
+    "answerOptions": [
+      {
+        "text": "A. на 2 см вище за симфіз;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. на 1 см вище за симфіз;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. безпосередньо по верхньому краю симфізу;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. на 5 см вище за симфіз;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. посередині відстані між пупком і симфізом.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "9",
+    "question": "Якому оперативному доступу віддають перевагу при операції з приводу позаматкової вагітності?",
+    "answerOptions": [
+      {
+        "text": "A. нижня серединна лапаротомія;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. середня серединна лапаротомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. трансректальный доступ;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. поперечний розріз Пфанненштіля;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. верхня серединна лапаротомія.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "10",
+    "question": "Яким швом прошивають стінку сечового міхура при цистостомії?",
+    "answerOptions": [
+      {
+        "text": "A. шовковими вузловими;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. вузловим капроновий;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. безперервним шовковим швом;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. кетгутовыми вузловими;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. кетгутовым безперервним.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "11",
+    "question": "Який оперативний доступ до тазового відділу сечоводу з перерахованих є найраціональнішим?",
+    "answerOptions": [
+      {
+        "text": "A. за Пироговим;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. за Кохером;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. за Бергманом - Ізраєлем;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. за Федоровим;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. за Пфанненштілем.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "12",
+    "question": "На яку глибину вводять голку при пункції заднього склепіння піхви?",
+    "answerOptions": [
+      {
+        "text": "A. на 1 - 2 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на 4 - 5 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. на 0,5 - 1 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. на 2 - 3 см;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. на 5 - 6 див.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "13",
+    "question": "При ушиванні рани сечового міхура після цистостомії хірург прошив слизисту оболонку. До чого це може привести?",
+    "answerOptions": [
+      {
+        "text": "A. до запалення;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. до відкладення конкрементів;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. до кровотечі;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. до утворення сечового набряку;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. до утворення сечового свища.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "14",
+    "question": "Назвіть слабкі місця поперекової області:",
+    "answerOptions": [
+      {
+        "text": "A. трикутник Пті і ромб Лесгафта - Грюнфельда;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ромб Лесгафта - Грюнфельда і Бохдалека;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. трикутник Бохдалека, Пірогова;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. трикутник Пті і Бохдалека;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. трикутник Пті, Пірогова.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "15",
+    "question": "У якій точці поперекової області виконується паранефральна блокада?",
+    "answerOptions": [
+      {
+        "text": "A. на бісектрисі кута, утвореного 12-м ребром і зовнішнім краєм м'яза-розгинача тулуба, відступивши від його вершини1,5-2 см;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. на вершині кута, утвореного 12-м ребром і зовнішнім краєм м'яза-розгинача тулуба;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. під ребровою дугою на рівні задньої пахвової лінії;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. назад від лінії лопатки в 10-му міжреберному проміжку",
+        "isAnswer": false
+      },
+      {
+        "text": "E. по латеральному краю м'яза розгинача спини, на рівні 12-го ребра.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "16",
+    "question": "Промежина обмежена:",
+    "answerOptions": [
+      {
+        "text": "A. сідничними горбами;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. крижово-горбистими зв'язками;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. куприком;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. нижніми гілками лобкових і гілками сідничних кісток",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всім вище перечисленым",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "17",
+    "question": "На якому рівні виконують прокол в поперековій області для спинномозкової пункції у дорослих?",
+    "answerOptions": [
+      {
+        "text": "A. між I і II поперековими хребцями;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. між II і III поперековими хребцями;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. між IІІ і ІV поперековими хребцями;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. між IV і V поперековими хребцями;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. між XII грудним і I поперековими хребцями.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "18",
+    "question": "Які шари проходить голка при виконанні спинномозкової пункції в поперековій області?",
+    "answerOptions": [
+      {
+        "text": "A. надостисту зв'язку;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. міжостисту зв'язку;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. жовту зв'язку з твердою мозковою оболонкою;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. шкіру з підшкірною клітковиною",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі вище перераховані",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "19",
+    "question": "Який вид розрізу використовується для розкриття підшкірного парапроктиту?",
+    "answerOptions": [
+      {
+        "text": "A. радіальний по відношенню до анусу;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. з боку просвіту прямої кишки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. z-подібний розріз на висоті інфільтрату, відступивши від анусу 4 - 5 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. через заднє склепіння піхви;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. через переднє склепіння піхви.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "20",
+    "question": "У хворого виставлений діагноз підслизового парапроктиту. Який вид розрізу використовується для розкриття гнійника?",
+    "answerOptions": [
+      {
+        "text": "A. радіальний по відношенню до анусу;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. дугоподібний розріз на висоті інфільтрату, відступивши від анусу 4-5 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. C. через заднє склепіння піхви;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. з боку просвіту прямої кишки;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. напівовал по відношенню до анусу.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "21",
+    "question": "У хворого встановлений діагноз - сіднично-ректальний парапроктит. Який вид розрізу використовується для розкриття гнійника?",
+    "answerOptions": [
+      {
+        "text": "A. дугоподібний розріз на висоті інфільтрату, відступивши від анусу 4-5 см;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. з боку просвіту прямої кишки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. через переднє склепіння піхви;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. через заднє склепіння піхви;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. напівовал по відношенню до анусу.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "22",
+    "question": "Чим утворено дно трикутника Пті ?",
+    "answerOptions": [
+      {
+        "text": "A. m. obliquus abdominis int.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. serratus post. inf.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. obliquus abdominis ext.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. f. lumbodorsalis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. latissimus dorsi",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "23",
+    "question": "Чим обмежений ромб Грюнфельдта-Лесгафта зверху?",
+    "answerOptions": [
+      {
+        "text": "A. нижнім краєм m. serratus post. inf.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ХІІ ребром",
+        "isAnswer": false
+      },
+      {
+        "text": "C. медіальним краєм m. obliquus abdominis ext.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. f. lumbodorsalis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всім вище перерахованим",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "24",
+    "question": "Назвіть нижню межу ромба Грюнфельдта-Лесгафта?",
+    "answerOptions": [
+      {
+        "text": "A. m. obliquus abdominis int.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ХІІ ребро",
+        "isAnswer": false
+      },
+      {
+        "text": "C. нижній край m. serratus post. inf.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. latissimus dorsi",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі перечисленое не вірно",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "25",
+    "question": "Перерахуйте елементи ниркової ніжки ?",
+    "answerOptions": [
+      {
+        "text": "A. ниркова артерія і вена, миска;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ниркові судини, сечовід;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ниркова артерія і вена;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ниркові судини, нерви, сечовід;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. лімфатичні судини, сечовід.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "26",
+    "question": "Звідки беруть свій початок ниркові артерії ?",
+    "answerOptions": [
+      {
+        "text": "A. від висхідного відділу аорти;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. від черевного відділу аорти на рівні ІІ-ІІІ поперекових хребців;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. від черевного стовбура;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. права від печінкової, ліва від селезінкової артерій;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. від брижової артерії.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "27",
+    "question": "Скільки ви знаєте анатомічних звужень сечоводів?",
+    "answerOptions": [
+      {
+        "text": "A. одне",
+        "isAnswer": false
+      },
+      {
+        "text": "B. два",
+        "isAnswer": false
+      },
+      {
+        "text": "C. три",
+        "isAnswer": true
+      },
+      {
+        "text": "D. чотири",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "28",
+    "question": "Які непарні гілки відходять від черевного відділу аорти?",
+    "answerOptions": [
+      {
+        "text": "A. tr. coeliaca, а. mesenterica sup., а. mesenterica inf, а. sacralis mediana",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. mesenterica sup., а. renalis, а. lumbalis.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. mesenterica inf., aa. рhrenicae inf.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а renalis, а. lumbalis.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. aa. рhrenicae inf.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "29",
+    "question": "З яких судин формується v. рortae?",
+    "answerOptions": [
+      {
+        "text": "A. v. lienalis, v. mesenterica sup., v. mesenterica inf., v. coronaria ventriculi, v. cystica",
+        "isAnswer": true
+      },
+      {
+        "text": "B. v. mesenterica sup., v. mesenterica inf., v. coronaria ventriculi",
+        "isAnswer": false
+      },
+      {
+        "text": "C. v. renalis, v. lumbalis.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. v. mesenterica sup., v. mesenterica inf.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. v. mesenterica sup., v. renalis, v. lumbalis.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "30",
+    "question": "Перерахуєте відділи сечового міхура.",
+    "answerOptions": [
+      {
+        "text": "A. тіло, дно;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. верхівка, шийка, дно;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. верхівка, тіло, дно, шийка;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. середня, передня, задня;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. верхня, середня, задня.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "31",
+    "question": "Чи захоплюється слизова оболонка в шов при ушиванні стінок сечоводів?",
+    "answerOptions": [
+      {
+        "text": "A. так;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ні;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. залежить від виду пластики;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. залежить від виду швів;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. залежить від розрізу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "32",
+    "question": "Яке поглиблення малого тазу використовують для діагностики внутрішньо-очеревинних кровотеч?",
+    "answerOptions": [
+      {
+        "text": "A. матково-ректальне;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. міхурово- ректальне;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. заднє ректальне",
+        "isAnswer": false
+      },
+      {
+        "text": "D. міхурний - маткове",
+        "isAnswer": false
+      },
+      {
+        "text": "E. передміхурове",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "33",
+    "question": "Які два основні відділи виділяють в прямій кишці?",
+    "answerOptions": [
+      {
+        "text": "A. верхній і нижній;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. сагітальний і фронтальний",
+        "isAnswer": false
+      },
+      {
+        "text": "C. надампулярний, ампулярний",
+        "isAnswer": false
+      },
+      {
+        "text": "D. очеревинний, підочеревинний",
+        "isAnswer": false
+      },
+      {
+        "text": "E. тазовий і промежинний;",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "34",
+    "question": "Перерахуєте венозні сплетення прямої кишки?",
+    "answerOptions": [
+      {
+        "text": "A. підшкірне, підслизове, підфасціальне;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. зовнішнє і внутрішнє;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. підслизове, підшкірне",
+        "isAnswer": false
+      },
+      {
+        "text": "D. верхнє, середне, нижне",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі перераховані не вірно",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "35",
+    "question": "Яке положення в тазу займає матка в нормі?",
+    "answerOptions": [
+      {
+        "text": "A. retroversio, retroflexio;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. anteversio, retroflexio;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. anteversio, anteflexio;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. retroversio, anteflexio;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зігнута в перед в сагітальній площині",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "36",
+    "question": "Які анатомічні утворення проходять через for. suprapiriforme?",
+    "answerOptions": [
+      {
+        "text": "A. а. et v. glutea sup., n. gluteus sup.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. pudenda int., а. glutea inf.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. n. ischiadicus, n. cutaneus femoris post.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. n. gluteus inf., n. pudendus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. pudenda int., а. glutea inf., n. pudendus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "37",
+    "question": "Через який отвір з порожнини тазу виходять а. et v. glutea sup., n. gluteus sup?",
+    "answerOptions": [
+      {
+        "text": "A. через for. suprapiriforme",
+        "isAnswer": true
+      },
+      {
+        "text": "B. через for. infrapiriforme",
+        "isAnswer": false
+      },
+      {
+        "text": "C. через великий сідничний отвір",
+        "isAnswer": false
+      },
+      {
+        "text": "D. через малий сідничний отвір",
+        "isAnswer": false
+      },
+      {
+        "text": "E. через зовнішній отвір стегнового каналу.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "38",
+    "question": "Через який отвір з порожнини тазу виходять а. pudenda int., а. glutea inf., n. іschiadicus?",
+    "answerOptions": [
+      {
+        "text": "A. через for. іnfrapiriforme",
+        "isAnswer": true
+      },
+      {
+        "text": "B. через малий сідничний отвір",
+        "isAnswer": false
+      },
+      {
+        "text": "C. через for. suprapiriforme",
+        "isAnswer": false
+      },
+      {
+        "text": "D. через зовнішній отвір стегнового каналу.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. через великий сідничний отвір",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "39",
+    "question": "Яку кількість хребців складає шийний відділ хребта?",
+    "answerOptions": [
+      {
+        "text": "A. 3",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 5",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 7",
+        "isAnswer": true
+      },
+      {
+        "text": "E. всі відповіді неправильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "40",
+    "question": "З якої кількості хребців складається грудний відділ хребта?",
+    "answerOptions": [
+      {
+        "text": "A. 10",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 7",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 8",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 11",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 12",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "41",
+    "question": "Що таке люмбалізація хребців?",
+    "answerOptions": [
+      {
+        "text": "A. І крижовий хребець стає вільним і вважається VI поперековим",
+        "isAnswer": true
+      },
+      {
+        "text": "B. зрощення крижової кістки з V поперековим хребцем",
+        "isAnswer": false
+      },
+      {
+        "text": "C. зрощення всіх поперекових хребців",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі відповіді правильні",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді неправильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "42",
+    "question": "Як називаються викривлення хребта в сагітальній площині, які направлені вперед?",
+    "answerOptions": [
+      {
+        "text": "A. кифозы (грудний, крижово-куприковий)",
+        "isAnswer": false
+      },
+      {
+        "text": "B. сколиозы",
+        "isAnswer": false
+      },
+      {
+        "text": "C. лордози (шийний, поперековий)",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі відповіді правильні",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді неправильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "43",
+    "question": "Як називаються викривлення хребта в сагітальній площині, які направлені назад?",
+    "answerOptions": [
+      {
+        "text": "A. лордози (шийний, поперековий)",
+        "isAnswer": false
+      },
+      {
+        "text": "B. кифозы (грудний, крижово-куприковий)",
+        "isAnswer": true
+      },
+      {
+        "text": "C. сколиозы",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі відповіді правильні",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді неправильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "44",
+    "question": "Чим утворена верхня стінка затульного каналу:",
+    "answerOptions": [
+      {
+        "text": "A. затульним отвором;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. затульною борозною лобкової кістки;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. затульною мембраною;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. внутрішнім затульним м'язом;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішнім затульним м'язом.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "45",
+    "question": "Вкажіть на якому рівні сечовід впадає в сечовий міхур",
+    "answerOptions": [
+      {
+        "text": "A. нижня стінка",
+        "isAnswer": true
+      },
+      {
+        "text": "B. шийка",
+        "isAnswer": false
+      },
+      {
+        "text": "C. тіло",
+        "isAnswer": false
+      },
+      {
+        "text": "D. дно",
+        "isAnswer": false
+      },
+      {
+        "text": "E. верхівка",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "46",
+    "question": "Вкажіть судини, які віддають гілки для кровопостачання верхніх відділів сечоводів?",
+    "answerOptions": [
+      {
+        "text": "A. верхня ректальна артерія",
+        "isAnswer": false
+      },
+      {
+        "text": "B. очеревинний відділ аорти",
+        "isAnswer": false
+      },
+      {
+        "text": "C. маткові артерії",
+        "isAnswer": false
+      },
+      {
+        "text": "D. затульні артерії",
+        "isAnswer": false
+      },
+      {
+        "text": "E. ниркові артерії",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "47",
+    "question": "Які анатомічні утворення проходять через сечостатеву діафрагму у чоловіків?",
+    "answerOptions": [
+      {
+        "text": "A. перепончата частина уретри",
+        "isAnswer": true
+      },
+      {
+        "text": "B. губчаста частина уретри",
+        "isAnswer": false
+      },
+      {
+        "text": "C. анальний канал",
+        "isAnswer": false
+      },
+      {
+        "text": "D. нижня фасція діафрагми тазу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді неправильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "48",
+    "question": "Які анатомічні утворення проходять через сечостатеву діафрагму у жінок?",
+    "answerOptions": [
+      {
+        "text": "A. піхва, сечовивідний канал",
+        "isAnswer": true
+      },
+      {
+        "text": "B. анальний канал",
+        "isAnswer": false
+      },
+      {
+        "text": "C. тильна вена клітора",
+        "isAnswer": false
+      },
+      {
+        "text": "D. тильна артерія клітора",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді неправильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "49",
+    "question": "На які відділи ділиться фасція тазу?",
+    "answerOptions": [
+      {
+        "text": "A. верхній, нижній",
+        "isAnswer": false
+      },
+      {
+        "text": "B. парієнтальний, вісцеральний",
+        "isAnswer": true
+      },
+      {
+        "text": "C. латеральний, медіальний",
+        "isAnswer": false
+      },
+      {
+        "text": "D. підочеревинний, підшкірний",
+        "isAnswer": false
+      },
+      {
+        "text": "E. підшкірний, шкіряний",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "50",
+    "question": "Перерахуєте зміст верхнього поверху малого тазу у чоловіків?",
+    "answerOptions": [
+      {
+        "text": "A. пряма кишка, сечовий міхур, сечоводи",
+        "isAnswer": false
+      },
+      {
+        "text": "B. сечовий міхур, сечоводи, сім'явивідна протока",
+        "isAnswer": false
+      },
+      {
+        "text": "C. пряма кишка, сечовий міхур, простата",
+        "isAnswer": false
+      },
+      {
+        "text": "D. пряма кишка, сечовий міхур, сім'явивідна протока, простата",
+        "isAnswer": false
+      },
+      {
+        "text": "E. пряма кишка, сечовий міхур, ампула сім'явивідної протоки, сім’яні міхурці",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "51",
+    "question": "Які з приведених анатомічних утворень розміщені в середньому відділі порожнини малого тазу у жінок?",
+    "answerOptions": [
+      {
+        "text": "A. пряма кишка, сечовий міхур, шийка матки",
+        "isAnswer": true
+      },
+      {
+        "text": "B. пряма кишка, матка, яєчники, маткові труби",
+        "isAnswer": false
+      },
+      {
+        "text": "C. пряма кишка, матка, яєчники, сечовий міхур",
+        "isAnswer": false
+      },
+      {
+        "text": "D. сечовий міхур, сечоводи",
+        "isAnswer": false
+      },
+      {
+        "text": "E. матка, сечовий міхур, сечоводи",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "52",
+    "question": "У якому відділі порожнини малого тазу розміщено тіло матки, яєчники, маткові труби ?",
+    "answerOptions": [
+      {
+        "text": "A. у середньому відділі",
+        "isAnswer": false
+      },
+      {
+        "text": "B. у нижньому відділі",
+        "isAnswer": false
+      },
+      {
+        "text": "C. у верхньому відділі",
+        "isAnswer": true
+      },
+      {
+        "text": "D. у надшкірному відділі",
+        "isAnswer": false
+      },
+      {
+        "text": "E. у підшкірному відділі",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "53",
+    "question": "Вкажіть який відділ сечового міхура не покритий очеревиною?",
+    "answerOptions": [
+      {
+        "text": "A. верхівка",
+        "isAnswer": false
+      },
+      {
+        "text": "B. шийка",
+        "isAnswer": false
+      },
+      {
+        "text": "C. тіло",
+        "isAnswer": false
+      },
+      {
+        "text": "D. дно",
+        "isAnswer": true
+      },
+      {
+        "text": "E. верхівка, шийка",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "54",
+    "question": "Яка частина сечовивідного каналу у чоловіків є найширшою?",
+    "answerOptions": [
+      {
+        "text": "A. простатична",
+        "isAnswer": false
+      },
+      {
+        "text": "B. Перепончата",
+        "isAnswer": true
+      },
+      {
+        "text": "C. пристеночная",
+        "isAnswer": false
+      },
+      {
+        "text": "D. цибулинна",
+        "isAnswer": false
+      },
+      {
+        "text": "E. не має виражених звужень і розширень",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "55",
+    "question": "Яка частина сечовивідного каналу у чоловіків є найвужчою ?",
+    "answerOptions": [
+      {
+        "text": "A. пристеночная",
+        "isAnswer": false
+      },
+      {
+        "text": "B. перепончата",
+        "isAnswer": false
+      },
+      {
+        "text": "C. не має виражених звужень і розширень",
+        "isAnswer": false
+      },
+      {
+        "text": "D. простатична",
+        "isAnswer": true
+      },
+      {
+        "text": "E. цибулинна",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "56",
+    "question": "У який частині сечовивідного каналу у чоловіків знаходиться внутрішній сфінктер?",
+    "answerOptions": [
+      {
+        "text": "A. пристіночна",
+        "isAnswer": true
+      },
+      {
+        "text": "B. простатична",
+        "isAnswer": false
+      },
+      {
+        "text": "C. цибулинною",
+        "isAnswer": false
+      },
+      {
+        "text": "D. перепончата",
+        "isAnswer": false
+      },
+      {
+        "text": "E. на межі простатичною і перепончатою",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "57",
+    "question": "У який частині сечовивідного каналу у чоловіків знаходиться зовнішній сфінктер?",
+    "answerOptions": [
+      {
+        "text": "A. перетинковою",
+        "isAnswer": true
+      },
+      {
+        "text": "B. простатичною",
+        "isAnswer": false
+      },
+      {
+        "text": "C. цибулинною",
+        "isAnswer": false
+      },
+      {
+        "text": "D. пристеночной",
+        "isAnswer": false
+      },
+      {
+        "text": "E. на межі простатичною і перепончатою",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "58",
+    "question": "На вільному краю якої зв'язки розташовані придатки матки?",
+    "answerOptions": [
+      {
+        "text": "A. широкою",
+        "isAnswer": true
+      },
+      {
+        "text": "B. круглою",
+        "isAnswer": false
+      },
+      {
+        "text": "C. міхурово-матковою",
+        "isAnswer": false
+      },
+      {
+        "text": "D. лонно-міхуровою",
+        "isAnswer": false
+      },
+      {
+        "text": "E. матково-прямокишковою",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "59",
+    "question": "Чому при операціях з приводу позаматкової вагітності не рекомендують накладати затискач на власну зв'язку яєчника?",
+    "answerOptions": [
+      {
+        "text": "A. там знаходиться анастомоз між матковою і яєчниковою артеріями",
+        "isAnswer": true
+      },
+      {
+        "text": "B. там знаходиться маткова артерія",
+        "isAnswer": false
+      },
+      {
+        "text": "C. там знаходиться лімфатичний колектор",
+        "isAnswer": false
+      },
+      {
+        "text": "D. знаходиться анастомоз вен матки і сечового міхура",
+        "isAnswer": false
+      },
+      {
+        "text": "E. проходять внутрішні статеві артерії",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "60",
+    "question": "Який м'яз виходить через малий сідничний отвір?",
+    "answerOptions": [
+      {
+        "text": "A. малий сідничний м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "B. нижній близнюковий м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "C. грушовидний м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. внутрішній затульний м'яз",
+        "isAnswer": true
+      },
+      {
+        "text": "E. верхній близнюковий м'яз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "61",
+    "question": "Перерахуєте які анатомічні отвори обмежують сіднично-ректальну ямку?",
+    "answerOptions": [
+      {
+        "text": "A. внутрішня стінка - m. levator ani, зовнішня стінка - m. obturator int.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. внутрішня стінка - m. levator ani, зовнішня стінка - m. bulbo-cavernosus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. зовнішня стінка - m. levator ani, внутрішня стінка - m. ishio-cavernosus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. зовнішня стінка - m. levator ani, внутрішня стінка - lig. sacro-tuberosum",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішня стінка - m. levator ani, внутрішня стінка - m. transversus perinei superficialis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "62",
+    "question": "До якого анатомічного утворення прикріпляється корінь статевого члена?",
+    "answerOptions": [
+      {
+        "text": "A. затульний горб",
+        "isAnswer": false
+      },
+      {
+        "text": "B. гребінь лобкової кістки",
+        "isAnswer": false
+      },
+      {
+        "text": "C. сідничний горб",
+        "isAnswer": false
+      },
+      {
+        "text": "D. сідничний остюк",
+        "isAnswer": false
+      },
+      {
+        "text": "E. тіло лобкової кістки",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "63",
+    "question": "З яких анатомічних утворень формується головка і цибулина статевого члена?",
+    "answerOptions": [
+      {
+        "text": "A. пещеристе тіло",
+        "isAnswer": false
+      },
+      {
+        "text": "B. губчасте тіло",
+        "isAnswer": true
+      },
+      {
+        "text": "C. перегородка статевого члена",
+        "isAnswer": false
+      },
+      {
+        "text": "D. уретра",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "64",
+    "question": "Скільки оболонок має калитка і сім'яний канатик?",
+    "answerOptions": [
+      {
+        "text": "A. 2",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 5",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 7",
+        "isAnswer": true
+      },
+      {
+        "text": "E. 8",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "65",
+    "question": "Назвіть першу оболонку яєчка починаючи ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. шкіра",
+        "isAnswer": true
+      },
+      {
+        "text": "B. tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. cremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "D. внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "66",
+    "question": "Назвіть другу оболонку яєчка починаючи ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. m. cremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "B. внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "C. зовнішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "D. tunica dartos",
+        "isAnswer": true
+      },
+      {
+        "text": "E. шкіра",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "67",
+    "question": "Назвіть третю оболонку яєчка починаючи ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "B. зовнішня сім’яна фасція",
+        "isAnswer": true
+      },
+      {
+        "text": "C. m. cremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "D. шкіра",
+        "isAnswer": false
+      },
+      {
+        "text": "E. tunica dartos",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "68",
+    "question": "Назвіть четвертую оболонку яєчка починаючи ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. f. cremasterica",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. cremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "C. tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "D. внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "69",
+    "question": "Назвіть п'яту оболонку яєчка починаючи ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. сremaster",
+        "isAnswer": true
+      },
+      {
+        "text": "B. f. cremasterica",
+        "isAnswer": false
+      },
+      {
+        "text": "C. tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "D. внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "70",
+    "question": "Назвіть шосту оболонку яєчка починаючи ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "B. f. cremasterica",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішня сім’яна фасція",
+        "isAnswer": true
+      },
+      {
+        "text": "D. m. сremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "71",
+    "question": "Назвіть яка оболонка утворює перетинку калитки?",
+    "answerOptions": [
+      {
+        "text": "A. f. cremasterica",
+        "isAnswer": false
+      },
+      {
+        "text": "B. tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. Сremaster",
+        "isAnswer": true
+      },
+      {
+        "text": "E. зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "72",
+    "question": "Якому шару передньої черевної стінки відповідає четвертий шар оболонок яєчка?",
+    "answerOptions": [
+      {
+        "text": "A. апоневрозу зовнішнього косого м'язу живота",
+        "isAnswer": true
+      },
+      {
+        "text": "B. апоневрозу внутрішнього косого м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішньому косому м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "D. підшкірній жировій клітковині",
+        "isAnswer": false
+      },
+      {
+        "text": "E. поверхневій фасції",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "73",
+    "question": "Якому шару передньої черевної стінки відповідає другий шар оболонок яєчка?",
+    "answerOptions": [
+      {
+        "text": "A. підшкірній жировій клітковині",
+        "isAnswer": true
+      },
+      {
+        "text": "B. апоневрозу внутрішнього косого м'яза живота",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішньому косому м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "D. апоневрозу зовнішнього косого м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "E. поверхневій фасції",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "74",
+    "question": "Якому анатомічному утворенню відповідає tunica vaginalis propria testis?",
+    "answerOptions": [
+      {
+        "text": "A. парієнтальній очеревині",
+        "isAnswer": true
+      },
+      {
+        "text": "B. апоневрозу внутрішнього косого м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішньому косому м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "D. апоневрозу зовнішнього косого м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "E. поверхневій фасції",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "75",
+    "question": "Якому анатомічному утворенню відповідає шостий шар оболонок яєчка?",
+    "answerOptions": [
+      {
+        "text": "A. апоневрозу зовнішнього косого м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "B. апоневрозу внутрішнього косого м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішньому косому м'язу живота",
+        "isAnswer": false
+      },
+      {
+        "text": "D. поперечній фасції живота",
+        "isAnswer": true
+      },
+      {
+        "text": "E. поверхневій фасції",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "76",
+    "question": "Вкажіть що з перерахованих анатомічних утворень не входить до складу сім'яного канатика?",
+    "answerOptions": [
+      {
+        "text": "A. задні мошонкові вени",
+        "isAnswer": true
+      },
+      {
+        "text": "B. сім'явивідна протока",
+        "isAnswer": false
+      },
+      {
+        "text": "C. артерія яєчка",
+        "isAnswer": false
+      },
+      {
+        "text": "D. кремастерна артерія",
+        "isAnswer": false
+      },
+      {
+        "text": "E. вагінальний відросток очеревини",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "77",
+    "question": "Яка з нижче перерахованих судин проходить у складі сім'яного канатика?",
+    "answerOptions": [
+      {
+        "text": "A. а pudendae ext.",
+        "isAnswer": false
+      },
+      {
+        "text": "B. а. pudendae int.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. spermatica int.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. v. dorsalis penis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. perinei",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "78",
+    "question": "Який шар оболонок калитки утворений поперечною фасцією живота?",
+    "answerOptions": [
+      {
+        "text": "A. шостий -внутренняя сім’яна фасція",
+        "isAnswer": true
+      },
+      {
+        "text": "B. четвертий - f. cremasterica",
+        "isAnswer": false
+      },
+      {
+        "text": "C. другий - tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "D. п'ятий - m. сremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "E. третій - зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "79",
+    "question": "Який шар оболонок калитки утворений апоневрозом зовнішнього косого м'яза живота?",
+    "answerOptions": [
+      {
+        "text": "A. п'ятий - m. сremaster",
+        "isAnswer": false
+      },
+      {
+        "text": "B. шостий - внутрішня сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "C. другий - tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "D. четвертий - f. cremasterica",
+        "isAnswer": true
+      },
+      {
+        "text": "E. третій - зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "80",
+    "question": "Який шар оболонок калитки утворений внутрішньою косою і поперечною м'язами живота?",
+    "answerOptions": [
+      {
+        "text": "A. шостий – внутренняя сім’яна фасція",
+        "isAnswer": false
+      },
+      {
+        "text": "B. другий - tunica dartos",
+        "isAnswer": false
+      },
+      {
+        "text": "C. четвертий - f. cremasterica",
+        "isAnswer": false
+      },
+      {
+        "text": "D. п'ятий - m. Сremaster",
+        "isAnswer": true
+      },
+      {
+        "text": "E. третій - зовнішня сім’яна фасція",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "81",
+    "question": "До якого анатомічного утворення прикріпляються ніжки клітора?",
+    "answerOptions": [
+      {
+        "text": "A. затульний горб",
+        "isAnswer": false
+      },
+      {
+        "text": "B. тіло лобкової кістки",
+        "isAnswer": true
+      },
+      {
+        "text": "C. гребінь лобкової кістки",
+        "isAnswer": false
+      },
+      {
+        "text": "D. сідничний горб",
+        "isAnswer": false
+      },
+      {
+        "text": "E. симфіз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "82",
+    "question": "На якому рівні проектуються бартоліневі залози?",
+    "answerOptions": [
+      {
+        "text": "A. клітор",
+        "isAnswer": false
+      },
+      {
+        "text": "B. передня спайка великих статевих губ",
+        "isAnswer": false
+      },
+      {
+        "text": "C. задня спайка великих статевих губ",
+        "isAnswer": true
+      },
+      {
+        "text": "D. серединний шов промежини",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зовнішній отвір сечовивідного каналу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "83",
+    "question": "Який м'яз є межею між сечостатевою і тазовою діафрагмами?",
+    "answerOptions": [
+      {
+        "text": "A. цибулинно-губчастий м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "B. глибокий поперечний м'яз промежини",
+        "isAnswer": false
+      },
+      {
+        "text": "C. копчиковий м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. сіднично-пещеристий м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "E. поверхневий поперечний м'яз промежини",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "84",
+    "question": "Який м'яз фіксує сухожильний центр промежини?",
+    "answerOptions": [
+      {
+        "text": "A. сіднично-пещеристий м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "B. глибокий поперечний м'яз промежини",
+        "isAnswer": false
+      },
+      {
+        "text": "C. копчиковий м'яз",
+        "isAnswer": false
+      },
+      {
+        "text": "D. поверхневий поперечний м'яз промежини",
+        "isAnswer": true
+      },
+      {
+        "text": "E. цибулино-губчастий м'яз",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "85",
+    "question": "Вкажіть проекцію сіднично-ректальної ямки?",
+    "answerOptions": [
+      {
+        "text": "A. по медіальному краю сідничного горба",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на середині відстані між основою куприка і сідничним горбом",
+        "isAnswer": false
+      },
+      {
+        "text": "C. проміжок між сідничним горбом і анусом",
+        "isAnswer": true
+      },
+      {
+        "text": "D. по середині промежини",
+        "isAnswer": false
+      },
+      {
+        "text": "E. назовні від сідничного горба",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "86",
+    "question": "Дайте визначення, що таке фімоз?",
+    "answerOptions": [
+      {
+        "text": "A. дистопія зовнішнього отвору сечовивідного каналу",
+        "isAnswer": false
+      },
+      {
+        "text": "B. звуження зовнішнього отвору сечовивідного каналу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. недорозвинення дистального відділу уретри у чоловіків",
+        "isAnswer": false
+      },
+      {
+        "text": "D. звуження зовнішнього отвору крайньої плоті",
+        "isAnswer": true
+      },
+      {
+        "text": "E. защемлення головки статевого члена отвором крайньої плоті",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "87",
+    "question": "Дайте визначення, що таке парафімоз?",
+    "answerOptions": [
+      {
+        "text": "A. защемлення головки статевого члена в отворі крайньої плоті",
+        "isAnswer": true
+      },
+      {
+        "text": "B. недорозвинення дистального відділу уретри у чоловіків",
+        "isAnswer": false
+      },
+      {
+        "text": "C. дистопія зовнішнього отвору сечовивідного каналу",
+        "isAnswer": false
+      },
+      {
+        "text": "D. звуження зовнішнього отвору сечовивідного каналу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. звуження зовнішнього отвору крайньої плоті",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "88",
+    "question": "Дайте визначення, що таке баланопостит?",
+    "answerOptions": [
+      {
+        "text": "A. гостре запалення головки статевого члена і крайньої плоті",
+        "isAnswer": true
+      },
+      {
+        "text": "B. звуження зовнішнього отвору сечовивідного каналу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. защемлення головки статевого члена в отворі крайньої плоті",
+        "isAnswer": false
+      },
+      {
+        "text": "D. звуження зовнішнього отвору крайньої плоті",
+        "isAnswer": false
+      },
+      {
+        "text": "E. парок розвику дистального відділу уретри",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "89",
+    "question": "Дайте визначення гіпоспадії?",
+    "answerOptions": [
+      {
+        "text": "A. защемлення головки статевого члена в отворі крайньої плоті",
+        "isAnswer": false
+      },
+      {
+        "text": "B. гостре запалення головки статевого члена і крайньої плоті",
+        "isAnswer": false
+      },
+      {
+        "text": "C. звуження зовнішнього отвору сечовивідного каналу",
+        "isAnswer": false
+      },
+      {
+        "text": "D. порок розвития дистального відділу уретри, з дистопією її зовнішнього отвору",
+        "isAnswer": true
+      },
+      {
+        "text": "E. звуження зовнішнього отвору крайньої плоті",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "90",
+    "question": "Які зв'язки матки відносяться до підвішуючого апарату?",
+    "answerOptions": [
+      {
+        "text": "A. lig. latum uteri, lig. teres uteri",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ligg. vesicouterina, lig. teres uteri",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ligg. pubovesicalia, lig. latum uteri",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ligg. sacrouterina, ligg. cardinalia uteri",
+        "isAnswer": false
+      },
+      {
+        "text": "E. ligg. vesicouterina, ligg. рubovesicalia",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "91",
+    "question": "Які зв'язки матки відносяться до фіксуючого апарату?",
+    "answerOptions": [
+      {
+        "text": "A. ligg. vesicouterina, ligg. рubovesicalia, ligg. cardinalia uteri, ligg. Sacrouterina",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ligg. vesicouterina, lig. teres uteri",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ligg. pubovesicalia, lig. latum uteri",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ligg. sacrouterina, ligg. cardinalia uteri",
+        "isAnswer": false
+      },
+      {
+        "text": "E. ligg. vesicouterina, ligg. рubovesicalia",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "92",
+    "question": "Де внутрішньо-утробно закладається яєчко?",
+    "answerOptions": [
+      {
+        "text": "A. відразу в калитці",
+        "isAnswer": false
+      },
+      {
+        "text": "B. у черевній порожнині на рівні LII-III",
+        "isAnswer": false
+      },
+      {
+        "text": "C. в заочеревному просторі на рівні LII-III",
+        "isAnswer": true
+      },
+      {
+        "text": "D. у порожнині малого тазу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. на верхній фасції сечостатевої діафрагми",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "93",
+    "question": "Куди впадають v. testicularis",
+    "answerOptions": [
+      {
+        "text": "A. права - v.cava inferior, ліва, - v. renalis sin.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. обидві в v.cava inferior",
+        "isAnswer": false
+      },
+      {
+        "text": "C. обидві в v. renalis",
+        "isAnswer": false
+      },
+      {
+        "text": "D. права - v.cava inferior, ліва, - v. ductus deferentis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. права - v.cava inferior, ліва, - v. epigastrica inf.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "94",
+    "question": "Чому варикоцеле розвивається зліва?",
+    "answerOptions": [
+      {
+        "text": "A. справа вищою тиск в v. testicularis",
+        "isAnswer": false
+      },
+      {
+        "text": "B. різний тиск в правій і лівіше v. testicularis",
+        "isAnswer": false
+      },
+      {
+        "text": "C. зліва відсутні клапани у вені",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ліва v. testicularis впадає в v. renalis sin. і не утворює клапана",
+        "isAnswer": true
+      },
+      {
+        "text": "E. зліва вищою тиск в v. testicularis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "95",
+    "question": "Потовщення якої зв'язки хребта носить назва lig. nuchae?",
+    "answerOptions": [
+      {
+        "text": "A. lig. supraspinale",
+        "isAnswer": true
+      },
+      {
+        "text": "B. lig. interspinalia",
+        "isAnswer": false
+      },
+      {
+        "text": "C. lig. flava",
+        "isAnswer": false
+      },
+      {
+        "text": "D. lig. longitudinale ant.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. lig. longitudinale post.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "96",
+    "question": "На скільки стовпів розділяється біла речовина в спинному мозку?",
+    "answerOptions": [
+      {
+        "text": "A. на два",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на три",
+        "isAnswer": true
+      },
+      {
+        "text": "C. на чотири",
+        "isAnswer": false
+      },
+      {
+        "text": "D. у залежності від відділу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "97",
+    "question": "Вкажіть які стовпи виділяють в білій речовині спинного мозку?",
+    "answerOptions": [
+      {
+        "text": "A. передній, задній, бічний",
+        "isAnswer": true
+      },
+      {
+        "text": "B. передній, медіальний, латеральний",
+        "isAnswer": false
+      },
+      {
+        "text": "C. передній, задній",
+        "isAnswer": false
+      },
+      {
+        "text": "D. верхній, середній, нижній",
+        "isAnswer": false
+      },
+      {
+        "text": "E. два бічних, задній",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "98",
+    "question": "Скільки відростків має хребетна дуга?",
+    "answerOptions": [
+      {
+        "text": "A. 3",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 4",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 6",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 7",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 8",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "99",
+    "question": "Вкажіть скільки шийних нервів відходять від спинного мозку ?",
+    "answerOptions": [
+      {
+        "text": "A. 6",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 7",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 8",
+        "isAnswer": true
+      },
+      {
+        "text": "D. 5",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 5-7",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "100",
+    "question": "Які корінці спино-мозкових нервів формують «кінський хвіст»?",
+    "answerOptions": [
+      {
+        "text": "A. L2-S2",
+        "isAnswer": true
+      },
+      {
+        "text": "B. L4-S2",
+        "isAnswer": false
+      },
+      {
+        "text": "C. L1-S2",
+        "isAnswer": false
+      },
+      {
+        "text": "D. L4-S3",
+        "isAnswer": false
+      },
+      {
+        "text": "E. S1-S2",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "101",
+    "question": "Який тиск ліквору в спино-мозковому каналі в сидячому положенні хворого?",
+    "answerOptions": [
+      {
+        "text": "A. 120-150 мм.вод.ст.",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 150-180 мм.вод.ст.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 180-200 мм.вод.ст.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. 200-210 мм.вод.ст.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 100-150 мм.вод.ст.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "102",
+    "question": "Який тиск ліквору в спино-мозковому каналі в лежачому на стороні положенні хворого?",
+    "answerOptions": [
+      {
+        "text": "A. 150-180 мм.вод.ст.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 180-200 мм.вод.ст.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 120-150 мм.вод.ст.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 200-210 мм.вод.ст.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 100-150 мм.вод.ст.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "103",
+    "question": "Чим може ускладнюватися пошкодження венозних сплетень спино-мозкового каналу хребта?",
+    "answerOptions": [
+      {
+        "text": "A. анемією",
+        "isAnswer": false
+      },
+      {
+        "text": "B. тромбозом",
+        "isAnswer": false
+      },
+      {
+        "text": "C. кровотечею",
+        "isAnswer": false
+      },
+      {
+        "text": "D. жировою і повітряною емболією",
+        "isAnswer": true
+      },
+      {
+        "text": "E. гематомою",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "104",
+    "question": "У чому полягає суть операції ламінектомія?",
+    "answerOptions": [
+      {
+        "text": "A. зміна міжхребетного диска",
+        "isAnswer": false
+      },
+      {
+        "text": "B. видалення міжхребетного диска",
+        "isAnswer": false
+      },
+      {
+        "text": "C. видалення тіла хребця",
+        "isAnswer": false
+      },
+      {
+        "text": "D. резекція остистих відростків і дуг відповідних хребців, розкриття хребетного каналу",
+        "isAnswer": true
+      },
+      {
+        "text": "E. відновлення цілісності хребетного каналу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "105",
+    "question": "Що таке капсула Герота ?",
+    "answerOptions": [
+      {
+        "text": "A. навколониркова клітковина",
+        "isAnswer": false
+      },
+      {
+        "text": "B. приниркова клітковина",
+        "isAnswer": false
+      },
+      {
+        "text": "C. зовнішня капсула нирки",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "106",
+    "question": "Яке положення хворого на операційному столі при операціях на нирках?",
+    "answerOptions": [
+      {
+        "text": "A. на спині;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на здоровому боці з підкладеним валиком;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. на животі.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "107",
+    "question": "До якої групи відноситься оперативний доступ до нирки за Бергманом- Ізраєлем?",
+    "answerOptions": [
+      {
+        "text": "A. черезочеревинним;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. комбінованим;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. позаочеревинним.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "108",
+    "question": "Який оперативний доступ переважний для видалення нирки з приводу раки?",
+    "answerOptions": [
+      {
+        "text": "A. комбінований;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. позаочеревинний;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. черезочеревинний.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "109",
+    "question": "Яка послідовність виділення нирки з жирової капсули при нефректомії?",
+    "answerOptions": [
+      {
+        "text": "A. передня поверхня;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. нижній полюс;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. задня поверхня;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. верхній полюс.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді правильні",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "110",
+    "question": "Які показання до операції нефротомії?",
+    "answerOptions": [
+      {
+        "text": "A. чужорідні тіла нирки;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. пухлина нирки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. гломерулонефрит.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "111",
+    "question": "Які показання до операції нефротомії?",
+    "answerOptions": [
+      {
+        "text": "A. пухлина нирки;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. крупний камінь нирки;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. гломерулонефрит.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "112",
+    "question": "Яку операцію виконують при вираженій формі опущення нирки?",
+    "answerOptions": [
+      {
+        "text": "A. нефростомію;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. нефректомію;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. декапсуляцію нирки;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. нефропексію.",
+        "isAnswer": true
+      },
+      {
+        "text": "E. всі відповіді правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "113",
+    "question": "Що таке пієлотомія?",
+    "answerOptions": [
+      {
+        "text": "A. розтин ниркової чашки;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. розтин ниркового сосочка;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. розтин ниркової миски;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. розтин ниркової ніжки.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "114",
+    "question": "Як називається операція розтину сечоводу?",
+    "answerOptions": [
+      {
+        "text": "A. уретротомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. уретеротомія;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. утеротомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. люмботомія.",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "115",
+    "question": "Які вимоги пред'являються до шва сечоводу?",
+    "answerOptions": [
+      {
+        "text": "A. відсутність ниток в просвіті сечоводу;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. використання дворядного шва;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. використання тільки кетгутовой нитки",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "116",
+    "question": "Які вимоги пред'являються до шва сечоводу?",
+    "answerOptions": [
+      {
+        "text": "A. використання тільки кетгутовой нитки",
+        "isAnswer": false
+      },
+      {
+        "text": "B. використання дворядного шва;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. відсутність звуження в області шва.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "117",
+    "question": "Який матеріал може використовуватися для заміщення ділянки сечоводу з метою його пластики?",
+    "answerOptions": [
+      {
+        "text": "A. шкірний клапоть на живлячій ніжці;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. лавсанова трубка;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. клапоть стінки сечового міхура на живлячій ніжці.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "118",
+    "question": "Який матеріал може використовуватися для заміщення ділянки сечоводу з метою його пластики?",
+    "answerOptions": [
+      {
+        "text": "A. шкірний клапоть на живлячій ніжці;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. відрізок тонкої кишки на живлячій ніжці;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. лавсанова трубка.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "119",
+    "question": "Які показання до паранефральної блокади?",
+    "answerOptions": [
+      {
+        "text": "A. проникаючі поранення грудей;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ниркова коліка;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. гострий апендицит;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "120",
+    "question": "Які показання до паранефральної блокади?",
+    "answerOptions": [
+      {
+        "text": "A. проникаючі поранення грудей;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. механічна кишкова непрохідність.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. динамічна кишкова непрохідність;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "121",
+    "question": "Які показання до паранефральної блокади?",
+    "answerOptions": [
+      {
+        "text": "A. проникаючі поранення грудей;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. печінкова коліка;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. механічна кишкова непрохідність.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "122",
+    "question": "У якій точці вводять голку при паранефральній блокаді?",
+    "answerOptions": [
+      {
+        "text": "A. у кутку між XII ребром і зовнішнім краєм m.erector spinae;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. у кутку між Х ребром і зовнішнім краєм m.erector spinae;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. в кутку між XII ребром і краєм m.latissimus dorsi.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "123",
+    "question": "Яким ускладненням може супроводжуватися паранефральна блокада?",
+    "answerOptions": [
+      {
+        "text": "A. пошкодженням легені;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. пошкодженням шлунку;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. пошкодженням нирки;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "124",
+    "question": "Яким ускладненням може супроводжуватися паранефральна блокада?",
+    "answerOptions": [
+      {
+        "text": "A. пошкодженням легені;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. пошкодженням ниркових судин;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. пошкодженням шлунку;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "125",
+    "question": "Яким ускладненням може супроводжуватися паранефральна блокада?",
+    "answerOptions": [
+      {
+        "text": "A. пошкодження висхідної (низхідною) ободової кишки.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. пошкодженням легені;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. пошкодженням шлунку;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "126",
+    "question": "Куди потрапляє голка при правильно виконаній пункції заднього склепіння піхви?",
+    "answerOptions": [
+      {
+        "text": "A. у міхурово-маткове поглиблення;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. у позаду-прямокишковий простір;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. в Дугласово простір.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "127",
+    "question": "Куди потрапляє голка при правильно виконаній пункції заднього склепіння піхви?",
+    "answerOptions": [
+      {
+        "text": "A. у міхурово-маткове поглиблення;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. у матково-ректальне поглиблення;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. в позаду-прямокишковий простір;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "128",
+    "question": "Які показання до пункції заднього склепіння піхви?",
+    "answerOptions": [
+      {
+        "text": "A. гострий апендицит;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. встановлення діагнозу пухлини матки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. визначення выпота в порожнині малого тазу.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "129",
+    "question": "Які показання до пункції заднього склепіння піхви?",
+    "answerOptions": [
+      {
+        "text": "A. підтвердження діагнозу позаматкової вагітності;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. встановлення діагнозу пухлини матки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. гострий апендицит.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "130",
+    "question": "З якою метою виконується операція кольпотомії?",
+    "answerOptions": [
+      {
+        "text": "A. для перев'язки трубної артерії при позаматковій вагітності;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. для видалення гноїть з матково-ректального поглиблення;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. для подальшого видалення яєчника.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "131",
+    "question": "При якій операції проводиться видалення матки разом з придатками, клітковиною і регіонарними лімфовузлами?",
+    "answerOptions": [
+      {
+        "text": "A. резекції;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ампутації;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. екстирпації.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "132",
+    "question": "Яка операція повинна бути виконана при ускладненому полікистозі яєчника?",
+    "answerOptions": [
+      {
+        "text": "A. резекція яєчника;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. оваріектомія.",
+        "isAnswer": true
+      },
+      {
+        "text": "C. пункція яєчника",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "133",
+    "question": "Які показання до пункції сечового міхура?",
+    "answerOptions": [
+      {
+        "text": "A. часте болюче сечовипускання;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. гостра затримка сечі;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. гостра затримка сечі і неможливість виконання катетеризації сечового міхура.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "134",
+    "question": "Які особливості пункції сечового міхура направлені на попередження ускладнень?",
+    "answerOptions": [
+      {
+        "text": "A. прокол на 2 см вищий за симфіз;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. напрям ходу голки під кутом 45° вниз;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. затримка дихання",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "135",
+    "question": "Які особливості пункції сечового міхура направлені на попередження ускладнень?",
+    "answerOptions": [
+      {
+        "text": "A. затримка дихання",
+        "isAnswer": false
+      },
+      {
+        "text": "B. напрям ходу голки під кутом 45° вниз;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. припинення просування голки, після появи сечі з голки.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "136",
+    "question": "Які показання до операції цистостомії?",
+    "answerOptions": [
+      {
+        "text": "A. гостра затримка сечі;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. гострий цистит",
+        "isAnswer": false
+      },
+      {
+        "text": "C. черезміхурове видалення передміхурової залози.",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "137",
+    "question": "Які показання до операції цистостомії?",
+    "answerOptions": [
+      {
+        "text": "A. гостра затримка сечі;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. камені сечового міхура;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. гострий цистит",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "138",
+    "question": "Які показання до операції цистостомії?",
+    "answerOptions": [
+      {
+        "text": "A. гостра затримка сечі;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. гострий цистит",
+        "isAnswer": false
+      },
+      {
+        "text": "C. чужорідні тіла сечового міхура;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "139",
+    "question": "Які цистостому накладають при травмі сечовивідного каналу?",
+    "answerOptions": [
+      {
+        "text": "A. трубчасту;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. постійну;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. губоподібну;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "140",
+    "question": "Які цистостому накладають при травмі сечовивідного каналу?",
+    "answerOptions": [
+      {
+        "text": "A. постійну;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. губоподібну;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. тимчасову",
+        "isAnswer": true
+      },
+      {
+        "text": "D. всі перераховані",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не правильні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "141",
+    "question": "Скільки шарів м’язів виділяють у сідничній ділянці?",
+    "answerOptions": [
+      {
+        "text": "A. три",
+        "isAnswer": true
+      },
+      {
+        "text": "B. два",
+        "isAnswer": false
+      },
+      {
+        "text": "C. один",
+        "isAnswer": false
+      },
+      {
+        "text": "D. чотири",
+        "isAnswer": false
+      },
+      {
+        "text": "E. п’ять",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "142",
+    "question": "Які м’язи утворюють поверхневий шар сідничної ділянки?",
+    "answerOptions": [
+      {
+        "text": "A. m. gluteus max.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. gluteus med., m. gluteus max",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. gluteus max, m. quadratus femoris",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. quadratus femoris . m. gluteus med., m. gluteus max",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. piriformis, mm. gemelli",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "143",
+    "question": "Перерахуйте якими м’язами утворений середній шар сідничної ділянки",
+    "answerOptions": [
+      {
+        "text": "A. m. gluteus med., m. piriformis, m. obturatorius int., mm. gemelli, m. quadratus femoris,",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. gluteus max, m. quadratus femoris",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. obturatorius int., mm. gemelli, m. quadratus femoris",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. quadratus femoris . m. gluteus med., m. gluteus max",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. obturatorius int., mm. gemelli",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "144",
+    "question": "Перерахуйте якими м’язами утворений глибокий шар сідничної ділянки",
+    "answerOptions": [
+      {
+        "text": "A. m. gluteus min., m. obturatorius ext.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. obturatorius int., mm. gemelli",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. gluteus max, m. quadratus femoris",
+        "isAnswer": false
+      },
+      {
+        "text": "D. mm. gemelli, m. quadratus femoris",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. gluteus min.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "145",
+    "question": "Вкажіть через який отвір з порожнини тазу виходить n. ischiadicus?",
+    "answerOptions": [
+      {
+        "text": "A. через for. іnfrapiriforme",
+        "isAnswer": true
+      },
+      {
+        "text": "B. через великий сідничний",
+        "isAnswer": false
+      },
+      {
+        "text": "C. через зовнішній отвір стегнового каналу.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. через for. suprapiriforme",
+        "isAnswer": false
+      },
+      {
+        "text": "E. через малий сідничний.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "146",
+    "question": "Чим обмежений Скарповський трикутник зверху?",
+    "answerOptions": [
+      {
+        "text": "A. lig. Inguinale",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. sartorius",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. ilio-psoas",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. pectineus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. f. latae",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "147",
+    "question": "Які м’язи утворюють дно стегнового трикутника?",
+    "answerOptions": [
+      {
+        "text": "A. m. ilio-psoas, m. pectineus.",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. sartorius, m. pectineus.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. quadratus femoris",
+        "isAnswer": false
+      },
+      {
+        "text": "D. mm. gemelli",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. quadratus femoris, m. sartorius",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "148",
+    "question": "Які анатомічні структури проходять через lacuna vasorum?",
+    "answerOptions": [
+      {
+        "text": "A. а. et v. femoralis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. pudenda int., а. glutea inf.,",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. et v. glutea sup.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. glutea inf., n. pudendus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. n. ischiadicus, n. cutaneus femoris post.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "149",
+    "question": "Чим обмежена lacuna vasorum ззовні?",
+    "answerOptions": [
+      {
+        "text": "A. lig. ilio-pectineum",
+        "isAnswer": true
+      },
+      {
+        "text": "B. lig. Inguinale",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. ilio-psoas",
+        "isAnswer": false
+      },
+      {
+        "text": "D. f. latae",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. et v. femoralis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "150",
+    "question": "Чим обмежена lacuna vasorum медіально?",
+    "answerOptions": [
+      {
+        "text": "A. lig. lacunare (Gimbernati)",
+        "isAnswer": true
+      },
+      {
+        "text": "B. lig. Inguinale",
+        "isAnswer": false
+      },
+      {
+        "text": "C. lig. ilio-pectineum",
+        "isAnswer": false
+      },
+      {
+        "text": "D. f. latae",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. et v. femoralis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "151",
+    "question": "Які анатомічні структури виходять через lacuna musculorum на передню поверхню стегна?",
+    "answerOptions": [
+      {
+        "text": "A. m. ilio-psoas et n. femoralis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. et v. femoralis",
+        "isAnswer": false
+      },
+      {
+        "text": "C. n. pudendus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. n. ischiadicus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. n. cutaneus femoris post",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "152",
+    "question": "Опишіть хід лінії Розера-Нелатона?",
+    "answerOptions": [
+      {
+        "text": "A. від верхньої передньої клубової ості до сідничного горба, через сідничну ділянку;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. від верхньої передньої клубової ості до куприка;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. проведена між правою та лівою верхніми передніми клубовими остями;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. від симфізу до верхівки куприка;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді невірні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "153",
+    "question": "Як зміщується великий вертлюг стегнової кістки при переломах шийки стегна?",
+    "answerOptions": [
+      {
+        "text": "A. зміщується вище лінії Розера-Нелатона;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. зміщується вліво лінії Розера-Нелатона;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. зміщується управо лінії Розера-Нелатона;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. розміщується на лінії Розера-Нелатона;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді невірні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "154",
+    "question": "Який анатомічний утвір розміщується у товщі lig. capitis femoris ?",
+    "answerOptions": [
+      {
+        "text": "A. r. acetabularis від а. obturatoria",
+        "isAnswer": true
+      },
+      {
+        "text": "B. n. obturatorius",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. glutea inferior",
+        "isAnswer": false
+      },
+      {
+        "text": "D. n. gluteus superior",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. profunda femoris",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "155",
+    "question": "Які отвори обмежені крижово-остистою і крижово-горбковою зв'язками?",
+    "answerOptions": [
+      {
+        "text": "A. малий сідничний, великий сідничний;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. затульний, великий сідничний;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. великий сідничний, надгрушовидний;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. надгрушовидний, підгрушовидний;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. підгрушовидний, великий сідничний.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "156",
+    "question": "Чим представлена медіальна стінка стегнового каналу?",
+    "answerOptions": [
+      {
+        "text": "A. стегновою веною;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. стегновою артерією;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. стегновим нервом;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. лакунарною зв'язкою;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. фасціальним футляром стегнової вени.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "157",
+    "question": "Чим представлена передня стінка стегнового каналу?",
+    "answerOptions": [
+      {
+        "text": "A. поверхневим листком широкої фасції;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. стегновою артерією;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. стегновим нервом;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. лакунарною зв'язкою;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. фасціальним футляром стегнової вени.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "158",
+    "question": "Для оперативного лікування поступила хвора, з вправимим випинанням нижче лівої пупартової зв'язки. Діагностована стегнова грижа. Перерахуйте основні елементи грижі?",
+    "answerOptions": [
+      {
+        "text": "A. грижові ворота, грижовий мішок, грижовий вміст;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. грижові ворота, грижовий вміст, гирло грижі;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. грижовий мішок, грижовий вміст;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. грижовий вміст, ущемлююче кільце, грижові ворота;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. Пупартова зв'язка, грижовий мішок, грижовий вміст.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "159",
+    "question": "Які анатомічні утворення обмежують підколінну ямку?",
+    "answerOptions": [
+      {
+        "text": "A. A. сухожилля двоголового м'яза стегна, головки литкового, півсухожилковий і півперетинчастий м'язи;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. B. головки литкового м'яза, задній великогомілковий м'яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. C. півсухожилковий, задній великогомілковий м'язи;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. D. півсухожилковий і півперетинчастий м'язи;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. півсухожилковий м’яз, сухожилля чотириголового м'яза.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "160",
+    "question": "Назвіть нижню проекційну точку сідничного нерва?",
+    "answerOptions": [
+      {
+        "text": "A. середина підколінної ямки;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. горбок медіального виростка стегнової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. латеральний виросток стегнової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. середина відстані між горбистістю великогомілкової кістки і головкою малогомілкової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. точка на 1 см назад від внутрішнього краю великогомілкової кістки вгорі.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "161",
+    "question": "В якому порядку розташовані елементи судинно-нервового пучка в підколінній ямці при розгляді їх ззовні у середину?",
+    "answerOptions": [
+      {
+        "text": "A. нерв, артерія, вена;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. вена, нерв артерія;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. артерія, вена, нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. нерв, вена, артерія;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. вена, артерія, нерв.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "162",
+    "question": "1 З яким нервом проходить верхня ліктьова коллатеральна артерія:",
+    "answerOptions": [
+      {
+        "text": "A. серединним нервом;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ліктьовим нервом;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. променевим нервом;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. м’язово-шкірним нервом;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. заднім нервом плеча.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "163",
+    "question": "На які гілки ділиться глибока артерія плеча?",
+    "answerOptions": [
+      {
+        "text": "A. артерії, які кровопостачають плечову кістку;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. дельтовидна гілка;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. серединна коллатеральна артерія;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. променева коллатеральна артерія;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі вище перераховані",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "164",
+    "question": "Який нерв найбільш часто пошкоджується при переломах хірургічної шийки плеча:",
+    "answerOptions": [
+      {
+        "text": "A. серединний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. променевий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ліктьовий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. м’язово-шкірний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. паховий нерв. 8",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "165",
+    "question": "Який нерв найбільш часто пошкоджується при переломах плечової кістки?",
+    "answerOptions": [
+      {
+        "text": "A. серединний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. променевий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. підм’язовий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. м’язово-шкірний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. ліктьовий нерв.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "166",
+    "question": "Яка форма анастомозів підшкірних вен ліктьової ямки зустрічається частіше?",
+    "answerOptions": [
+      {
+        "text": "A. М-подібна;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. Н-подібна;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. Л-подібна;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. І-подібна",
+        "isAnswer": false
+      },
+      {
+        "text": "E. V-подібна",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "167",
+    "question": "Яка підшкірна вена в ліктьовій ямці не супроводжується шкірним нервом:",
+    "answerOptions": [
+      {
+        "text": "A. медіальна підшкірна вена;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. латеральна підшкірна вена.",
+        "isAnswer": true
+      },
+      {
+        "text": "C. обидві не супроводжуються",
+        "isAnswer": false
+      },
+      {
+        "text": "D. індивідуально",
+        "isAnswer": false
+      },
+      {
+        "text": "E. обидві супроводжуються",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "168",
+    "question": "На якому рівні проходить поділ променевого нерва на глибоку та поверхневу гілки?",
+    "answerOptions": [
+      {
+        "text": "A. на 5-7 см вище шилоподібного відростка ліктьової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на 5-7 см нижче шилоподібного відростка ліктьової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. на рівні шилоподібного відростка ліктьової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. на рівні лінії суглобу.",
+        "isAnswer": true
+      },
+      {
+        "text": "E. на 5 см вище шилоподібного відростка ліктьової кістки",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "169",
+    "question": "Якої форми набуває кисть при паралічі ліктьового нерва?",
+    "answerOptions": [
+      {
+        "text": "A. витягнутої;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. напівзігнутої;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. висячої;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. кігтеподібної;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. зігнутої.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "170",
+    "question": "Вкажіть, який м’яз є орієнтиром для визначення положення судинно-нервового пучка пахвової ямки при відведеній та ротованій назовні кінцівці:",
+    "answerOptions": [
+      {
+        "text": "A. дзьобо-плечовий м’яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. дельтовидний м’яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. великий грудний м’яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. малий грудний м’яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. довга головка двоголового м’яза плеча.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "171",
+    "question": "Вкажіть, які м’язи інтимно зрощені з капсулою ліктьового суглоба:",
+    "answerOptions": [
+      {
+        "text": "A. плечовий м’яз, супінатор;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. плечопроменевий м’яз, супінатор;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ліктьовий м’яз, супінатор;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. круглий пронатор, супінатор;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. променевий згинач зап’ястка .",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "172",
+    "question": "Вкажіть анатомічні утвори, які проходять через канал зап’ястя:",
+    "answerOptions": [
+      {
+        "text": "A. ліктьовий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. променевий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. серединний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. міжкісткова артерія долоні;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. сухожилок поверхневого та глибокого згиначів пальців.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "173",
+    "question": "Назвіть гілки глибокої долонної дуги:",
+    "answerOptions": [
+      {
+        "text": "A. aa. metacarpeae palmares;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. aa. digitales palmares communes;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. princeps pollicis;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. radialis indicis;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. aa. digitales dorsales.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "174",
+    "question": "Вкажіть, яку артерію можна пропальпувати біля латерального краю os pisiformae:",
+    "answerOptions": [
+      {
+        "text": "A. а. ulnaris;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. а. radialis;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ramus carpeus palmaris;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ramus palmaris profundus;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. princeps pollicis.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "175",
+    "question": "Вкажіть гілки першого відрізка пахвової артерії:",
+    "answerOptions": [
+      {
+        "text": "A. підключична артерія;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. артерія, яка огинає лопатку;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. внутрішня грудна артерія;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. латеральна грудна артерія;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. верхня грудна і грудо-акроміальна артерії.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "176",
+    "question": "Вкажіть елементи основного судинно-нервового пучка в ключично-грудинному трикутнику:",
+    "answerOptions": [
+      {
+        "text": "A. стовбури плечового сплетення;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. медіальна підшкірна вена руки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. паховий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. м’язово-шкірний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. пахова артерія.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "177",
+    "question": "Вкажіть елементи основного судинно-нервового пучка в підгрудному трикутнику:",
+    "answerOptions": [
+      {
+        "text": "A. паховий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. латеральна підшкірна вена руки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. м’язово-шкірний нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ліктьовий нерв;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. пахова артерія.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "178",
+    "question": "Де розміщений ліктьовий нерв у середній третині плеча:",
+    "answerOptions": [
+      {
+        "text": "A. позаду підшкірної вени руки;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. медіально від плечової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. назовні від базилярної артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. в піхві двоголового м’яза плеча;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. між плечовою артерією і плечовою веною.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "179",
+    "question": "Де розміщений серединний нерв в середній третині передпліччя:",
+    "answerOptions": [
+      {
+        "text": "A. між поверхневим згиначем пальців і глибоким згиначем пальців;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. між поверхневим згиначем пальців і довгим долонним м’язом;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. між глибоким згиначем пальців і довгим долонним м’язом;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. між глибоким згиначем пальців і квадратним пронатором",
+        "isAnswer": false
+      },
+      {
+        "text": "E. між довгим згиначем великого пальця і круглим пронатором",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "180",
+    "question": "Як проводять оперативний доступ при артротомії плечового суглобу за Лангенбеком:",
+    "answerOptions": [
+      {
+        "text": "A. від акроміального паростка вниз на 8-10 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. по передньому краю дельтовидного м’яза;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. по задньому краю дельтовидного м’яза;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. через дельтовидний м’яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. по дельтовидно-грудній борозні.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "181",
+    "question": "Де проводять пункцію плечового суглоба:",
+    "answerOptions": [
+      {
+        "text": "A. під дзьобовидним відростком;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. латерально від дзьобовидного відростка;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. в ямці між заднім краєм дельтовидного м’яза і краєм надосного м’яза;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. під заднім краєм акроміального відростка;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. над акроміальним відростком.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "182",
+    "question": "Як проводять розрізи при флегмонах піддельтовидного клітковинного простору:",
+    "answerOptions": [
+      {
+        "text": "A. по передньому краю дельтовидного м’яза;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. по задньому краю дельтовидного м’яза;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. через дельтовидний м’яз ближче до його переднього краю;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. по дельтовидно-грудній борозні;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. чітко через середину дельтовидного м’яза.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "183",
+    "question": "Гілки яких нервів приймають доля в інервації променево-зап’ясткового суглоба:",
+    "answerOptions": [
+      {
+        "text": "A. ліктьовий, серединний, променевий",
+        "isAnswer": true
+      },
+      {
+        "text": "B. серединний, променевий",
+        "isAnswer": false
+      },
+      {
+        "text": "C. променевий, м’язово-шкірний;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. м’язово-шкірний;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. паховий.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "184",
+    "question": "На скільки сантиметрів необхідно відступити від шилоподібного відростка променевої кістки при проведенні оперативного доступу в глибокий клітковинний простір Пирогова:",
+    "answerOptions": [
+      {
+        "text": "A. одразу від шилоподібного відростка;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на 0,5 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. на 1 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. на 2 см;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. на 3 см",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "185",
+    "question": "Достатньо чи ні проводити парні бокові розрізи в межах основної фаланги при тендовагінітах І пальця кисті:",
+    "answerOptions": [
+      {
+        "text": "A. так;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ні;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. потрібно провести додатковий розріз.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. залежить від ступеня інфекційного процесу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. залежить від вигляду інфекції",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "186",
+    "question": "Яку форму має припухлість при наявності випоту в синовіальній вагіні сухожилків розгинача пальців?",
+    "answerOptions": [
+      {
+        "text": "A. трикутну;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. без чітких контурів;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. витягнуту;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Н-подібну",
+        "isAnswer": false
+      },
+      {
+        "text": "E. овальну",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "187",
+    "question": "Вкажіть, звідки бере свій початок а. subscapularis?",
+    "answerOptions": [
+      {
+        "text": "A. а. axillaris",
+        "isAnswer": true
+      },
+      {
+        "text": "B. transversae colli",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. circumflexa scapulae",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. thoracodorsalis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. thoracica lateralis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "188",
+    "question": "Вкажіть, в межах якого трикутника розташований перший відрізок а. аxillaris?",
+    "answerOptions": [
+      {
+        "text": "A. ключично-грудинного",
+        "isAnswer": true
+      },
+      {
+        "text": "B. грудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "C. підгрудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ключичного",
+        "isAnswer": false
+      },
+      {
+        "text": "E. піддельтовидного",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "189",
+    "question": "Вкажіть, в межах якого трикутника розташований другий відрізок а. аxillaris?",
+    "answerOptions": [
+      {
+        "text": "A. грудинного",
+        "isAnswer": true
+      },
+      {
+        "text": "B. ключично-грудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "C. підгрудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ключичного",
+        "isAnswer": false
+      },
+      {
+        "text": "E. піддельтовидного",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "190",
+    "question": "Вкажіть в межах якого трикутника розташований третій відрізок а. аxillaris?",
+    "answerOptions": [
+      {
+        "text": "A. підгрудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ключично-грудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "C. грудинного",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ключичного",
+        "isAnswer": false
+      },
+      {
+        "text": "E. піддельтовидного",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "191",
+    "question": "Вкажіть, які судини відходять від а. аxillaris в межах trigonum pectorale?",
+    "answerOptions": [
+      {
+        "text": "A. а. thoracica lateralis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. transversae colli",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. circumflexa scapulae",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. thoracodorsalis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. circumflexa humeri anterior",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "192",
+    "question": "Вкажіть, які судини відходять від а. аxillaris в межах trigonum subpectorale?",
+    "answerOptions": [
+      {
+        "text": "A. а. circumflexa humeri anterior et posterior, а. subscapularis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. transversae colli, а. circumflexa scapulae, а. thoracica lateralis",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. circumflexa scapulae, а. thoracica lateralis",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. thoracodorsalis, а. circumflexa humeri anterior",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. circumflexa humeri anterior",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "193",
+    "question": "Вкажіть, з яких пучкiв складається plexus brachialis?",
+    "answerOptions": [
+      {
+        "text": "A. медіального, латерального, заднього",
+        "isAnswer": true
+      },
+      {
+        "text": "B. медіального, латерального, переднього",
+        "isAnswer": false
+      },
+      {
+        "text": "C. медіального, латерального",
+        "isAnswer": false
+      },
+      {
+        "text": "D. верхнього, медіального, латерального",
+        "isAnswer": false
+      },
+      {
+        "text": "E. нижнього, медіального, латерального",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "194",
+    "question": "Назвіть кінцеві гілки а. subscapularis?",
+    "answerOptions": [
+      {
+        "text": "A. а. circumflexa scapulae, а. thoracodorsalis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. а. transversae colli, а. circumflexa scapulae, а. thoracica lateralis",
+        "isAnswer": false
+      },
+      {
+        "text": "C. а. circumflexa scapulae, а. thoracica lateralis",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. thoracodorsalis, а. circumflexa humeri anterior",
+        "isAnswer": false
+      },
+      {
+        "text": "E. а. circumflexa humeri anterior",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "195",
+    "question": "Вкажіть, які м’язи знаходяться у першому м’язовому шарі передньої поверхні передпліччя?",
+    "answerOptions": [
+      {
+        "text": "A. m.brachio-radialis, m. pronator teres, m. flexor carpi radialis, m. palmaris longus, m. flexor carpi ulnaris",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. flexor digitorum sublimis",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. pronator quadratus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. pronator teres, m. flexor carpi radialis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "196",
+    "question": "Вкажіть? які м’язи знаходяться у другому м’язовому шарі передньої поверхні передпліччя?",
+    "answerOptions": [
+      {
+        "text": "A. m. flexor digitorum sublimis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m.brachio-radialis, m. pronator teres, m. flexor carpi radialis, m. palmaris longus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. pronator quadratus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. flexor carpi ulnaris, m. pronator quadratus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "197",
+    "question": "Вкажіть, які м’язи знаходяться у третьому м’язовому шарі передньої поверхні передпліччя?",
+    "answerOptions": [
+      {
+        "text": "A. m. flexor digitorum sublimis",
+        "isAnswer": false
+      },
+      {
+        "text": "B. m.brachio-radialis, m. pronator teres, m. flexor carpi radialis, m. palmaris longus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": true
+      },
+      {
+        "text": "D. m. pronator quadratus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. flexor carpi ulnaris, m. pronator quadratus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "198",
+    "question": "Вкажіть, які м’язи знаходяться у четвертому м’язовому шарі передньої поверхні передпліччя?",
+    "answerOptions": [
+      {
+        "text": "A. m. flexor digitorum sublimis",
+        "isAnswer": false
+      },
+      {
+        "text": "B. m.brachio-radialis, m. pronator teres, m. flexor carpi radialis, m. palmaris longus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. pronator quadratus",
+        "isAnswer": true
+      },
+      {
+        "text": "E. m. flexor carpi ulnaris, m. pronator quadratus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "199",
+    "question": "Вкажіть, які м’язи передпліччя обмежують sulcus radialis?",
+    "answerOptions": [
+      {
+        "text": "A. m.brachio-radialis, m. flexor carpi radialis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. flexor digitorum sublimis, m. pronator teres",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m.brachio-radialis, m. palmaris longus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. flexor carpi ulnaris, m. pronator quadratus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "200",
+    "question": "Вкажіть? які анатомічні утворення проходять у sulcus radialis?",
+    "answerOptions": [
+      {
+        "text": "A. а. et vv. radialis, r. superficialis n. radialis",
+        "isAnswer": true
+      },
+      {
+        "text": "B. r. superficialis n. radialis, v. cephalica",
+        "isAnswer": false
+      },
+      {
+        "text": "C. v. cephalica, v. basilica",
+        "isAnswer": false
+      },
+      {
+        "text": "D. v. cephalica, v. basilica, n. cutaneus antebrachii medialis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. v. cephalica, v. basilica, n. cutaneus antebrachii lateralis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "201",
+    "question": "Вкажіть, які м’язи передпліччя обмежують sulcus ulnaris?",
+    "answerOptions": [
+      {
+        "text": "A. m. flexor digitorum sublimis, m. flexor carpi ulnaris",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. pronator teres, m. flexor carpi ulnaris",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m.brachio-radialis, m. palmaris longus",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. flexor carpi radialis, m. pronator quadratus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "202",
+    "question": "Який м’яз утворює дно sulcus ulnaris?",
+    "answerOptions": [
+      {
+        "text": "A. m. flexor digitorum profundus",
+        "isAnswer": true
+      },
+      {
+        "text": "B. m. pronator teres",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor pollicis longus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m.brachio-radialis",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. flexor carpi radialis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "203",
+    "question": "Вкажіть? які анатомічні утворення проходять у sulcus ulnaris?",
+    "answerOptions": [
+      {
+        "text": "A. r. superficialis n. ulnaris, v. cephalica",
+        "isAnswer": false
+      },
+      {
+        "text": "B. v. cephalica, v. Basilica",
+        "isAnswer": false
+      },
+      {
+        "text": "C. v. cephalica, v. basilica, n. cutaneus antebrachii medialis",
+        "isAnswer": false
+      },
+      {
+        "text": "D. а. et vv. ulnaris, n. ulnaris",
+        "isAnswer": true
+      },
+      {
+        "text": "E. v. cephalica, v. basilica, n. cutaneus antebrachii lateralis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "204",
+    "question": "Між якими шарами м’язів передпліччя розташований простір Пирогова?",
+    "answerOptions": [
+      {
+        "text": "A. II-III",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ІІІ-IV",
+        "isAnswer": true
+      },
+      {
+        "text": "C. I-II",
+        "isAnswer": false
+      },
+      {
+        "text": "D. IV-V",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді невірні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "205",
+    "question": "Вкажіть зовнішні орієнтири поверхневої артеріальної долонної дуги?",
+    "answerOptions": [
+      {
+        "text": "A. долонно-пальцева борозна",
+        "isAnswer": false
+      },
+      {
+        "text": "B. міжпальцеві борозни",
+        "isAnswer": false
+      },
+      {
+        "text": "C. середина висоти п’ясних кісток",
+        "isAnswer": true
+      },
+      {
+        "text": "D. дистальна третина складки підвищення І пальця",
+        "isAnswer": false
+      },
+      {
+        "text": "E. долонна поперечна борозна",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "206",
+    "question": "Сухожиллям якого м’яза обмежена «анатомічна табакерка» з променевої сторони?",
+    "answerOptions": [
+      {
+        "text": "A. m. abductor pollicis longus, m. extensor pollicis brevis",
+        "isAnswer": false
+      },
+      {
+        "text": "B. m. flexor pollicis longus, m. flexor digitorum profundus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. flexor carpi radialis, m. pronator quadratus",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. pronator teres, m. flexor carpi ulnaris",
+        "isAnswer": false
+      },
+      {
+        "text": "E. m. flexor pollicis longus, m. pronator teres",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "207",
+    "question": "Cухожиллям якого м’яза обмежена «анатомічна табакерка» з ліктьової сторони?",
+    "answerOptions": [
+      {
+        "text": "A. m. flexor pollicis longus",
+        "isAnswer": false
+      },
+      {
+        "text": "B. m. abductor pollicis longus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. m. extensor pollicis brevis",
+        "isAnswer": false
+      },
+      {
+        "text": "D. m. extensor pollicis longus",
+        "isAnswer": true
+      },
+      {
+        "text": "E. m. flexor carpi ulnaris",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "208",
+    "question": "Вкажіть? яка анатомічна структура утворює дно «анатомічної табакерки»?",
+    "answerOptions": [
+      {
+        "text": "A. os hamatum",
+        "isAnswer": false
+      },
+      {
+        "text": "B. os naviculare",
+        "isAnswer": true
+      },
+      {
+        "text": "C. os pisiforme",
+        "isAnswer": false
+      },
+      {
+        "text": "D. os capitatum",
+        "isAnswer": false
+      },
+      {
+        "text": "E. os lunatum",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "209",
+    "question": "Вкажіть? якe кістку можна пропальпувати на дні «анатомічної табакерки»?",
+    "answerOptions": [
+      {
+        "text": "A. os naviculare",
+        "isAnswer": true
+      },
+      {
+        "text": "B. os hamatum",
+        "isAnswer": false
+      },
+      {
+        "text": "C. os pisiforme",
+        "isAnswer": false
+      },
+      {
+        "text": "D. os capitatum",
+        "isAnswer": false
+      },
+      {
+        "text": "E. os lunatum",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "210",
+    "question": "Яку судину притискають в ділянці «анатомічної табакерки»?",
+    "answerOptions": [
+      {
+        "text": "A. а. ulnaris",
+        "isAnswer": false
+      },
+      {
+        "text": "B. v. cephalica",
+        "isAnswer": false
+      },
+      {
+        "text": "C. radialis",
+        "isAnswer": true
+      },
+      {
+        "text": "D. aa. digitales volares",
+        "isAnswer": false
+      },
+      {
+        "text": "E. aa. digitales volares communes",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "211",
+    "question": "Перерахуйте кістки проксимального ряду зап’ястка?",
+    "answerOptions": [
+      {
+        "text": "A. os lunatum, os triquetrum, os pisiforme",
+        "isAnswer": false
+      },
+      {
+        "text": "B. os capitatum, os multangulum majus, os multangulum minus",
+        "isAnswer": false
+      },
+      {
+        "text": "C. os naviculare, os lunatum, os triquetrum, os pisiforme",
+        "isAnswer": true
+      },
+      {
+        "text": "D. os naviculare, os lunatum, os triquetrum",
+        "isAnswer": false
+      },
+      {
+        "text": "E. os multangulum majus, os multangulum minus, os pisiforme",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "212",
+    "question": "Під час ампутації був застосований фасціопластичний спосіб закриття кукси. З яких шарів складається клапоть при фасціопластичному способі закриття кукси?",
+    "answerOptions": [
+      {
+        "text": "A. шкіра, підшкірна клітковина, поверхнева і власна фасції;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. шкіра, підшкірна клітковина, поверхнева фасція;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. шкіра, підшкірна клітковина;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. шкіра, підшкірна клітковина, поверхнева фасція і окістя;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. шкіра, підшкірна клітковина, фасція, сухожилля.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "213",
+    "question": "До якого виду ампутацій відносять ампутацію гомілки за М.І. Пироговим?",
+    "answerOptions": [
+      {
+        "text": "A. конусо-кругова;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. клаптева;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. кістково-пластична;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. двохмоментна кругова;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. фасціопластична.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "214",
+    "question": "Як правильно обробляти кістку та окістя при ампутаціях?",
+    "answerOptions": [
+      {
+        "text": "A. кістка у місці пересікання від’єднується від окістя на протязі 0,5 см;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. кістковий мозок вичищають;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. кістковий мозок не вичищають;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. окістя зміщують донизу;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. окістя циркулярно розсікають вище місця ампутації.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "215",
+    "question": "Як обробляють судини при ампутації?",
+    "answerOptions": [
+      {
+        "text": "A. перев’язують після зняття джгута, на велику судину накладають лігатуру з прошиванням",
+        "isAnswer": true
+      },
+      {
+        "text": "B. перев’язують перед зняттям джгута;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. перев’язують на 1,5-2 см від перерізаного кінця;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. артерію і вену перев’язують разом;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. на велику судину накладають лігатуру з прошиванням.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "216",
+    "question": "Що таке реампутація?",
+    "answerOptions": [
+      {
+        "text": "A. друга за рахунком ампутація;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. ампутація виконана через 48 годин;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ампутація виконана впродовж 7-8 днів;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. кінцева ампутація;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. повторна ампутація.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "217",
+    "question": "Для чого виконується остеосинтез?",
+    "answerOptions": [
+      {
+        "text": "A. для створення оптимального співставлення кісткових уламків;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. для виправлення дефектів шкіри;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. для ручного співставлення кісткових уламків;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. для заміщення дефектів кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. для відновлення дефектів кістки.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "218",
+    "question": "Для чого виконується остеотомія?",
+    "answerOptions": [
+      {
+        "text": "A. для подовження або вкорочення частини кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. для видалення частини кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. для отримання кісткового трансплантата;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. для виправлення деформацій кісток;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. все перераховане.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "219",
+    "question": "Які види остеотомії ви знаєте?",
+    "answerOptions": [
+      {
+        "text": "A. поперечна;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. коса;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. овальна;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. Z - подібна;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі перераховані",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "220",
+    "question": "Які способи з’єднання кісток використовуються у сучасній травматології?",
+    "answerOptions": [
+      {
+        "text": "A. надкістковий;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. внутрішньокістковий;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. аутопластичний;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. позакістковий;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. компресивно-дистракційний.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "221",
+    "question": "Чим відрізняється шов судин за Морозовою від шва за Карелем?",
+    "answerOptions": [
+      {
+        "text": "A. на судини накладають П-подібній шов;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. зближення судин виконують двома швами-трималками;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. інтервал між швами становить 3 мм;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. після прошивання шкірного сегменту основну нитку фіксують ниткою-трималкою;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. використовують інвагінаційні шви.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "222",
+    "question": "Виберіть етапи ампутації стегна за Грітті-Шимановським-Альбрехтом:",
+    "answerOptions": [
+      {
+        "text": "A. викроювання шкірного клаптя на передній поверхні колінного суглоба;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. пересікання власної зв’язки надколінника;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. фіксація надпилу надколінника до стегнової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. відокремлення надколінника;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. закриття опилу шкірно-сухожилковим клаптем.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "223",
+    "question": "Які ускладнення можуть виникнути після ампутації стегна за Грітті-Шимановським-Альбрехтом:",
+    "answerOptions": [
+      {
+        "text": "A. здавлення рубців кукси;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. розходження країв рани;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. втрата функції привідних м’язів;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. сковзання надколінника;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. внутрішньо-стовбуровий крововилив в нерви.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "224",
+    "question": "Для чого використовують артроліз?",
+    "answerOptions": [
+      {
+        "text": "A. для створення анкілозу суглоба;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. для створення умов, які обмежують рухливість суглоба;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. для створення умов для відновлення рухливості суглоба;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. для співставлення кісткових уламків;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. для співставлення суглобових поверхонь.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "225",
+    "question": "Які основні вимоги до проведення судинного шва:",
+    "answerOptions": [
+      {
+        "text": "A. з’єднання судин потрібно проводити з мінімальним звуженням просвіту в місці з’єднання;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. кінці судин повинні з’єднуватися своїми внутрішніми поверхнями;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. кінці судин повинні з’єднуватися кінець в кінець;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. обов’язкова герметичність анастомозів;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. необхідна профілактика утворення тромбів.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "226",
+    "question": "Вкажіть основні етапи секвестректомії:",
+    "answerOptions": [
+      {
+        "text": "A. остеотомія;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. накладання джгута;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. видалення гранульованої тканини і заміщення пластичним матеріалом",
+        "isAnswer": true
+      },
+      {
+        "text": "D. розсічення кістки і окістя;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. тромбування або заміщення порожнини пластичним матеріалом.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "227",
+    "question": "Які абсолютні показники для проведення ампутацій?",
+    "answerOptions": [
+      {
+        "text": "A. травматичний відрив кінцівки",
+        "isAnswer": false
+      },
+      {
+        "text": "B. хронічний остеомієліт кінцівки із загрозою розвитку амілоїдозу внутрішніх органів;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. важка гнійна інфекція, яка загрожує здоров’ю хворобливого(гангрена);",
+        "isAnswer": false
+      },
+      {
+        "text": "D. злоякісні пухлини;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі перераховані",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "228",
+    "question": "Основні етапи ампутації:",
+    "answerOptions": [
+      {
+        "text": "A. розтин м’яких тканин;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. обробка кістки та окістя;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. перев’язка судин та нервів;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. формування кукси;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі перераховані",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "229",
+    "question": "Яка поверхня є робочою при екзартикуляції ІІ пальця кисті",
+    "answerOptions": [
+      {
+        "text": "A. долонна",
+        "isAnswer": true
+      },
+      {
+        "text": "B. тильна;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. променева;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ліктьова;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. бокова.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "230",
+    "question": "Що таке міодез:",
+    "answerOptions": [
+      {
+        "text": "A. зшивання після закінчення ампутації м’язів антагоністів;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. фіксація окремо м’язів згиначів та розгиначів;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. фіксація м’язів згиначів до кісток;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. підшивання м’язів розгиначів до кісток;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зупинка кровотечі шляхом підкладання м’яза.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "231",
+    "question": "З якої поверхні формують клапоть при ампутації нігтьової фаланги пальців кисті:",
+    "answerOptions": [
+      {
+        "text": "A. долонної;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. тильної;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. променевої;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ліктьової;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. задньої.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "232",
+    "question": "Яких правил потрібно дотримуватись при накладанні сухожильного шва:",
+    "answerOptions": [
+      {
+        "text": "A. захоплювати в шов максимальну кількість сухожилкових волокон;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. захоплювати в шов мінімальну кількість сухожилкових волокон;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. не має значення;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. шви повинні проходити в різних площинах сухожилка, для попередження прорізування шовного матеріалу.",
+        "isAnswer": true
+      },
+      {
+        "text": "E. використовувати тільки синтетичний шовний матеріал",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "233",
+    "question": "На якій поверхні має розміщуватися рубець після екзартикуляції фаланг ІІІ- IV пальців кисті:",
+    "answerOptions": [
+      {
+        "text": "A. тильній;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. долонній",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ліктьовій",
+        "isAnswer": false
+      },
+      {
+        "text": "D. променевій",
+        "isAnswer": false
+      },
+      {
+        "text": "E. немає значення",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "234",
+    "question": "На якій поверхні має розміщуватися рубець після екзартикуляції фаланг ІІ пальця кисті:",
+    "answerOptions": [
+      {
+        "text": "A. тильній та ліктьовій",
+        "isAnswer": true
+      },
+      {
+        "text": "B. долонній",
+        "isAnswer": false
+      },
+      {
+        "text": "C. ліктьовій",
+        "isAnswer": false
+      },
+      {
+        "text": "D. променевій",
+        "isAnswer": false
+      },
+      {
+        "text": "E. немає значення",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "235",
+    "question": "При ампутації стегна конусо-круговим способом за Пироговим встановлено, що діаметр кінцівки на рівні ампутації дорівнював 18 см. На якому рівні від рівня ампутації потрібно розсікти поверхневі тканини:",
+    "answerOptions": [
+      {
+        "text": "A. 9 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 12 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 8 см;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 10 см;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. 6 см.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "236",
+    "question": "Довжина півокружності гомілки на рівні ампутації дорівнює 36 см. Яка довжина клаптя при одноклаптевому способі ампутації:",
+    "answerOptions": [
+      {
+        "text": "A. 12;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. 15;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. 18;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 10;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 6.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "237",
+    "question": "Який недолік судинного обвивного циркулярного шва?",
+    "answerOptions": [
+      {
+        "text": "A. шовний матеріал виступає у просвіт судини, що сприяє тромбоутворенню",
+        "isAnswer": true
+      },
+      {
+        "text": "B. складний у виконанні",
+        "isAnswer": false
+      },
+      {
+        "text": "C. не дає повноцінної герметичності",
+        "isAnswer": false
+      },
+      {
+        "text": "D. ускладнюється інфікуванням",
+        "isAnswer": false
+      },
+      {
+        "text": "E. порушує функціонування судинних нервових сплетень",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "238",
+    "question": "Що запропонував А.А. Полянцев при виконанні судинного шва?",
+    "answerOptions": [
+      {
+        "text": "A. наближати кінці судини трьома П-подібними швами, які вивертають стінку судини, після чого накладають обвивний циркулярний шов",
+        "isAnswer": true
+      },
+      {
+        "text": "B. двома П-подібнімі швами зближувати кінці судини, після чого накладати окремі вузлові шви",
+        "isAnswer": false
+      },
+      {
+        "text": "C. одразу накладають обвивний циркулярний безперервний шов на стінку судини",
+        "isAnswer": false
+      },
+      {
+        "text": "D. зшивати стінку судин окремими П-подібними швами",
+        "isAnswer": false
+      },
+      {
+        "text": "E. накладають обвивний циркулярний із захлистуванням шов на стінку судини",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "239",
+    "question": "Чому при ампутаціях кінцівок необхідно променеву кістку на верхній кінцівці або малогомілкову кістку на гомілці пересікати вище, ніж ліктьову та великогомілкову кістки?",
+    "answerOptions": [
+      {
+        "text": "A. тому що вони ростуть швидше, ніж їхні парні кістки",
+        "isAnswer": true
+      },
+      {
+        "text": "B. для того, щоб правильно сформувати куксу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. для кращого протезування у подальшому",
+        "isAnswer": false
+      },
+      {
+        "text": "D. для того, щоб кращий був доступ до судино-нервового пучка",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не вірні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "240",
+    "question": "Продовжіть речення: для кукси нижньої кінцівки робочою поверхнею є",
+    "answerOptions": [
+      {
+        "text": "A. передня поверхня",
+        "isAnswer": true
+      },
+      {
+        "text": "B. задня поверхня",
+        "isAnswer": false
+      },
+      {
+        "text": "C. медіальна поверхня",
+        "isAnswer": false
+      },
+      {
+        "text": "D. латеральна поверхня",
+        "isAnswer": false
+      },
+      {
+        "text": "E. залежить від способу формування кукси",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "241",
+    "question": "З якою швидкістю регенерують аксони нервових стовбурів?",
+    "answerOptions": [
+      {
+        "text": "A. 1мм на добу",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 0,5 мм на добу",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 2 мм на добу",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 0,3-0,5 мм на добу",
+        "isAnswer": false
+      },
+      {
+        "text": "E. 0,2-0,3 мм на добу",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "242",
+    "question": "На який відстані від рівня ампутації кінцівки необхідно пересікати нервові стовбури",
+    "answerOptions": [
+      {
+        "text": "A. 7-8 см",
+        "isAnswer": true
+      },
+      {
+        "text": "B. 2-3 см",
+        "isAnswer": false
+      },
+      {
+        "text": "C. 1-2 см",
+        "isAnswer": false
+      },
+      {
+        "text": "D. 8-10 см",
+        "isAnswer": false
+      },
+      {
+        "text": "E. залежить від виду ампутації",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "243",
+    "question": "При виконанні туалету кукси після ампутації у верхній третині передпліччя, де слід шукати серединний нерв?",
+    "answerOptions": [
+      {
+        "text": "A. між поверхневим і глибоким згиначем пальців;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. у товщі круглого пронатора;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. у товщі плечопроменевого м'яза;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. між променевим і ліктьовим згиначем зап'ястя;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. у товщі поверхневого згинача пальців.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "244",
+    "question": "При туалеті кукси передпліччя де слід шукати променеву артерію?",
+    "answerOptions": [
+      {
+        "text": "A. між поверхневим і глибоким згиначем пальців;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. між глибоким згиначем пальців і довгим згиначем великого пальця;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. між плечопроменевим м'язом і променевим згиначем зап'ястя;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. між поверхневим згиначем пальців і ліктьовим згиначем зап'ястя;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. у товщі круглого пронатора.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "245",
+    "question": "При туалеті кукси передпліччя де слід шукати ліктьову артерію?",
+    "answerOptions": [
+      {
+        "text": "A. між поверхневим і глибоким згиначем пальців;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. між глибоким згиначем пальців і довгим згиначем великого пальця;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. між плечопроменевим м'язом і променевим згиначем зап'ястя;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. між поверхневим згиначем пальців і ліктьовим згиначем зап'ястя;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. у товщі круглого пронатора.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "246",
+    "question": "При туалеті кукси середньої третини передпліччя, де слід шукати серединний нерв?",
+    "answerOptions": [
+      {
+        "text": "A. між поверхневим і глибоким згиначем пальців;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. між глибоким згиначем пальців і довгим згиначем великого пальця;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. між плечопроменевим м'язом і променевим згиначем зап'ястя;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. між поверхневим згиначем пальців і ліктьовим згиначем зап'ястя;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. у товщі круглого пронатора.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "247",
+    "question": "При туалеті кукси середньої третини плеча, де слід шукати серединний нерв?",
+    "answerOptions": [
+      {
+        "text": "A. латерально від плечової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. медіально від плечової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. спереду від плечової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. позаду від плечової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зазвичай попереду, рідше позаду від плечової артерії.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "number": "248",
+    "question": "Між якими м'язами розташовується м'язово-шкірний нерв на плечі?",
+    "answerOptions": [
+      {
+        "text": "A. між мм. coracobrachialis et brachialis;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. між двоголовим і плечовим;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. між двоголовим і триголовим;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. між двоголовим і дзьобовидно-плечовим;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. між триголовим і плечовим.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "249",
+    "question": "Де слід шукати променевий нерв на плечі при туалеті кукси?",
+    "answerOptions": [
+      {
+        "text": "A. у задньому відділі між плечовою кісткою і трицепсом;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. між двоголовим і триголовим м'язами плеча з медіального боку;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. між двоголовим і триголовим м'язами плеча з латерального боку;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. у товщі плечопроменевого м'яза;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. у товщі трицепса.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "250",
+    "question": "Де слід шукати на поперечному зрізі середньої третини стегна сідничий нерв при туалеті кукси?",
+    "answerOptions": [
+      {
+        "text": "A. під напівсухожильним м'язом;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. під напівперетинчастим м'язом;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. спереду від довгої головки двоголового м'яза стегна;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. на задній поверхні стегнової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. між напівсухожильним і напівперетинчастим м'язами.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "251",
+    "question": "Де слід шукати n. saphenus при туалеті кукси середньої третини стегна?",
+    "answerOptions": [
+      {
+        "text": "A. ззаду від стегнової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. спереду від стегнової артерії;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. латерально від стегнової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. медіально від стегнової артерії;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. можливі всі варіанти.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "252",
+    "question": "Що можна використовувати як орієнтир для пошуку елементів судинно-нервових пучків переднього відділу гомілки?",
+    "answerOptions": [
+      {
+        "text": "A. малогомілкову кістку;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. медіальний край великогомілкової кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. міжкісткову мембрану;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. передній великогомілковий м'яз;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. задній великогомілковий м'яз.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "253",
+    "question": "Як розраховують довжину клаптів при клаптевій ампутації?",
+    "answerOptions": [
+      {
+        "text": "A. по формулі площі круга;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. по формулі довжини кола;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. клапті свідомо викроюють із запасом, а моделювання кукси проводять в кінці операції;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. по формулі довжини кола з урахуванням скоротливості шкіри;",
+        "isAnswer": true
+      },
+      {
+        "text": "E. по форму площі круга з урахуванням скоротливості шкіри.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "254",
+    "question": "Що потрібно зробити після кругового розтину окістя на рівні ампутації при використанні трансперіостального способу її обробки?",
+    "answerOptions": [
+      {
+        "text": "A. зчистити окістя проксимально на 5-10 мм;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. зчистити окістя дистально;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. зчистити окістя проксимально і сформувати манжету для подальшого закриття опилу кістки;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. зчистити окістя дистально на 1 мм;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. зчистити окістя проксимально, наскільки можливо.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "255",
+    "question": "Як завжди слід встановлювати лезо пили по відношенню до осі кістки при ампутації?",
+    "answerOptions": [
+      {
+        "text": "A. перпендикулярно;",
+        "isAnswer": true
+      },
+      {
+        "text": "B. під кутом 30°;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. під кутом 60°;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. під кутом 45°;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. визначається видом ампутації.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "256",
+    "question": "Для чого усікають кінці нервів при туалеті кукси?",
+    "answerOptions": [
+      {
+        "text": "A. для запобігання розвитку невроми;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. для запобігання розвитку фантомних болей унаслідок компресії невроми в післяопераційному рубці;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. для попередження розвитку каузалгії;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. для того, щоб зменшити розміри невроми;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. для поліпшення загоєння рани.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "257",
+    "question": "Де бажане розташування післяопераційного рубця після завершенні всіх етапів ампутації?",
+    "answerOptions": [
+      {
+        "text": "A. на робочій поверхні;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на неробочій поверхні;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. на поверхні з найміцнішою шкірою;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. розташування рубця не має значення для протезування;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. на кінці кукси.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "258",
+    "question": "В чому полягають особливості руху рашпілем для підрівнювання країв опила кістки?",
+    "answerOptions": [
+      {
+        "text": "A. рухи повинні бути направлені від центру поперечного зрізу до периферії;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. для виключення відшарування окістя рухи повинні бути направлені від периферії до центру;",
+        "isAnswer": true
+      },
+      {
+        "text": "C. напрями рухів не мають істотного значення;",
+        "isAnswer": false
+      },
+      {
+        "text": "D. рухи повинні бути направлені зверху вниз;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. рухи повинні бути направлені знизу вверх.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "259",
+    "question": "Який вид ампутації частіше використовують в «хірургії катастроф»?",
+    "answerOptions": [
+      {
+        "text": "A. клаптеву;",
+        "isAnswer": false
+      },
+      {
+        "text": "B. кістковопластичну;",
+        "isAnswer": false
+      },
+      {
+        "text": "C. кругову;",
+        "isAnswer": true
+      },
+      {
+        "text": "D. ампутації з манжетою;",
+        "isAnswer": false
+      },
+      {
+        "text": "E. фасціальнопластичну.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "260",
+    "question": "Де повинен розташовуватися рубець при ампутації фаланг III-IV пальців кисті клаптевими способами?",
+    "answerOptions": [
+      {
+        "text": "A. на латеральній поверхні пальця.",
+        "isAnswer": false
+      },
+      {
+        "text": "B. на медіальній поверхні пальця.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. на долонній поверхні пальця.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. на тильній поверхні пальця.",
+        "isAnswer": true
+      },
+      {
+        "text": "E. на долонно-медіальній поверхні",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "number": "261",
+    "question": "Яке співвідношення розмірів клаптів при ампутації фаланг пальців кисті клаптевим способом?",
+    "answerOptions": [
+      {
+        "text": "A. великий тильний і короткий долонний.",
+        "isAnswer": false
+      },
+      {
+        "text": "B. великий долонний і короткий тильний.",
+        "isAnswer": false
+      },
+      {
+        "text": "C. однакових розмірів.",
+        "isAnswer": false
+      },
+      {
+        "text": "D. всі відповіді вірні",
+        "isAnswer": false
+      },
+      {
+        "text": "E. всі відповіді не вірні",
+        "isAnswer": false
+      }
+    ]
+  }
+]
