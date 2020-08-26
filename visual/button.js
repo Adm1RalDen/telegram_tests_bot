@@ -4,7 +4,6 @@ const Extra = require('telegraf/extra')
 
 module.exports = {
     createMultiButton: (texts, isMain) => {
-        ;
         return Markup.inlineKeyboard([...texts.map((el, idx) =>
             [Markup.callbackButton(
                 el.title,

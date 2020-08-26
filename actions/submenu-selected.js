@@ -26,7 +26,6 @@ module.exports = async ctx => {
         }
     }
     try {
-        //TODO write test in database 
         try {
             test = fs.readFileSync(`./tests/test-${data.p}.json`, 'utf8');
             test = JSON.parse(test)
@@ -37,7 +36,7 @@ module.exports = async ctx => {
             })
             return undefined;
         }
-        //TODO
+        
         let currentUserData
         await database.getDataList('users/' + ctx.update.callback_query.from.id).then(elem => currentUserData = elem)
         // console.log(currentUserData)
